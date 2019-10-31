@@ -1,18 +1,18 @@
-# <center> THE CONSTITUTION OF INDIA  </center>
----
-## <center> CONTENTS </center>
----
+# <p align="center"> THE CONSTITUTION OF INDIA </p>
+
+## <p align="center"> CONTENTS </p>
+
 PREAMBLE  
-### <center> PART I  </center>
-#### <center> THE UNION AND ITS TERRITORY  </center>
+### <p align="center"> PART I  </p>
+#### <p align="center"> THE UNION AND ITS TERRITORY  </p>
 ARTICLES  
 1. Name and territory of the Union.  
 2. Admission or establishment of new States.  
 2A.    [Omitted.]  
 3. Formation of new States and alteration of areas, boundaries or names of existing  States.  
 4. Laws  made  under  articles  2  and  3  to  provide  for  the  amendment  of  the  First  and  the  Fourth Schedules and supplemental, incidental and consequential matters.  
-### <center> PART II </center>
-#### <center> CITIZENSHIP  </center>
+### <p align="center"> PART II </p>
+#### <p align="center"> CITIZENSHIP  </p>
 5. Citizenship at the commencement of the Constitution.  
 6. Rights of citizenship of certain persons who have migrated to India from Pakistan.  
 7. Rights of citizenship of certain migrants to Pakistan.  
@@ -20,47 +20,47 @@ ARTICLES
 9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.  
 10. Continuance of the rights of citizenship.  
 11. Parliament to regulate the right of citizenship by law.  
-### <center> PART III  </center>  
-#### <center> FUNDAMENTAL RIGHTS </center>  
-##### <center> *General* </center>  
+### <p align="center"> PART III  </p>  
+#### <p align="center"> FUNDAMENTAL RIGHTS </p>  
+##### <p align="center"> *General* </p>  
 12. Definition.  
 13. Laws inconsistent with or in derogation of the fundamental rights.  
-##### <center>  *Right to Equality* </center>  
+##### <p align="center">  *Right to Equality* </p>  
 14. Equality before law.  
 15. Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.  
 16. Equality of opportunity in matters of public employment.   
 17. Abolition of Untouchability.  
 18. Abolition of titles.  
-##### <center>  *Right to Freedom* </center>  
+##### <p align="center">  *Right to Freedom* </p>  
 19. Protection of certain rights regarding freedom of speech, etc.  
 20. Protection in respect of conviction for offences.  
 21. Protection of life and personal liberty.  
 21A. Right to education.  
 22. Protection against arrest and detention in certain cases.  
-##### <center>  *Right against Exploitation* <center>
+##### <p align="center">  *Right against Exploitation* <p align="center">
 23. Prohibition of traffic in human beings and forced labour.  
 24. Prohibition of employment of children in factories, etc.  
-##### <center>  *Right to  Freedom of Religion* <center>
+##### <p align="center">  *Right to  Freedom of Religion* <p align="center">
 25. Freedom of conscience andfree profession, practice and propagation of religion.  
 26. Freedom to manage religious affairs.  
 27. Freedom as to payment of taxes for promotion of any particular religion.  
 28. Freedom  as  to  attendance  at  religious  instruction  or  religious  worship  in certain  educational institutions.  
-##### <center>  *Cultural and Educational Rights* <center> 
+##### <p align="center">  *Cultural and Educational Rights* <p align="center"> 
 29. Protection of interests of minorities.  
 30. Right of minorities to establish and administer educational institutions.  
 31. [Omitted.]
-##### <center>  *Saving of Certain Laws* <center> 
+##### <p align="center">  *Saving of Certain Laws* <p align="center"> 
 31A. Saving of Laws providing for acquisition of estates, etc.  
 31B. Validation of certain Acts and Regulations.31C. Saving of laws giving effect to certain directive principles.  
 31D. [Omitted.]  
-##### <center>  *Right to Constitutional Remedies* <center> 
+##### <p align="center">  *Right to Constitutional Remedies* <p align="center"> 
 32. Remedies for enforcement of rights conferred by this Part.  
 32A. [Omitted.]  
 33. Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.  
 34. Restriction on rights conferred by this Part while martial law is in force in any area.  
 35. Legislation to give effect to the provisions of this Part.  
-### <center> PART IV  </center>  
-#### <center> DIRECTIVE PRINCIPLES OF STATE POLICY </center>  
+### <p align="center"> PART IV  </p>  
+#### <p align="center"> DIRECTIVE PRINCIPLES OF STATE POLICY </p>  
 36. Definition.  
 37. Application of the principles contained in this Part.  
 38. State to secure a social order for the promotion of welfare of the people.  
@@ -80,13 +80,13 @@ ARTICLES
 49. Protection of monuments and places and objects of national importance.  
 50. Separation of judiciary from executive.  
 51. Promotion of international peace and security.  
-### <center> PART IV A  </center>
-#### <center> FUNDAMENTAL DUTIES </center>  
+### <p align="center"> PART IV A  </p>
+#### <p align="center"> FUNDAMENTAL DUTIES </p>  
 51A. Fundamental duties.  
-### <center> PART V </center>  
-#### <center> THE UNION </center> 
-#### <center> CHAPTER I THE EXECUTIVE </center> 
-##### <center> *The President and Vice-President* </center> 
+### <p align="center"> PART V </p>  
+#### <p align="center"> THE UNION </p> 
+#### <p align="center"> CHAPTER I THE EXECUTIVE </p> 
+##### <p align="center"> *The President and Vice-President* </p> 
 52. The President of India.   
 53. Executive power of the Union.  
 54. Election of President.  
@@ -108,16 +108,16 @@ ARTICLES
 70. Discharge of President’s functions in other contingencies.71.Matters relating to, or connected with, the election of a President or Vice-President.  
 72. Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.
 73. Extent of executive power of the Union.
-##### <center> *Council of Ministers* </center>  
+##### <p align="center"> *Council of Ministers* </p>  
 74. Council of Ministers to aid and advise President.  
 75. Other provisions as to Ministers.
-##### <center> *The Attorney-General for India* </center>  
+##### <p align="center"> *The Attorney-General for India* </p>  
 76. Attorney-General for India.
-##### <center> *Conduct of Government Business* </center>  
+##### <p align="center"> *Conduct of Government Business* </p>  
 77. Conduct of business of the Government of India.  
 78. Duties of Prime Minister as respects the furnishing of information to the President, etc.
-#### <center> CHAPTER  II. PARLIAMENT </center>  
-##### <center> *General* </center>  
+#### <p align="center"> CHAPTER  II. PARLIAMENT </p>  
+##### <p align="center"> *General* </p>  
 79. Constitution of Parliament.  
 80. Composition of the Council of States.  
 81. Composition of the House of the People.  
@@ -128,7 +128,7 @@ ARTICLES
 86. Right of President to address and send messages to Houses.  
 87. Special address by the President.  
 88. Rights of Ministers and Attorney-General as respects Houses.
-##### <center> *Officers of Parliament* </center>  
+##### <p align="center"> *Officers of Parliament* </p>  
 89. The Chairman and Deputy Chairman of the Council of States.  
 90. Vacation and resignation of, and removal from, the office of Deputy Chairman.  
 91. Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.
@@ -141,36 +141,36 @@ ARTICLES
 98. Secretariat of Parliament.Conduct of Business  
 99. Oath or affirmation by members.  
 100. Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.
-##### <center> *Disqualifications of Members* </center> 
+##### <p align="center"> *Disqualifications of Members* </p> 
 101. Vacation of seats.  
 102. Disqualifications for membership.  
 103. Decision on questions as to disqualifications of members.  
 104. Penalty  for  sitting  and  voting  before  making  oath  or  affirmation  under  article  99  or  when  not qualified or when disqualified.  
-##### <center> *Powers, Privileges and Immunities of Parliament and its Members* </center> 
+##### <p align="center"> *Powers, Privileges and Immunities of Parliament and its Members* </p> 
 105. Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.  
 106. Salaries and allowances of members.
-##### <center> *Legislative Procedure* </center>  
+##### <p align="center"> *Legislative Procedure* </p>  
 107. Provisions as to introduction and passing of Bills.  
 108. Joint sitting of both Houses in certain cases.  
 109. Special procedure in respect of Money Bills.  
 110. Definition of “Money Bills”.  
 111.  Assent to Bills.
-##### <center> *Procedure in Financial Matters* </center>  
+##### <p align="center"> *Procedure in Financial Matters* </p>  
 112. Annual financial statement.  
 113. Procedure in Parliament with respect to estimates.  
 114. Appropriation Bills.  
 115. Supplementary, additional or excess grants.  
 116. Votes on account, votes of credit and exceptional grants.  
 117. Special provisions as to financial Bills.
-##### <center> *Procedure Generally* </center>  
+##### <p align="center"> *Procedure Generally* </p>  
 118. Rules of procedure. 
 119. Regulation by law of procedure in Parliament in relation to financial business.  
 120. Language to be used in Parliament.  
 121. Restriction on discussion in Parliament.  
 122. Courts not to inquire into proceedings of Parliament.
-#### <center> CHAPTER III. LEGISLATIVE  POWERS OF THE PRESIDENT </center>  
+#### <p align="center"> CHAPTER III. LEGISLATIVE  POWERS OF THE PRESIDENT </p>  
 123. Power of President to promulgate Ordinances during recess of  Parliament.  
-#### <center> CHAPTER IV. THE UNION JUDICIARY </center> 
+#### <p align="center"> CHAPTER IV. THE UNION JUDICIARY </p> 
 124. Establishment and constitution of Supreme Court.  
 124A. National Judicial Appointments Commission.  
 124B. Functions of Commission.  
@@ -200,15 +200,15 @@ ARTICLES
 145. Rules of Court, etc.  
 146. Officers and servants and the expenses of the Supreme Court.  
 147. Interpretation.  
-#### <center> CHAPTER V. COMPTROLLER AND AUDITOR-GENERAL OF INDIA </center>
+#### <p align="center"> CHAPTER V. COMPTROLLER AND AUDITOR-GENERAL OF INDIA </p>
 148. Comptroller and Auditor-General of India.149.Duties and powers of the Comptroller and Auditor-General.  
 150. Form of accounts of the Union and of the States.  
 151. Audit reports.  
-### <center> PART VI THE STATES  </center>  
-#### <center> CHAPTER I. GENERAL </center> 
+### <p align="center"> PART VI THE STATES  </p>  
+#### <p align="center"> CHAPTER I. GENERAL </p> 
 152. Definition.
-#### <center> CHAPTER II. THE EXECUTIVE  </center>
-##### <center> *The Governor* </center>
+#### <p align="center"> CHAPTER II. THE EXECUTIVE  </p>
+##### <p align="center"> *The Governor* </p>
 153. Governors of States.  
 154. Executive power of State.  
 155. Appointment of Governor.  
@@ -219,16 +219,16 @@ ARTICLES
 160. Discharge of the functions of the Governor in certain contingencies.  
 161. Power of Governor to grant pardons, etc.,and to suspend, remit or commute sentences in certain cases.  
 162. Extent of executive power of State.  
-##### <center> *Council of Ministers* </center>
+##### <p align="center"> *Council of Ministers* </p>
 163. Council of Ministers to aid and advise Governor.  
 164. Other provisions as to Ministers.  
-##### <center> *The Advocate-General for the State* </center>
+##### <p align="center"> *The Advocate-General for the State* </p>
 165. Advocate-General for the State.  
-##### <center> *Conduct of Government Business* </center> 
+##### <p align="center"> *Conduct of Government Business* </p> 
 166. Conduct of business of the Government of a State.  
 167. Duties of Chief Minister as respects the furnishing of information to Governor, etc.  
-#### <center> CHAPTER III. THE STATE LEGISLATURE  </center>
-##### <center> *General* </center>
+#### <p align="center"> CHAPTER III. THE STATE LEGISLATURE  </p>
+##### <p align="center"> *General* </p>
 168. Constitution of Legislatures in States.  
 169. Abolitionor creation of Legislative Councils in States.  
 170. Composition of the Legislative Assemblies.  
@@ -239,7 +239,7 @@ ARTICLES
 175. Right of Governor to address and send messages to the House or Houses.  
 176. Special address by the Governor.  
 177. Rights of Ministers and Advocate-General as respects the Houses.
-##### <center> *Officers of the State Legislature* </center>
+##### <p align="center"> *Officers of the State Legislature* </p>
 178. The Speaker and Deputy Speaker of the Legislative Assembly.  
 179. Vacation and resignation of, and removal from, the offices of Speaker  and Deputy Speaker.  
 180. Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.  
@@ -250,39 +250,39 @@ ARTICLES
 185. The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.  
 186. Salaries  and  allowances  of  the  Speaker  and  Deputy  Speaker  and  the  Chairman  and  Deputy Chairman.  
 187. Secretariat of State Legislature.  
-##### <center> *Conduct of Business* </center>  
+##### <p align="center"> *Conduct of Business* </p>  
 188. Oath or affirmation by members.  
 189. Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.  
-##### <center> *Disqualifications of Members* </center>  
+##### <p align="center"> *Disqualifications of Members* </p>  
 190. Vacation of seats.  
 191. Disqualifications for membership.  
 192. Decision on questions as to disqualifications of members.  
 193. Penalty  for  sitting  and  voting  before  making  oath  or  affirmation  under  article  188  or  when  not qualified or when disqualified.
-##### <center> *Powers, privileges and immunities of State Legislatures and their Members* </center>  
+##### <p align="center"> *Powers, privileges and immunities of State Legislatures and their Members* </p>  
 194. Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof.  
 195. Salaries and allowances of members.
-##### <center> *Legislative Procedure* </center>
+##### <p align="center"> *Legislative Procedure* </p>
 196. Provisions as to introduction and passing of Bills.  
 197. Restriction on powers of Legislative Council as to Bills other than Money Bills.  
 198. Special procedure in respect of Money Bills.  
 199. Definition of “Money Bills”.  
 200. Assent to Bills.  
 201. Bills reserved for consideration.
-##### <center> *Procedure in Financial Matters* </center>  
+##### <p align="center"> *Procedure in Financial Matters* </p>  
 202. Annual financial statement.  
 203. Procedure in Legislature with respect to estimates.  
 204. Appropriation Bills.205.Supplementary, additional or excess grants.  
 206. Votes on account, votes of credit and exceptional grants.  
 207. Special provisions as to financial Bills.
-##### <center> *Procedure Generally* </center>
+##### <p align="center"> *Procedure Generally* </p>
 208. Rules of procedure.  
 209. Regulation by law of procedure in the Legislature of the State in relation to financial business.  
 210. Language to be used in the Legislature.  
 211. Restriction on discussion in the Legislature.  
 212. Courts not to inquire into proceedings of the Legislature.
-#### <center> CHAPTER IV. LEGISLATIVE  POWER OF THE GOVERNOR  </center>
+#### <p align="center"> CHAPTER IV. LEGISLATIVE  POWER OF THE GOVERNOR  </p>
 213. Power of Governor to promulgate Ordinances during recess of Legislature.
-#### <center> CHAPTER V. THE  HIGH COURTS IN THE STATES  </center>
+#### <p align="center"> CHAPTER V. THE  HIGH COURTS IN THE STATES  </p>
 214. High Courts for States.  
 215. High Courts to be courts of record.  
 216. Constitution of High Courts.
@@ -304,7 +304,7 @@ ARTICLES
 229. Officers and servants and the expenses of High Courts.  
 230. Extension of jurisdiction of High Courts to Union territories.  
 231. Establishment of a common High Court for two or more States.  
-#### <center> CHAPTER VI SUBORDINATE COURTS  </center>  
+#### <p align="center"> CHAPTER VI SUBORDINATE COURTS  </p>  
 233. Appointment of district judges.  
 233A. Validation of appointments of, and judgments, etc., delivered by, certain district judges.  
 234. Recruitment of persons other than district judges to the judicial service.235.Control over subordinate courts.  
@@ -313,8 +313,8 @@ ARTICLES
 PART VII-[Omitted]  
 THE STATES IN PART B OF THE FIRST SCHEDULE  
 238.[Omitted.]  
-### <center> PART VIII </center>
-#### <center> THE UNION TERRITORIES </center>
+### <p align="center"> PART VIII </p>
+#### <p align="center"> THE UNION TERRITORIES </p>
 239. Administration of Union territories.  
 239A. Creation of local Legislatures or Council of Ministers or both for certain Union territories.  
 239AA. Special provisions with respect to Delhi.  
@@ -323,8 +323,8 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 240. Power of President to make regulations for certain Union territories.  
 241. High Courts for Union territories.  
 242.[Omitted.]  
-### <center> PART IX </center>
-#### <center> THE PANCHAYATS <center>
+### <p align="center"> PART IX </p>
+#### <p align="center"> THE PANCHAYATS <p align="center">
 243. Definitions.  
 243A. Gram Sabha.
 243B. Constitution of Panchayats.  
@@ -341,8 +341,8 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 243M. Part not to apply to certain areas.  
 243N. Continuance of existing laws and Panchayats.  
 243-O. Bar to interference by courts in electoral matters.  
-### <center> PART IX A </center>
-#### <center> THE MUNICIPALITIES </center>
+### <p align="center"> PART IX A </p>
+#### <p align="center"> THE MUNICIPALITIES </p>
 243P. Definitions.  
 243Q. Constitution of Municipalities.  
 243R. Composition of Municipalities.  
@@ -357,8 +357,8 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 243ZE.Committee for Metropolitan planning.  
 243ZF. Continuance of existing laws and Municipalities.  
 243ZG.Bar to interference by courts in electoral matters.
-### <center> PART IX B </center>
-#### <center> THE CO-OPERATIVE SOCIETIES </center>
+### <p align="center"> PART IX B </p>
+#### <p align="center"> THE CO-OPERATIVE SOCIETIES </p>
 243ZH. Definitions.  
 243Z-I. Incorporation of co-operative societies.  
 243ZJ. Number and term of members of board and its office bearers.  
@@ -371,13 +371,13 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 243ZR. Application to multi-State co-operative societies.  
 243ZS. Application to Union territories.  
 243ZT. Continuance of existing laws.
-### <center> PART X THE SCHEDULED AND TRIBAL AREAS </center>
+### <p align="center"> PART X THE SCHEDULED AND TRIBAL AREAS </p>
 244. Administration of Scheduled Areas and Tribal Areas.  
 244A. Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor.  
-### <center> PART XI </center>
-#### <center> RELATIONS BETWEEN THE UNION AND THE STATES </center>
-#### <center> CHAPTER I. LEGISLATIVE  RELATIONS  </center>
-##### <center> *Distribution of Legislative Powers* </center> 
+### <p align="center"> PART XI </p>
+#### <p align="center"> RELATIONS BETWEEN THE UNION AND THE STATES </p>
+#### <p align="center"> CHAPTER I. LEGISLATIVE  RELATIONS  </p>
+##### <p align="center"> *Distribution of Legislative Powers* </p> 
 245. Extent of laws made by Parliament and by the Legislatures of States.  
 246. Subject-matter of laws made by Parliament and by the Legislatures of States.  
 247. Power of Parliament to provide for the establishment of certain additional courts.  
@@ -389,8 +389,8 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 253. Legislation for giving effect to international agreements.  
 254. Inconsistency between lawsmade by Parliament and laws made by the Legislatures of States.  
 255. Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only.
-#### <center> CHAPTER II. ADMINISTRATIVE RELATIONS </center>
-##### <center> *General* </center>
+#### <p align="center"> CHAPTER II. ADMINISTRATIVE RELATIONS </p>
+##### <p align="center"> *General* </p>
 256. Obligation of States and the Union.  
 257. Control of the Union over States in certain cases.
 257A. [Omitted.]  
@@ -401,9 +401,9 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 261. Public acts, records and judicial proceedings.Disputes relating to Waters  
 262. Adjudication of disputes relating to waters of  inter-State rivers or river valleys.Co-ordination between States  
 263. Provisions with respect to an inter-State Council. 
-### <center> PART XII FINANCE, PROPERTY, CONTRACTS AND SUITS </center> 
-#### <center> CHAPTER I. FINANCE <center>
-##### <center> *General* </center>
+### <p align="center"> PART XII FINANCE, PROPERTY, CONTRACTS AND SUITS </p> 
+#### <p align="center"> CHAPTER I. FINANCE <p align="center">
+##### <p align="center"> *General* </p>
 264. Interpretation.  
 265. Taxes not to be imposed save by authority of law.  
 266. Consolidated Funds and publicaccounts of India and of the States.  
@@ -434,20 +434,20 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 290. Adjustment in respect of certain expenses and pensions.  
 290A. Annual payment to certain Devaswom Funds.  
 291. [Omitted.]
-#### <center> CHAPTER II. BORROWING  </center>
+#### <p align="center"> CHAPTER II. BORROWING  </p>
 292. Borrowing by the Government of India.  
 293. Borrowing by States.  
-#### <center> CHAPTER III. PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS </center>  
+#### <p align="center"> CHAPTER III. PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS </p>  
 294. Succession to property, assets, rights, liabilities and obligations in certain cases.  
 295. Succession to property, assets, rights, liabilities and obligations in other cases.  
 296. Property accruing by escheat or laps or as bona vacantia.  
 297. Things  of  value  within  territorial  waters  or  continental  shelf  and  resources  of  the  exclusive economic zone to vest in the Union.  
 298. Power to carry on trade, etc.299.Contracts.  
 300. Suits and proceedings.  
-#### <center> CHAPTER IV. RIGHT TO PROPERTY </center>
+#### <p align="center"> CHAPTER IV. RIGHT TO PROPERTY </p>
 300A. Persons not to be deprived of property save by authority of law.  
-### <center> PART XIII </center>
-#### <center> TRADE, COMMERCE AND INTERCOURSE WITHIN THETERRITORY OF INDIA  </center>
+### <p align="center"> PART XIII </p>
+#### <p align="center"> TRADE, COMMERCE AND INTERCOURSE WITHIN THETERRITORY OF INDIA  </p>
 301. Freedom of trade, commerce and intercourse.  
 302. Power of Parliament to impose restrictions on trade, commerce and intercourse.  
 303. Restrictions  on  the  legislative  powers  of  the  Union  and  of  the  States  with  regard  to  trade  and commerce.  
@@ -455,9 +455,9 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 305. Saving of existing laws and laws providing for State monopolies.  
 306. [Omitted.]  
 307. Appointment of authority for carrying out the purposes of articles 301 to 304.  
-### <center> PART XIV </center>
-#### <center> SERVICES UNDER THE UNION AND THE STATES </center>
-#### <center> CHAPTER I. SERVICES </center> 
+### <p align="center"> PART XIV </p>
+#### <p align="center"> SERVICES UNDER THE UNION AND THE STATES </p>
+#### <p align="center"> CHAPTER I. SERVICES </p> 
 308. Interpretation.  
 309. Recruitment and conditions of service of persons serving the Union or a State.  
 310. Tenure of office of persons serving the Union or a State.  
@@ -466,7 +466,7 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 312A. Power of Parliament to vary or revoke conditions of service of officers of certain services.  
 313. Transitional provisions.  
 314. [Omitted.]
-#### <center> CHAPTER II PUBLIC SERVICE COMMISSIONS </center>
+#### <p align="center"> CHAPTER II PUBLIC SERVICE COMMISSIONS </p>
 315. Public Service Commissions for the Union and for the States.  
 316. Appointment and term of office of members.  
 317. Removal and suspension of a member of a Public Service Commission.  
@@ -475,19 +475,19 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 320. Functions of Public Service Commissions.  
 321. Power to extend functions of Public Service Commissions.  
 322. Expenses of Public Service Commissions.323.Reports of Public Service Commissions.
-### <center> PART XIV A </center>
-#### <center> TRIBUNALS </center>
+### <p align="center"> PART XIV A </p>
+#### <p align="center"> TRIBUNALS </p>
 323A. Administrative tribunals.323B.Tribunals for other matters.  
-### <center> PART XV </center>
-#### <center> ELECTIONS </center>
+### <p align="center"> PART XV </p>
+#### <p align="center"> ELECTIONS </p>
 324. Superintendence, direction and control of elections to be vested in an Election Commission.  
 325. No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex.326.Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage.  
 327. Power of Parliament to make provision with respect to elections to Legislatures.  
 328. Power of Legislature of a State to make provision with respect to elections to such Legislature.  
 329. Bar to interference by courts in electoral matters.  
 329A. [Omitted.]
-### <center> PART XVI </center>
-#### <center> SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES </center>
+### <p align="center"> PART XVI </p>
+#### <p align="center"> SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES </p>
 330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People.  
 331. Representation of the Anglo-Indian community in the House of the People.  
 332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States.  
@@ -503,30 +503,30 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 341. Scheduled Castes.  
 342. Scheduled Tribes.  
 342A. Socially and educationally backward classes.
-### <center>PART XVII </center>
-#### <center>OFFICIAL LANGUAGE </center>
-#### <center>CHAPTER I.—LANGUAGE OF THE UNION </center> 
+### <p align="center">PART XVII </p>
+#### <p align="center">OFFICIAL LANGUAGE </p>
+#### <p align="center">CHAPTER I.—LANGUAGE OF THE UNION </p> 
 343. Official language of the Union.344.Commission and Committee of Parliament on official language.  
-#### <center> CHAPTER II. REGIONAL LANGUAGES </center>  
+#### <p align="center"> CHAPTER II. REGIONAL LANGUAGES </p>  
 345. Official language or languages of a State.  
 346. Official language for communicationbetween one State and another or between a State and the Union.  
 347. Special provision relating to language spoken by a section of the population of a State.  
-#### <center> CHAPTER III. LANGUAGE OF THE SUPREME COURT,HIGH COURTS, ETC. </center> 
+#### <p align="center"> CHAPTER III. LANGUAGE OF THE SUPREME COURT,HIGH COURTS, ETC. </p> 
 348. Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc.349.Special procedure for enactment of certain laws relating to language.  
-#### <center> CHAPTER IV. SPECIAL DIRECTIVES </center> 
+#### <p align="center"> CHAPTER IV. SPECIAL DIRECTIVES </p> 
 350. Language to be used in representations for redress of grievances.  
 350A. Facilitiesfor instruction in mother-tongue at primary stage.  
 350B. Special Officer for linguistic minorities.351.Directive for development of the Hindi language.  
-### <center> PART XVIII </center>
-#### <center> EMERGENCY PROVISIONS </center>
+### <p align="center"> PART XVIII </p>
+#### <p align="center"> EMERGENCY PROVISIONS </p>
 352. Proclamation of Emergency.  
 353. Effect of Proclamation of Emergency.354.Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation.355.Duty of the Union to protect States against external aggression and internal disturbance.  
 356. Provisions in case of failure of constitutional machinery in States.  
 357. Exercise of legislative powers under Proclamation issued under article 356.  
 358. Suspension  of provisions of article 19 during emergencies.359.Suspension of the enforcement of the rights conferred by Part III during emergencies.  
 359A. [Omitted.]360.Provisions as to financial emergency.
-### <center> PART XIX <center>
-#### <center> MISCELLANEOUS ARTICLES  </center>
+### <p align="center"> PART XIX <p align="center">
+#### <p align="center"> MISCELLANEOUS ARTICLES  </p>
 361. Protection of President and Governors and Rajpramukhs.  
 361A. Protection of publication of proceedings of Parliament and State Legislatures.  
 361B. Disqualification for appointment on remunerative political post.  
@@ -537,11 +537,11 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 365. Effect of failure to comply with, or to give effect to, directions given by the Union.  
 366. Definitions.  
 367. Interpretation.  
-### <center> PART XX </center>
-#### <center> AMENDMENT OF THE CONSTITUTION </center> 
+### <p align="center"> PART XX </p>
+#### <p align="center"> AMENDMENT OF THE CONSTITUTION </p> 
 368. Power of Parliament to amend the Constitution and procedure therefore.  
-### <center> PART XXI </center>
-#### <center> TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS  </center>
+### <p align="center"> PART XXI </p>
+#### <p align="center"> TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS  </p>
 369. Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List.370.Temporary provisions with respect to the State of Jammu and Kashmir.  
 371. Special provision with respect to the States of Maharashtra and Gujarat.  
 371A. Special provision with respect to the State of Nagaland.  
@@ -565,13 +565,13 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 378A. Special provision as to duration of Andhra Pradesh Legislative Assembly.  
 379-391. [Omitted.]  
 392. Power of the President to remove difficulties.
-### <center> PART XXII </center>
-#### <center> SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS </center>
+### <p align="center"> PART XXII </p>
+#### <p align="center"> SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS </p>
 393. Short title.  
 394. Commencement.  
 394A. Authoritative text in the Hindi language.  
 395. Repeals.
-### <center> SCHEDULES </center> 
+### <p align="center"> SCHEDULES </p> 
     **FIRST SCHEDULE**  
         I.—The States.  
         II.—The Union territories.  
@@ -604,8 +604,8 @@ THE STATES IN PART B OF THE FIRST SCHEDULE
 
 
 
-## <center> THE CONSTITUTION OF INDIA </center>
-### <center> *Preamble.* </center>
+## <p align="center"> THE CONSTITUTION OF INDIA </p>
+### <p align="center"> *Preamble.* </p>
 WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a <sup id="page22sup1">[[1]](#page22footer1)</sup>SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:  
 JUSTICE, social, economic and political;  
 LIBERTY of thought, expression, belief, faith and worship;  
@@ -617,8 +617,8 @@ IN OUR CONSTITUENT ASSEMBLY this twenty- sixth day of November, 1949, do HEREBY 
 <b id="page22footer2">[2]</b>Subs by s. 2, ibid., for “unity of the Nation” (w.e.f. 3-1-1977). [↩](#page22sup2)
 
 ---
-## <center> PART I </center>
-### <center> THE UNION AND ITS TERRITORY </center>
+## <p align="center"> PART I </p>
+### <p align="center"> THE UNION AND ITS TERRITORY </p>
  
 1. **Name and territory of the Union.**  
     (1) India, that is Bharat, shall be a Union of States.  
@@ -649,8 +649,8 @@ Explanation II.—The power conferred on Parliament by clause (a) includes the p
 <b id="page23footer4">[4]</b> by the Constitution (Fifth Amendment) Act, 1955, s. 2, for the proviso. [↩](#page23sup4)  
 <b id="page23footer1">[5]</b> The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. [↩](#page23sup1)  
 <b id="page23footer2">[6]</b> The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. [↩](#page23sup2)  
-### <center> PART II </center>
-#### <center> CITIZENSHIP </center>
+### <p align="center"> PART II </p>
+#### <p align="center"> CITIZENSHIP </p>
 5. **Citizenship   at  the  commencement   of  the   Constitution.**—At  the   commencement   of  this Constitution, every person who has his domicile in theterritory of India and—  
     (a) who was born in the territory of India; or  
     (b)either of whose parents was born in the territory of India; or  

@@ -1,6 +1,6 @@
 
-### This repository is dedicated to the father of the Indian constutition, his team and all freedom fighters  
-![Dr. Ambedkar](http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/graphics/atcuphoto.html "Dr. Ambedkar")
+# This repository is dedicated to the father of the Indian constutition, his team and all colonial freedom fighters  
+![Dr. Ambedkar](images/ambedkar.gif)
 
 
 #### Aim
