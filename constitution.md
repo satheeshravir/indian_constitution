@@ -1,7 +1,7 @@
 # <p align="center"> THE CONSTITUTION OF INDIA </p>
 
 ## <p align="center"> CONTENTS </p>
----
+
 PREAMBLE  
 ### <p align="center"> PART I  </p>
 #### <p align="center"> THE UNION AND ITS TERRITORY  </p>
