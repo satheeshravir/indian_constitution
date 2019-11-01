@@ -4,7 +4,7 @@
 
 
 #### Aim
-This project aims to leverage technology to create awareness and reach of constitutional legal rights to the people of India. As a first step we are creating markdown of Indian Constitution. Th
+This project aims to leverage technology to create awareness and reach of constitutional legal rights to the people of India. As a first step we are creating markdown of Indian Constitution. It is work in progress.
 
 #### Source
 Constitution available in this repository is based on the most recent text [here](http://legislative.gov.in/sites/default/files/COI-updated.pdf)
@@ -21,6 +21,7 @@ Everyone is encouraged to contribute to the repository. Please test the preview 
 6. If you have any suggestions or concerns or need calrification please raise a ticket, it will be addressed based on availability of the community memebers
 7. In order to provide transparency, all the conversations relevant to the creation and maintenance specific to this repository should be in public forum
 8. Any deviation from original the text in constitution may result in ban from contribution
+9. Please avoid discussing personal political views
 
 
 
