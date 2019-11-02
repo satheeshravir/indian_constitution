@@ -683,105 +683,109 @@ General
         (a) “law” includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage
 having in the territory of India the force of law;  
         (b) “laws in force” includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas.  
-    <sup id="page25sup1">[1](#page25footer1)</sup>[(4) Nothing in this article shall apply to any amendment of this Constitution made under article 368.] Right to Equality
+    <sup id="page25sup1">[1](#page25footer1)</sup>[(4) Nothing in this article shall apply to any amendment of this Constitution made under article 368.]  
+    ```
+    Right to Equality
+    ```
 14. **Equality before law.**—The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.  
 15. **Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.—**(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.  
     (2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to—  
         (a) access to shops, public restaurants, hotels and places of public entertainment; or  
         (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.  
     (3) Nothing in this article shall prevent the State from making any special provision for women and children.    
-    <sup id="page25sup2">[2](#page25footer2)</sup>(4) Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.   
-><b id="page25footer1">[1]</b>Ins. by the Constitution (Twenty-fourth Amendment) Act, 1971, s. [↩](#page25sup1)  
-><b id="page25footer2">[2]</b>(w.e.f. 5-11-1971). 2. Ins. by the Constitution (First Amendment) Act, 1951, s. 2 (w.e.f. 18-6-1951). [↩](#page25sup2) 
----
-    <sup id="page26sup1">[1](#page26footer1)</sup>(5) Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30.   
-    <sup id="page26sup2">[2](#page26footer2)</sup>(6) Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,—  
+    <sup id="page25sup2">[2](#page25footer2)</sup>[(4) Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.]   
+    ><b id="page25footer1">[1]</b>Ins. by the Constitution (Twenty-fourth Amendment) Act, 1971, s. [↩](#page25sup1)  
+    ><b id="page25footer2">[2]</b>(w.e.f. 5-11-1971). 2. Ins. by the Constitution (First Amendment) Act, 1951, s. 2 (w.e.f. 18-6-1951). [↩](#page25sup2).  
+
+    <sup id="page26sup1">[1](#page26footer1)</sup>[(5) Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30.]   
+    <sup id="page26sup2">[2](#page26footer2)</sup>[(6) Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,—  
         (a) any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5); and  
         (b) any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5) in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30, which in the case of reservation would be in addition to the existing reservations and subject to a maximum of ten per cent. of the total seats in each category.    
-        Explanation.— For the purposes of this article and article 16, "economically weaker sections" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage.]  
-16. Equality of opportunity in matters of public employment.—(1) There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.  
+        Explanation.— For the purposes of this article and article 16, "economically weaker sections" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage.] 
+16. **Equality of opportunity in matters of public employment.**—(1) There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.  
     (2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.  
-    (3) Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office 3[under the Government of, or any local or other authority within, a State or Union territory, any requirement as to residence within that State or Union territory] prior to such employment or appointment.    
+    (3) Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office <sup id="page26sup3">[3](#page26footer3)</sup>[under the Government of, or any local or other authority within, a State or Union territory, any requirement as to residence within that State or Union territory] prior to such employment or appointment.    
     (4) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State.  
-        4[(4A) Nothing in this article shall prevent the State from making any provision for reservation 5[in matters of promotion, with consequential seniority, to any class] or classes of posts in the services under the State in favour of the Scheduled Castes and the Scheduled Tribes which, in the opinion of the State, are not adequately represented in the services under the State.]  
-        6[(4B) Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved for being filled up in that year in accordance with any provision for reservation made under clause (4) or clause (4A) as a separate class of vacancies to be filled up in any succeeding year or years and such class of vacancies shall not be considered together with the vacancies of the year in which they are being filled up for determining the ceiling of fifty per cent. reservation on total number of vacancies of that year.]  
+        <sup id="page26sup4">[4](#page26footer4)</sup>[(4A) Nothing in this article shall prevent the State from making any provision for reservation <sup id="page26sup5">[5](#page26footer5)</sup>[in matters of promotion, with consequential seniority, to any class] or classes of posts in the services under the State in favour of the Scheduled Castes and the Scheduled Tribes which, in the opinion of the State, are not adequately represented in the services under the State.]  
+        <sup id="page26sup6">[6](#page26footer6)</sup>[(4B) Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved for being filled up in that year in accordance with any provision for reservation made under clause (4) or clause (4A) as a separate class of vacancies to be filled up in any succeeding year or years and such class of vacancies shall not be considered together with the vacancies of the year in which they are being filled up for determining the ceiling of fifty per cent. reservation on total number of vacancies of that year.]  
     (5) Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination. 
-<b id="page26footer1">[1]</b>Ins. by the Constitution (Ninety-third Amendment) Act, 2005, s. 2 (w.e.f. 20-1-2006). [↩](#page26sup1)  
-<b id="page26footer2">[2]</b>Ins. by the Constitution (One Hundred and Third Amendment) Act, 2019, s. 2 (w.e.f. 14-1-2019). [↩](#page26sup2) 
-<b id="page26footer3">[3]</b>Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “under any State specified in the First Schedule or any local or other authority within its territory, any requirement as to residence within that state.” (w.e.f. 1-11-1956). [↩](#page26sup3) 
-<b id="page26footer4">[4]</b>Ins. by the Constitution (Seventy-seventh Amendment) Act, 1995, s. 2 (w.e.f. 17-6-1995). [↩](#page26sup4) 
-<b id="page26footer5">[5]</b>Subs. by the Constitution (Eighty-fifth Amendment) Act, 2001, s. 2 for certain words (retrospectively w.e.f. 17-6-1995) [↩](#page26sup5) 
-<b id="page26footer6">[6]</b>Ins. by the Constitution (Eighty-first Amendment) Act, 2000, s. 2 (w.e.f. 9-6-2000). [↩](#page26sup6) 
----
+    ><b id="page26footer1">[1]</b>Ins. by the Constitution (Ninety-third Amendment) Act, 2005, s. 2 (w.e.f. 20-1-2006). [↩](#page26sup1)  
+    ><b id="page26footer2">[2]</b>Ins. by the Constitution (One Hundred and Third Amendment) Act, 2019, s. 2 (w.e.f. 14-1-2019). [↩](#page26sup2) 
+    ><b id="page26footer3">[3]</b>Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “under any State specified in the First Schedule or any local or other authority within its territory, any requirement as to residence within that state.” (w.e.f. 1-11-1956). [↩](#page26sup3) 
+    ><b id="page26footer4">[4]</b>Ins. by the Constitution (Seventy-seventh Amendment) Act, 1995, s. 2 (w.e.f. 17-6-1995). [↩](#page26sup4) 
+    ><b id="page26footer5">[5]</b>Subs. by the Constitution (Eighty-fifth Amendment) Act, 2001, s. 2 for certain words (retrospectively w.e.f. 17-6-1995) [↩](#page26sup5) 
+    ><b id="page26footer6">[6]</b>Ins. by the Constitution (Eighty-first Amendment) Act, 2000, s. 2 (w.e.f. 9-6-2000). [↩](#page26sup6)  
 
-office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination.
-1[(6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category.]
-17. Abolition of Untouchability.—“Untouchability” is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable in accordance with law.
+    <sup id="page27sup1">[6](#page27footer1)</sup>[(6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category.]  
+17. Abolition of Untouchability.—“Untouchability” is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable in accordance with law.  
 18. Abolition of titles.—(1) No title, not being a military or academic distinction, shall be conferred by the State.
-(2) No citizen of India shall accept any title from any foreign State.
-(3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the
-State, accept without the consent of the President any title from any foreign State.
-(4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State.
-Right to Freedom
+    (2) No citizen of India shall accept any title from any foreign State.  
+    (3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State.  
+    (4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State.  
+        ```
+        Right to Freedom
+        ```
 19. Protection of certain rights regarding freedom of speech, etc.—(1) All citizens shall have the
 right—
-(a) to freedom of speech and expression;
-(b) to assemble peaceably and without arms;
-(c) to form associations or unions 2[or co-operative societies];
-(d) to move freely throughout the territory of India;
-(e) to reside and settle in any part of the territory of India; 3[and]
-4* * * * * (g) to practise any profession, or to carry on any occupation, trade or business.
-5[(2) Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of 6[the sovereignty and integrity of India,] the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.]
-(3) Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of 6[the sovereignty and integrity of India or] public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
-1. Ins. by the Constitution (One Hundred and Third Amendment) Act, 2019, s. 3 (w.e.f. 14-1-2019). 2. Ins. by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 2 (w.e.f. 12-1-2012).
-3. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2 (w.e.f. 20-6-1979).
-4. Sub-clause (f) omitted by ibid.
-5. Subs. by the Constitution (First Amendment) Act, 1951, s. 3, for cl. (2) (with retrospective effect). 6. Ins. by the Constitution (Sixteenth Amendment) Act, 1963, s. 2 (w.e.f. 5-10-1963).
- 27
+        (a) to freedom of speech and expression;  
+        (b) to assemble peaceably and without arms;  
+        (c) to form associations or unions 2[or co-operative societies];  
+        (d) to move freely throughout the territory of India;  
+        (e) to reside and settle in any part of the territory of India; 3[and]  
+        4* * * * * (g) to practise any profession, or to carry on any occupation, trade or business.
+    <sup id="page27sup5">[5](#page27footer5)</sup>[(2) Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the State from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of <sup id="page27sup6">[6](#page27footer1)</sup>[the sovereignty and integrity of India,] the security of the State, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.]
+    (3) Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of 6[the sovereignty and integrity of India or] public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
+    ><b id="page27footer1">[1]</b> Ins. by the Constitution (One Hundred and Third Amendment) Act, 2019, s. 3 (w.e.f. 14-1-2019). [↩](#page27sup1)  
+    ><b id="page27footer2">[2]</b> Ins. by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 2 (w.e.f. 12-1-2012). [↩](#page27sup2)  
+    ><b id="page27footer3">[3]</b> Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2 (w.e.f. 20-6-1979). [↩](#page27sup3)  
+    ><b id="page27footer4">[4]</b> Sub-clause (f) omitted by ibid. [↩](#page27sup4)  
+    ><b id="page27footer5">[5]</b> Subs. by the Constitution (First Amendment) Act, 1951, s. 3, for cl. (2) (with retrospective effect). 6. Ins. by the Constitution (Sixteenth Amendment) Act, 1963, s. 2 (w.e.f. 5-10-1963). [↩](#page27sup5)  
 
-(4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
-(5) Nothing in 1[sub-clauses (d) and (e)] of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
-(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, 2[nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—
-(i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business, or
-(ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise].
-20. Protection in respect of conviction for offences.—(1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.
-(2) No person shall be prosecuted and punished for the same offence more than once.
-(3) No person accused of any offence shall be compelled to be a witness against himself.
-21. Protection of life and personal liberty.—No person shall be deprived of his life or personal liberty except according to procedure established by law.
-3[21A. Right to education.—The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.]
-22. Protection against arrest and detention in certain cases.—(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice.
-(2) Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate.
-(3) Nothing in clauses (1) and (2) shall apply—
-(a) to any person who for the time being is an enemy alien; or
-(b) to any person who is arrested or detained under any law providing for preventive detention.
-(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless—
-1. Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2 for “sub-clauses (d), (e) and (f)” (w.e.f. 20-6-1979).
-2. Subs. by the Constitution (First Amendment) Act, 1951, s. 3, for certain words (w.e.f. 18-6-1951).
-3. Ins. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 2 (w.e.f. 1-4-2010).
- On the commencement of s. 3 of the Constitution (Forty-fourth Amendment) Act, 1978, clause (4) of art. 22 shall stand amended
-as directed in s. 3 of that Act. For the text of s. 3 of that Act, see Appendix III. (date yet to be notified).
- 28
+    (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
+    (5) Nothing in 1[sub-clauses (d) and (e)] of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.  
+    (6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, 2[nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,—  
+        (i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business, or  
+        (ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise].  
+20. Protection in respect of conviction for offences.—(1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.  
+    (2) No person shall be prosecuted and punished for the same offence more than once.  
+    (3) No person accused of any offence shall be compelled to be a witness against himself.  
+21. Protection of life and personal liberty.—No person shall be deprived of his life or personal liberty except according to procedure established by law.  
+    <sup id="page28sup3">[3](#page28footer3)</sup>[21A. Right to education.—The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.]  
+22. Protection against arrest and detention in certain cases.—(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice.  
+    (2) Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate.  
+    (3) Nothing in clauses (1) and (2) shall apply—  
+        (a) to any person who for the time being is an enemy alien; or  
+        (b) to any person who is arrested or detained under any law providing for preventive detention.  
+    <sup id="page28sup4">[*](#page28footer4)</sup>(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless— 
+        (a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention: Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or  
+        (b) such person is detained in accordance with the provisions of any law made by Parliament under sub-clauses (a) and (b) of clause (7). 
+    ><b id="page28footer1">[1]</b> Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 2 for “sub-clauses (d), (e) and (f)” (w.e.f. 20-6-1979). [↩](#page28sup1)   
+    ><b id="page28footer2">[2]</b> Subs. by the Constitution (First Amendment) Act, 1951, s. 3, for certain words (w.e.f. 18-6-1951). [↩](#page28sup2)     
+    ><b id="page28footer3">[3]</b> Ins. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 2 (w.e.f. 1-4-2010). [↩](#page28sup3)   
+    ><b id="page28footer4">[*]</b> On the commencement of s. 3 of the Constitution (Forty-fourth Amendment) Act, 1978, clause (4) of art. 22 shall stand amendedas directed in s. 3 of that Act. For the text of s. 3 of that Act, see Appendix III. (date yet to be notified). [↩](#page28sup4)     
 
-(a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention:
-Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or
-(b) such person is detained in accordance with the provisions of any law made by Parliament under sub-clauses (a) and (b) of clause (7).
-(5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order.
-(6) Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose.
-(7) Parliament may by law prescribe—
- [(a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4)];
-*(b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and
-***(c) the procedure to be followed by an Advisory Board in an inquiry under **[sub-clause (a) of clause (4)].
-Right against Exploitation
-23.Prohibition of traffic in human beings and forced labour.—(1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.
-(2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.
-24. Prohibition of employment of children in factories, etc.—No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.
-Right to Freedom of Religion
-25. Freedom of conscience and free profession, practice and propagation of religion.—(1) Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.
-(2) Nothing in this article shall affect the operation of any existing law or prevent the State from making any law—
-(a) regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice;
-*Sub-clause (a) shall stand omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 3 (date yet to be notified).  Sub-clause (b) shall stand re-lettered as sub-clause (a) by ibid. (date yet to be notified).
-*** Sub-clause (c) shall stand re-lettered as sub-clause (b) by ibid. (date yet to be notified).
-**** The words, letters, figures and brackets shall stand substituted as “clause (4)” by ibid. (date yet to be notified).  
+    (5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order.  
+    (6) Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose.  
+    (7) Parliament may by law prescribe—  
+        <sup id="page29sup1">[*](#page29footer1)</sup>[(a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4)];   
+        <sup id="page29sup2">[**](#page29footer2)</sup>(b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and   
+        <sup id="page29sup3">[***](#page29footer3)</sup>(c) the procedure to be followed by an Advisory Board in an inquiry under <sup id="page29sup4">[****](#page29footer4)</sup>[sub-clause (a) of clause (4)].   
+        ```
+        Right against Exploitation
+        ```
+23. Prohibition of traffic in human beings and forced labour.—(1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.  
+    (2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.  
+24. Prohibition of employment of children in factories, etc.—No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.  
+        ```
+        Right to Freedom of Religion
+        ```
+25. Freedom of conscience and free profession, practice and propagation of religion.—(1) Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.  
+    (2) Nothing in this article shall affect the operation of any existing law or prevent the State from making any law—  
+        (a) regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice;   
+><b id="page29footer1">[&ast;]</b> Sub-clause (a) shall stand omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 3 (date yet to be notified). [↩](#page29sup1)  
+><b id="page29footer2">[&ast;&ast;]</b> Sub-clause (b) shall stand re-lettered as sub-clause (a) by ibid. (date yet to be notified). [↩](#page29sup2)   
+><b id="page29footer3">[&ast;&ast;&ast;]</b> Sub-clause (c) shall stand re-lettered as sub-clause (b) by ibid. (date yet to be notified). [↩](#page29sup3)  
+><b id="page29footer4">[&ast;&ast;&ast;&ast;]</b> The words, letters, figures and brackets shall stand substituted as “clause (4)” by ibid. (date yet to be notified). [↩](#page29sup4)   
 
 
 
