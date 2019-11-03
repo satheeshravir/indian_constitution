@@ -1,7 +1,8 @@
 
 # This repository is dedicated to the father of the Indian constutition, his team and all colonial freedom fighters  
-![Dr. Ambedkar](images/ambedkar.gif)
+![Dr. Ambedkar](images/ambedkar.gif)  
 
+[Photo: Columbia University](https://globalcenters.columbia.edu/content/bhimrao-ramji-ambedkar)
 
 #### Aim
 This project aims to leverage technology to create awareness and reach of constitutional legal rights to the people of India. As a first step we are creating markdown of Indian Constitution. It is work in progress.
