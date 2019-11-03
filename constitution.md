@@ -716,7 +716,7 @@ having in the territory of India the force of law;
     ><b id="page26footer5">[5]</b>Subs. by the Constitution (Eighty-fifth Amendment) Act, 2001, s. 2 for certain words (retrospectively w.e.f. 17-6-1995) [↩](#page26sup5) 
     ><b id="page26footer6">[6]</b>Ins. by the Constitution (Eighty-first Amendment) Act, 2000, s. 2 (w.e.f. 9-6-2000). [↩](#page26sup6)  
 
-    <sup id="page27sup1">[6](#page27footer1)</sup>[(6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category.]  
+    <sup id="page27sup1">[1](#page27footer1)</sup>[(6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category.]  
 17. Abolition of Untouchability.—“Untouchability” is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable in accordance with law.  
 18. Abolition of titles.—(1) No title, not being a military or academic distinction, shall be conferred by the State.
     (2) No citizen of India shall accept any title from any foreign State.  
@@ -782,10 +782,32 @@ right—
 25. Freedom of conscience and free profession, practice and propagation of religion.—(1) Subject to public order, morality and health and to the other provisions of this Part, all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.  
     (2) Nothing in this article shall affect the operation of any existing law or prevent the State from making any law—  
         (a) regulating or restricting any economic, financial, political or other secular activity which may be associated with religious practice;   
-><b id="page29footer1">[&ast;]</b> Sub-clause (a) shall stand omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 3 (date yet to be notified). [↩](#page29sup1)  
-><b id="page29footer2">[&ast;&ast;]</b> Sub-clause (b) shall stand re-lettered as sub-clause (a) by ibid. (date yet to be notified). [↩](#page29sup2)   
-><b id="page29footer3">[&ast;&ast;&ast;]</b> Sub-clause (c) shall stand re-lettered as sub-clause (b) by ibid. (date yet to be notified). [↩](#page29sup3)  
-><b id="page29footer4">[&ast;&ast;&ast;&ast;]</b> The words, letters, figures and brackets shall stand substituted as “clause (4)” by ibid. (date yet to be notified). [↩](#page29sup4)   
+    ><b id="page29footer1">[&ast;]</b> Sub-clause (a) shall stand omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 3 (date yet to be notified). [↩](#page29sup1)  
+    ><b id="page29footer2">[&ast;&ast;]</b> Sub-clause (b) shall stand re-lettered as sub-clause (a) by ibid. (date yet to be notified). [↩](#page29sup2)   
+    ><b id="page29footer3">[&ast;&ast;&ast;]</b> Sub-clause (c) shall stand re-lettered as sub-clause (b) by ibid. (date yet to be notified). [↩](#page29sup3)  
+    ><b id="page29footer4">[&ast;&ast;&ast;&ast;]</b> The words, letters, figures and brackets shall stand substituted as “clause (4)” by ibid. (date yet to be notified). [↩](#page29sup4)   
+    (b) providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and sections of Hindus.  
+    Explanation I.—The wearing and carrying of kirpans shall be deemed to be included in the profession of the Sikh religion.  
+    Explanation II.—In sub-clause (b) of clause (2), the reference to Hindus shall be construed as including a reference to persons professing the Sikh, Jaina or Buddhist religion, and the reference to Hindu religious institutions shall be construed accordingly.  
+26. Freedom to manage religious affairs.—Subject to public order, morality and health, every religious denomination or any section thereof shall have the right—  
+    (a) to establish and maintain institutions for religious and charitable purposes;  
+    (b) to manage its own affairs in matters of religion;  
+    (c) to own and acquire movable and immovable property; and  
+    (d) to administer such property in accordance with law.  
+27. Freedom as to payment of taxes for promotion of any particular religion.—No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination.  
+28. Freedom as to attendance at religious instruction or religious worship in certain educational institutions.—(1) No religious instruction shall be provided in any educational institution wholly maintained out of State funds.  
+    (2) Nothing in clause (1) shall apply to an educational institution which is administered by the State but has been established under any endowment or trust which requires that religious instruction shall be imparted in such institution.  
+    (3) No person attending any educational institution recognised by the State or receiving aid out of State funds shall be required to take part in any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto.  
+    ```
+    Cultural and Educational Rights
+    ```
+29. Protection of interests of minorities.—(1) Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.
+(2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.
+30. Right of minorities to establish and administer educational institutions.—(1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.
+    <sup id="page30sup1">[1](#page30footer1)</sup>[(1A) In making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause.]  
+    (2) The State shall not, in granting aid to educational institutions, discriminate against any educational  
+    ><b id="page30footer1">[1]</b>1. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 19-6-1979). [↩](#page30sup1)     
+
 
 
 
