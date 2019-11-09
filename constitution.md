@@ -806,9 +806,152 @@ right—
 30. Right of minorities to establish and administer educational institutions.—(1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.
     <sup id="page30sup1">[1](#page30footer1)</sup>[(1A) In making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause.]  
     (2) The State shall not, in granting aid to educational institutions, discriminate against any educational  
-    ><b id="page30footer1">[1]</b>1. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 19-6-1979). [↩](#page30sup1)     
+    ><b id="page30footer1">[1]</b>1. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 19-6-1979). [↩](#page30sup1)  
+
+   <sup id="page31sup1">[1](#page31footer1)</sup> *                   *                  *                  *                *    
+
+31. [*Compulsory acquisition of property*.]— Omitted by the Constitution (Forty-fourth Amendment)
+    Act, 1978, s. 6 (w.e.f. 20-6-1979).  
+     <sup id="page31sup2">[2](#page31footer2)</sup>[Saving of Certain Laws]
+
+    <sup id="page31sup3">[3](#page31footer3)</sup>[31A. Saving of laws providing for acquisition of estates, etc.—<sup id="page31sup4">[4](#page31footer4)</sup>[(1) Notwithstanding anything contained in article 13, no law providing for—  
+
+    (a) the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights, or   
+    (b) the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property, or   
+    (c) the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations, or    
+    (d) the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof, or    
+    (e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence,  
+
+shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by <sup id="page31sup5">[5](#page31footer5)</sup>[article 14 or article 19]:   
+
+Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:] 
+ 
+<sup id="page31sup6">[6](#page31footer6)</sup>[Provided further that where any law makes any provision for the acquisition by the State of any estate and where any land comprised therein is held by a person under his personal cultivation, it shall not be lawful for the State to acquire any portion of such land as is within the ceiling limit applicable to him under any law for the time being in force or any building or structure standing thereon or appurtenant thereto, unless the law relating to the acquisition of such land, building or structure, provides for payment of compensation at a rate which shall not be less than the market value thereof.]   
+
+(2) In this article,—   
+
+  <sup id="page31sup7">[7](#page31footer7)</sup>[(a) the expression “estate” shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include—    
 
 
+><b id="page31footer1">[1]</b>The sub-heading “Right to Property” omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 5 (w.e.f. 20-6-1979). [↩](#page31sup1)  
+><b id="page31footer2">[2]</b>Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 3 (w.e.f. 3-1-1977). [↩](#page31sup2)  
+><b id="page31footer3">[3]</b> Ins. by the Constitution (First Amendment) Act, 1951, s. 4 (with retrospective effect).[↩](#page31sup3)  
+><b id="page31footer4">[4]</b> Subs. by the Constitution (Fourth Amendment) Act, 1955, s. 3, for cl. (1) (with retrospective effect). [↩](#page31sup4)  
+><b id="page31footer5">[5]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 7 for “article 14, article 19 or article 31” (w.e.f. 20-6-1979). [↩](#page31sup5)  
+><b id="page31footer6">[6]</b>Ins. by the Constitution (Seventeenth Amendment) Act, 1964, s. 2 (w.e.f. 20-6-1964). [↩](#page31sup6)  
+><b id="page31footer7">[7]</b>Subs. by ibid., for sub-clause (a) (with retrospective effect). [↩](#page31sup7)  
+
+
+(i) any jagir, inam or muafi or other similar grant and in the States of <sup id="page32sup1">[1](#page32footer1)</sup>[Tamil Nadu] and Kerala, any janmam right;   
+        (ii) any land held under ryotwari settlement;  
+(iii) any land held or let for purposes of agriculture or for purposes ancillary thereto, including waste land, forest land, land for pasture or sites of buildings and other structures occupied by cultivators of land, agricultural labourers and village artisans;]  
+
+   (b) the expression “rights”, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, <sup id="page32sup2">[2](#page32footer2)</sup>[raiyat, under-raiyat]or other intermediary and any rights or privileges in respect of land revenue.]
+
+<sup id="page32sup3">[3](#page32footer3)</sup>[31B. Validation of certain Acts and Regulations.—Without prejudice to the generality of the provisions contained in article 31A, none of the Acts and Regulations specified in the Ninth Schedule nor any of the provisions thereof shall be deemed to be void, or ever to have become void, on the ground that such Act, Regulation or provision is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part, and notwithstanding any judgment, decree or order of any court or Tribunal to the contrary, each of the said Acts and Regulations shall, subject to the power of any competent Legislature to repeal or amend it, continue in force.]  
+
+<sup id="page32sup4">[4](#page32footer4)</sup>[31C. Saving of laws giving effect to certain directive principles.—Notwithstanding anything contained in article 13, no law giving effect to the policy of the State towards securing <sup id="page32sup5">[5](#page32footer5)</sup>[all or any of the principles laid down in Part IV] shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by <sup id="page32sup6">[6](#page32footer6)</sup>[article 14 or article 19]; <sup id="page32sup7">[7](#page32footer7)</sup>[*and no law containing a declaration that it is for giving effect to such policy shall be called in question in any court on the ground that it does not give effect to such policy*]:  
+
+Provided that where such law is made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.]  
+
+<sup id="page32sup8">[8](#page32footer8)</sup>31D. *[Saving of laws in respect of anti-national activities.].–Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 2 (w.e.f. 13-4-1978).*  
+
+<p align="center">Right to Constitutional Remedies </p>
+
+32. Remedies for enforcement of rights conferred by this Part.—(1) The right to move the Supreme
+Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.  
+
+(2) The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.  
+
+(3) Without prejudice to the powers conferred on the Supreme Court by clauses (1) and (2), Parliament may by law empower any other court to exercise within the local limits of its jurisdiction all or any of the powers exercisable by the Supreme Court under clause (2).  
+
+(4) The right guaranteed by this article shall not be suspended except as otherwise provided for by this Constitution.  
+
+><b id="page32footer1">[1]</b>Subs. by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 4, for “Madras” (w.e.f. 14-1-1969) [↩](#page32sup1)  
+><b id="page32footer2">[2]</b>Ins. by the Constitution (Fourth Amendment) Act, 1955, s. 3 (with retrospective effect). [↩](#page32sup2)  
+><b id="page32footer3">[3]</b> Ins. by the Constitution (First Amendment) Act, 1951, s. 5 (w.e.f. 18-6-1951).[↩](#page32sup3)  
+><b id="page32footer4">[4]</b> Ins. by the Constitution (Twenty-fifth Amendment) Act, 1971, s. 3. (w.e.f. 20-4-1972). [↩](#page32sup4)  
+><b id="page32footer5">[5]</b>Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 4, for “the principles specified in clause (b) or clause (c) of article 39” (w.e.f. 3-1-1977). Section 4 has been declared invalid by the Supreme Court in Minerva Mills Ltd. and others Vs. Union of India and others (1980) s. 2, AIR 1980 SC 1789. [↩](#page32sup5)  
+><b id="page32footer6">[6]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 8 for “article 14, article 19 or article 31” (w.e.f. 20-6-1979).  [↩](#page32sup6)  
+><b id="page32footer7">[7]</b>In Kesavananda Bharati Vs. the State of Kerala (1973). AIR 1973 SC 1461, the Supreme Court had held the provisions in italics
+to be invalid. [↩](#page32sup7)  
+><b id="page32footer8">[8]</b>Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 5 (w.e.f. 3-1-1977). [↩](#page32sup8)  
+
+<sup id="page33sup1">[1](#page33footer1)</sup>[32A. *Constitutional validity of State laws not to be considered in proceedings under article 32.].– Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 3 (w.e.f. 13-4-1978).*  
+
+<sup id="page33sup2">[2](#page33footer2)</sup>[33. Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.—Parliament may, by law, determine to what extent any of the rights conferred by this Part shall, in their application to,—  
+
+(a) the members of the Armed Forces; or  
+(b) the members of the Forces charged with the maintenance of public order; or  
+(c) persons employed in any bureau or other organisation established by the State for purposes of intelligence or counter intelligence; or  
+(d) person employed in, or in connection with, the telecommunication systems set up for the purposes of any Force, bureau or organisation referred to in clauses (a) to (c),  
+be restricted or abrogated so as to ensure the proper discharge of their duties and the maintenance of discipline among them.]  
+
+34. Restriction on rights conferred by this Part while martial law is in force in any area.— Notwithstanding anything in the foregoing provisions of this Part, Parliament may by law indemnify any person in the service of the Union or of a State or any other person in respect of any act done by him in connection with the maintenance or restoration of order in any area within the territory of India where martial law was in force or validate any sentence passed, punishment inflicted, forfeiture ordered or other act done under martial law in such area.  
+
+35. Legislation to give effect to the provisions of this Part.—Notwithstanding anything in this Constitution,—  
+(a) Parliament shall have, and the Legislature of a State shall not have, power to make laws—  
+ (i) with respect to any of the matters which under clause (3) of article 16, clause (3) of article
+32, article 33 and article 34 may be provided for by law made by Parliament; and  
+ (ii) for prescribing punishment for those acts which are declared to be offences under this Part,
+and Parliament shall, as soon as may be after the commencement of this Constitution, make laws for prescribing punishment for the acts referred to in sub-clause (ii);  
+(b) any law in force immediately before the commencement of this Constitution in the territory of India with respect to any of the matters referred to in sub-clause (i) of clause (a) or providing for punishment for any act referred to in sub-clause (ii) of that clause shall, subject to the terms thereof and to any adaptations and modifications that may be made therein under article 372, continue in force until altered or repealed or amended by Parliament.  
+Explanation.—In this article, the expression “law in force” has the same meaning as in article 372. 
+
+><b id="page33footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 6 (w.e.f. 1-2-1977).[↩](#page33sup1)  
+><b id="page33footer2">[2]</b>Subs. by the Constitution (Fiftieth Amendment) Act, 1984, s. 2 (w.e.f 11-9-1984). [↩](#page3sup2)  
+
+<p align="center">PART IV</p>
+<p align="center">DIRECTIVE PRINCIPLES OF STATE POLICY</p>
+36. Definition.—In this Part, unless the context otherwise requires, “the State” has the same meaning as in Part III.  
+
+37. Application of the principles contained in this Part.—The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.  
+
+38. State to secure a social order for the promotion of welfare of the people.—<sup id="page34sup1">[1](#page34footer1)</sup>[(1)] The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.  
+
+<sup id="page34sup2">[2](#page34footer2)</sup>[(2) The State shall, in particular, strive to minimise the inequalities in income, and endeavour to eliminate inequalities in status, facilities and opportunities, not only amongst individuals but also amongst groups of people residing in different areas or engaged in different vocations.]  
+
+39. Certain principles of policy to be followed by the State.—The State shall, in particular, direct its policy towards securing—  
+(a) that the citizens, men and women equally, have the right to an adequate means of livelihood;  
+(b) that the ownership and control of the material resources of the community are so distributed as
+best to subserve the common good;  
+(c) that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment;  
+(d) that there is equal pay for equal work for both men and women;  
+(e) that the health and strength of workers, men and women, and the tender age of children are not abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;     
+<sup id="page34sup3">[3](#page34footer3)</sup>[(f) that children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment.]  
+
+<sup id="page34sup4">[4](#page34footer4)</sup>[39A. Equal justice and free legal aid.—The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.]  
+
+40. Organisation of village panchayats.—The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.
+
+><b id="page34footer1">[1]</b> Art. 38 renumbered as cl. (1) thereof by the Constitution (Forty-fourth Amendment) Act, 1978, s. 9 (w.e.f. 20-6-1979). [↩](#page34sup1)  
+><b id="page34footer2">[2]</b>Ins. by ibid. [↩](#page34sup2)  
+><b id="page34footer3">[3]</b> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 7, for cl. (f) (w.e.f. 3-1-1977). [↩](#page34sup3)  
+><b id="page34footer4">[4]</b> Ins. by s. 8 ibid. [↩](#page34sup4)  
+
+
+41. Right to work, to education and to public assistance in certain cases.—The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want.  
+
+42. Provision for just and humane conditions of work and maternity relief.—The State shall make provision for securing just and humane conditions of work and for maternity relief.  
+
+43. Living wage, etc., for workers.—The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, in particular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas.  
+
+ <sup id="page35sup1">[1](#page35footer1)</sup>[43A. Participation of workers in management of industries.—The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings, establishments or other organisations engaged in any industry.]  
+ <sup id="page35sup2">[2](#page35footer2)</sup> [43B. Promotion of co-operative societies.—The State shall endeavour to promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies.]  
+
+44.Uniform civil code for the citizens.—The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India. 
+
+<sup id="page35sup3">[3](#page35footer3)</sup>[45. Provision for early childhood care and education to children below the age of six years.— The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years.]  
+
+46. Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.—The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.  
+
+47. Duty of the State to raise the level of nutrition and the standard of living and to improve public health.—The State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties and, in particular, the State shall endeavour to bring about prohibition of the consumption except for medicinal purposes of intoxicating drinks and of drugs which are injurious to health.  
+
+48. Organisation of agriculture and animal husbandry.—The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.  
+
+><b id="page35footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 9 (w.e.f. 3-1-1977). [↩](#page35sup1)  
+><b id="page35footer2">[2]</b>Ins. by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 3 (w.e.f. 15-2-2012). [↩](#page35sup2)  
+><b id="page35footer3">[3]</b> Subs. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 3 for art. 45 (w.e.f 1-4-2010).[↩](#page35sup3)  
 
 
 
