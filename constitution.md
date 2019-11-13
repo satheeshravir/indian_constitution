@@ -953,7 +953,140 @@ best to subserve the common good;
 ><b id="page35footer2">[2]</b>Ins. by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 3 (w.e.f. 15-2-2012). [↩](#page35sup2)  
 ><b id="page35footer3">[3]</b> Subs. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 3 for art. 45 (w.e.f 1-4-2010).[↩](#page35sup3)  
 
+<sup id="page36sup1">[1](#page36footer1)</sup>[48A. Protection and improvement of environment and safeguarding of forests and wild life.— The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country.]  
 
+49. Protection of monuments and places and objects of national importance.—It shall be the obligation of the State to protect every monument or place or object of artistic or historic interest, <sup id="page36sup2">[2](#page36footer2)</sup>[declared by or under law made by Parliament] to be of national importance, from spoliation, disfigurement, destruction, removal, disposal or export, as the case may be.  
+
+50. Separation of judiciary from executive.—The State shall take steps to separate the judiciary from the executive in the public services of the State.  
+
+51. Promotion of international peace and security.—The State shall endeavour to—   
+(a) promote international peace and security;  
+(b) maintain just and honourable relations between nations;  
+(c) foster respect for international law and treaty obligations in the dealings of organised peoples
+with one another; and  
+(d) encourage settlement of international disputes by arbitration.  
+
+<sup id="page36sup3">[3](#page36footer3)</sup>[PART IVA 
+<p align="center">FUNDAMENTAL DUTIES</p>
+51A. Fundamental duties.—It shall be the duty of every citizen of India—  
+
+(a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the
+National Anthem;  
+(b) to cherish and follow the noble ideals which inspired our national struggle for freedom;  
+(c) to uphold and protect the sovereignty, unity and integrity of India;  
+(d) to defend the country and render national service when called upon to do so;  
+(e) to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities; to renounce practices derogatory to the dignity of women;  
+(f) to value and preserve the rich heritage of our composite culture;  
+(g) to protect and improve the natural environment including forests, lakes, rivers and wild life, and
+to have compassion for living creatures;  
+(h) to develop the scientific temper, humanism and the spirit of inquiry and reform;  
+
+><b id="page36footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 10 (w.e.f. 3-1-1977). [↩](#page36sup1)   
+><b id="page36footer2">[2]</b>  Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 27, for “declared by parliament by law” (w.e.f. 1-11-1956). [↩](#page36sup2)   
+><b id="page36footer3">[3]</b>  Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 11 (w.e.f. 3-1-1977). [↩](#page36sup3)  
+
+(i) to safeguard public property and to abjure violence;  
+(j) to strive towards excellence in all spheres of individual and collective activity so that the nation
+constantly rises to higher levels of endeavour and achievement;  
+<sup id="page37sup1">[1](#page37footer1)</sup>[(k) who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.]  
+<p align="center">PART V</p>
+<p align="center">THE UNION </p>
+<p align="center">CHAPTER I.—THE EXECUTIVE </p>
+<p align="center">The President and Vice-President</p>
+
+52. The President of India.—There shall be a President of India.  
+
+53. Executive power of the Union.—(1) The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution.  
+(2) Without prejudice to the generality of the foregoing provision, the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.  
+(3) Nothing in this article shall—  
+   (a) be deemed to transfer to the President any functions conferred by any existing law on the
+Government of any State or other authority; or  
+   (b) prevent Parliament from conferring by law functions on authorities other than the President.  
+
+54. Election of President.—The President shall be elected by the members of an electoral college consisting of—  
+(a) the elected members of both Houses of Parliament; and  
+(b) the elected members of the Legislative Assemblies of the States.  
+<sup id="page37sup2">[2](#page37footer2)</sup>[Explanation.—In this article and in article 55, “State” includes the National Capital Territory of Delhi and the Union territory of <sup id="page37sup3">[*](#page37footer3)</sup>Pondicherry.]  
+
+55. Manner of election of President.—(1) As far as practicable, there shall be uniformity in the scale of representation of the different States at the election of the President.  
+(2) For the purpose of securing such uniformity among the States inter se as well as parity between the States as a whole and the Union, the number of votes which each elected member of Parliament and of the Legislative Assembly of each State is entitled to cast at such election shall be determined in the following manner:—  
+ (a) every elected member of the Legislative Assembly of a State shall have as many votes as there are multiples of one thousand in the quotient obtained by dividing the population of the State by the total number of the elected members of the Assembly;  
+ (b) if, after taking the said multiples of one thousand, the remainder is not less than five hundred, then the vote of each member referred to in sub-clause (a) shall be further increased by one;  
+(c) each elected member of either House of Parliament shall have such number of votes as may be obtained by dividing the total number of votes assigned to the members of the Legislative Assemblies of the States under sub-clauses (a) and (b)by the total number of the elected members of both Houses of Parliament, fractions exceeding one-half being counted as one and other fractions being disregarded.  
+
+><b id="page37footer1">[1]</b> Ins. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 4 (w.e.f. 1-4-2010). [↩](#page37sup1)  
+><b id="page37footer2">[2]</b> Ins. by the Constitution (Seventieth Amendment) Act, 1992, s. 2 (w.e.f. 1-6-1995). [↩](#page37sup2)  
+><b id="page37footer3">*</b>Now Puducherry vide the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 3 (w.e.f. 1-10-2006). [↩](#page37sup3)  
+
+
+(3) The election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.  
+
+<sup id="page38sup1">[1](#page38footer1)</sup>[Explanation.—In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:  
+
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year <sup id="page38sup2">[2](#page38footer2)</sup>[2026 have been published, be construed as a reference to the 1971 census.]  
+
+56. Term of office of President.—(1) The President shall hold office for a term of five years from the date on which he enters upon his office:  
+Provided that—  
+(a) the President may, by writing under his hand addressed to the Vice-President, resign his office;  
+(b) the President may, for violation of the Constitution, be removed from office by impeachment in the manner provided in article 61;  
+(c) the President shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.  
+(2) Any resignation addressed to the Vice-President under clause (a) of the proviso to clause (1) shall forthwith be communicated by him to the Speaker of the House of the People.  
+
+57. Eligibility for re-election.—A person who holds, or who has held, office as President shall, subject to the other provisions of this Constitution, be eligible for re-election to that office.  
+58. Qualifications for election as President.—(1) No person shall be eligible for election as President unless he—  
+(a) is a citizen of India,  
+(b) has completed the age of thirty-five years, and  
+(c) is qualified for election as a member of the House of the People.  
+(2) A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.  
+Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor <sup id="page38sup3">[3](#page38footer3)</sup>*** of any State or is a Minister either for the Union or for any State.  
+
+><b id="page38footer1">[1]</b> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 12, for the Explanation (w.e.f. 3-1-1977).  [↩](#page38sup1)  
+><b id="page38footer2">[2]</b> Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 2, for 2000 (w.e.f. 21-2-2002).  [↩](#page38sup2)  
+><b id="page38footer3">[3]</b> The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
+ (w.e.f. 1-11-1956).  [↩](#page38sup3)  
+
+59. Conditions of President's office.—(1) The President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected President, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as President.  
+(2) The President shall not hold any other office of profit.  
+(3) The President shall be entitled without payment of rent to the use of his official residences and shall be also entitled to such emoluments, allowances and privileges as may be determined by Parliament by law and, until provision in that behalf is so made, such emoluments, allowances and privileges as are specified in the Second Schedule.  
+(4) The emoluments and allowances of the President shall not be diminished during his term of office.  
+
+60. Oath or affirmation by the President.—Every President and every person acting as President or discharging the functions of the President shall, before entering upon his office, make and subscribe in the presence of the Chief Justice of India or, in his absence, the senior-most Judge of the Supreme Court available, an oath or affirmation in the following form, that is to say—  
+
+   “I, A.B., do swear in the name of God that I will faithfully execute the office solemnly affirm
+of President (or discharge the functions of the President) of India and will to the best of my ability preserve, protect and defend the Constitution and the law and that I will devote myself to the service and well- being of the people of India.".  
+
+61. Procedure for impeachment of the President.—(1) When a President is to be impeached for violation of the Constitution, the charge shall be preferred by either House of Parliament.  
+(2) No such charge shall be preferred unless—  
+(a) the proposal to prefer such charge is contained in a resolution which has been moved after at least fourteen days' notice in writing signed by not less than one-fourth of the total number of members of the House has been given of their intention to move the resolution, and  
+(b) such resolution has been passed by a majority of not less than two-thirds of the total membership of the House.  
+(3) When a charge has been so preferred by either House of Parliament, the other House shall investigate the charge or cause the charge to be investigated and the President shall have the right to appear and to be represented at such investigation.  
+(4) If as a result of the investigation a resolution is passed by a majority of not less than two-thirds of the total membership of the House by which the charge was investigated or caused to be investigated, declaring that the charge preferred against the President has been sustained, such resolution shall have the effect of removing the President from his office as from the date on which the resolution is so passed.  
+
+62. Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy.—(1) An election to fill a vacancy caused by the expiration of the term of office of President shall be completed before the expiration of the term.  
+(2) An election to fill a vacancy in the office of President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after, and in no case later than six months from, the date of occurrence of the vacancy; and the person elected to fill the vacancy shall, subject to the provisions of article 56, be entitled to hold office for the full term of five years from the date on which he enters upon his office.  
+
+
+63. The Vice-President of India.—There shall be a Vice-President of India.  
+
+64. The Vice-President to be ex officio Chairman of the Council of States.—The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit:  
+Provided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.  
+
+65. The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President.—(1) In the event of the occurrence of any vacancy in the office of the President by reason of his death, resignation or removal, or otherwise, the Vice-President shall act as President until the date on which a new President elected in accordance with the provisions of this Chapter to fill such vacancy enters upon his office.  
+(2) When the President is unable to discharge his functions owing to absence, illness or any other cause, the Vice-President shall discharge his functions until the date on which the President resumes his duties.  
+(3) The Vice-President shall, during, and in respect of, the period while he is so acting as, or discharging the functions of, President, have all the powers and immunities of the President and be entitled to such emoluments, allowances and privileges as may be determined by Parliament by law and, until provision in that behalf is so made, such emoluments, allowances and privileges as are specified in the Second Schedule.  
+
+66. Election of Vice-President.—(1) The Vice-President shall be elected by the <sup id="page40sup1">[1](#page40footer1)</sup>[members of an electoral college consisting of the members of both Houses of Parliament] in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.  
+(2) The Vice-President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected Vice-President, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as Vice-President.  
+(3) No person shall be eligible for election as Vice-President unless he— (a) is a citizen of India;  
+(b) has completed the age of thirty-five years; and  
+(c) is qualified for election as a member of the Council of States.  
+(4) A person shall not be eligible for election as Vice-President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.  
+Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor<sup id="page40sup2">[2](#page40footer2)</sup>*** of any State or is a Minister either for the Union or for any State.  
+
+67. Term of office of Vice-President.—The Vice-President shall hold office for a term of five years  
+
+><b id="page40footer1">[1]</b> Subs. by the Constitution (Eleventh Amendment) Act,1961, s. 2, for “members of both Houses of Parliament assembled at a joint meeting”(w.e.f. 19-12-1961). [↩](#page40sup1)  
+><b id="page40footer2">[2]</b> The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956). [↩](#page40sup2)  
 
 
 
