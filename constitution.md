@@ -806,11 +806,287 @@ right—
 30. Right of minorities to establish and administer educational institutions.—(1) All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.
     <sup id="page30sup1">[1](#page30footer1)</sup>[(1A) In making any law providing for the compulsory acquisition of any property of an educational institution established and administered by a minority, referred to in clause (1), the State shall ensure that the amount fixed by or determined under such law for the acquisition of such property is such as would not restrict or abrogate the right guaranteed under that clause.]  
     (2) The State shall not, in granting aid to educational institutions, discriminate against any educational  
-    ><b id="page30footer1">[1]</b>1. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 19-6-1979). [↩](#page30sup1)     
+    ><b id="page30footer1">[1]</b>1. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 4 (w.e.f. 19-6-1979). [↩](#page30sup1)  
+
+   <sup id="page31sup1">[1](#page31footer1)</sup> *                   *                  *                  *                *    
+
+31. [*Compulsory acquisition of property*.]— Omitted by the Constitution (Forty-fourth Amendment)
+    Act, 1978, s. 6 (w.e.f. 20-6-1979).  
+     <sup id="page31sup2">[2](#page31footer2)</sup>[Saving of Certain Laws]
+
+    <sup id="page31sup3">[3](#page31footer3)</sup>[31A. Saving of laws providing for acquisition of estates, etc.—<sup id="page31sup4">[4](#page31footer4)</sup>[(1) Notwithstanding anything contained in article 13, no law providing for—  
+
+    (a) the acquisition by the State of any estate or of any rights therein or the extinguishment or modification of any such rights, or   
+    (b) the taking over of the management of any property by the State for a limited period either in the public interest or in order to secure the proper management of the property, or   
+    (c) the amalgamation of two or more corporations either in the public interest or in order to secure the proper management of any of the corporations, or    
+    (d) the extinguishment or modification of any rights of managing agents, secretaries and treasurers, managing directors, directors or managers of corporations, or of any voting rights of shareholders thereof, or    
+    (e) the extinguishment or modification of any rights accruing by virtue of any agreement, lease or licence for the purpose of searching for, or winning, any mineral or mineral oil, or the premature termination or cancellation of any such agreement, lease or licence,  
+
+shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by <sup id="page31sup5">[5](#page31footer5)</sup>[article 14 or article 19]:   
+
+Provided that where such law is a law made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent:] 
+ 
+<sup id="page31sup6">[6](#page31footer6)</sup>[Provided further that where any law makes any provision for the acquisition by the State of any estate and where any land comprised therein is held by a person under his personal cultivation, it shall not be lawful for the State to acquire any portion of such land as is within the ceiling limit applicable to him under any law for the time being in force or any building or structure standing thereon or appurtenant thereto, unless the law relating to the acquisition of such land, building or structure, provides for payment of compensation at a rate which shall not be less than the market value thereof.]   
+
+(2) In this article,—   
+
+  <sup id="page31sup7">[7](#page31footer7)</sup>[(a) the expression “estate” shall, in relation to any local area, have the same meaning as that expression or its local equivalent has in the existing law relating to land tenures in force in that area and shall also include—    
 
 
+><b id="page31footer1">[1]</b>The sub-heading “Right to Property” omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 5 (w.e.f. 20-6-1979). [↩](#page31sup1)  
+><b id="page31footer2">[2]</b>Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 3 (w.e.f. 3-1-1977). [↩](#page31sup2)  
+><b id="page31footer3">[3]</b> Ins. by the Constitution (First Amendment) Act, 1951, s. 4 (with retrospective effect).[↩](#page31sup3)  
+><b id="page31footer4">[4]</b> Subs. by the Constitution (Fourth Amendment) Act, 1955, s. 3, for cl. (1) (with retrospective effect). [↩](#page31sup4)  
+><b id="page31footer5">[5]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 7 for “article 14, article 19 or article 31” (w.e.f. 20-6-1979). [↩](#page31sup5)  
+><b id="page31footer6">[6]</b>Ins. by the Constitution (Seventeenth Amendment) Act, 1964, s. 2 (w.e.f. 20-6-1964). [↩](#page31sup6)  
+><b id="page31footer7">[7]</b>Subs. by ibid., for sub-clause (a) (with retrospective effect). [↩](#page31sup7)  
 
 
+(i) any jagir, inam or muafi or other similar grant and in the States of <sup id="page32sup1">[1](#page32footer1)</sup>[Tamil Nadu] and Kerala, any janmam right;   
+        (ii) any land held under ryotwari settlement;  
+(iii) any land held or let for purposes of agriculture or for purposes ancillary thereto, including waste land, forest land, land for pasture or sites of buildings and other structures occupied by cultivators of land, agricultural labourers and village artisans;]  
+
+   (b) the expression “rights”, in relation to an estate, shall include any rights vesting in a proprietor, sub-proprietor, under-proprietor, tenure-holder, <sup id="page32sup2">[2](#page32footer2)</sup>[raiyat, under-raiyat]or other intermediary and any rights or privileges in respect of land revenue.]
+
+<sup id="page32sup3">[3](#page32footer3)</sup>[31B. Validation of certain Acts and Regulations.—Without prejudice to the generality of the provisions contained in article 31A, none of the Acts and Regulations specified in the Ninth Schedule nor any of the provisions thereof shall be deemed to be void, or ever to have become void, on the ground that such Act, Regulation or provision is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part, and notwithstanding any judgment, decree or order of any court or Tribunal to the contrary, each of the said Acts and Regulations shall, subject to the power of any competent Legislature to repeal or amend it, continue in force.]  
+
+<sup id="page32sup4">[4](#page32footer4)</sup>[31C. Saving of laws giving effect to certain directive principles.—Notwithstanding anything contained in article 13, no law giving effect to the policy of the State towards securing <sup id="page32sup5">[5](#page32footer5)</sup>[all or any of the principles laid down in Part IV] shall be deemed to be void on the ground that it is inconsistent with, or takes away or abridges any of the rights conferred by <sup id="page32sup6">[6](#page32footer6)</sup>[article 14 or article 19]; <sup id="page32sup7">[7](#page32footer7)</sup>[*and no law containing a declaration that it is for giving effect to such policy shall be called in question in any court on the ground that it does not give effect to such policy*]:  
+
+Provided that where such law is made by the Legislature of a State, the provisions of this article shall not apply thereto unless such law, having been reserved for the consideration of the President, has received his assent.]  
+
+<sup id="page32sup8">[8](#page32footer8)</sup>31D. *[Saving of laws in respect of anti-national activities.].–Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 2 (w.e.f. 13-4-1978).*  
+
+<p align="center">Right to Constitutional Remedies </p>
+
+32. Remedies for enforcement of rights conferred by this Part.—(1) The right to move the Supreme
+Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.  
+
+(2) The Supreme Court shall have power to issue directions or orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, whichever may be appropriate, for the enforcement of any of the rights conferred by this Part.  
+
+(3) Without prejudice to the powers conferred on the Supreme Court by clauses (1) and (2), Parliament may by law empower any other court to exercise within the local limits of its jurisdiction all or any of the powers exercisable by the Supreme Court under clause (2).  
+
+(4) The right guaranteed by this article shall not be suspended except as otherwise provided for by this Constitution.  
+
+><b id="page32footer1">[1]</b>Subs. by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 4, for “Madras” (w.e.f. 14-1-1969) [↩](#page32sup1)  
+><b id="page32footer2">[2]</b>Ins. by the Constitution (Fourth Amendment) Act, 1955, s. 3 (with retrospective effect). [↩](#page32sup2)  
+><b id="page32footer3">[3]</b> Ins. by the Constitution (First Amendment) Act, 1951, s. 5 (w.e.f. 18-6-1951).[↩](#page32sup3)  
+><b id="page32footer4">[4]</b> Ins. by the Constitution (Twenty-fifth Amendment) Act, 1971, s. 3. (w.e.f. 20-4-1972). [↩](#page32sup4)  
+><b id="page32footer5">[5]</b>Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 4, for “the principles specified in clause (b) or clause (c) of article 39” (w.e.f. 3-1-1977). Section 4 has been declared invalid by the Supreme Court in Minerva Mills Ltd. and others Vs. Union of India and others (1980) s. 2, AIR 1980 SC 1789. [↩](#page32sup5)  
+><b id="page32footer6">[6]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 8 for “article 14, article 19 or article 31” (w.e.f. 20-6-1979).  [↩](#page32sup6)  
+><b id="page32footer7">[7]</b>In Kesavananda Bharati Vs. the State of Kerala (1973). AIR 1973 SC 1461, the Supreme Court had held the provisions in italics
+to be invalid. [↩](#page32sup7)  
+><b id="page32footer8">[8]</b>Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 5 (w.e.f. 3-1-1977). [↩](#page32sup8)  
+
+<sup id="page33sup1">[1](#page33footer1)</sup>[32A. *Constitutional validity of State laws not to be considered in proceedings under article 32.].– Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 3 (w.e.f. 13-4-1978).*  
+
+<sup id="page33sup2">[2](#page33footer2)</sup>[33. Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.—Parliament may, by law, determine to what extent any of the rights conferred by this Part shall, in their application to,—  
+
+(a) the members of the Armed Forces; or  
+(b) the members of the Forces charged with the maintenance of public order; or  
+(c) persons employed in any bureau or other organisation established by the State for purposes of intelligence or counter intelligence; or  
+(d) person employed in, or in connection with, the telecommunication systems set up for the purposes of any Force, bureau or organisation referred to in clauses (a) to (c),  
+be restricted or abrogated so as to ensure the proper discharge of their duties and the maintenance of discipline among them.]  
+
+34. Restriction on rights conferred by this Part while martial law is in force in any area.— Notwithstanding anything in the foregoing provisions of this Part, Parliament may by law indemnify any person in the service of the Union or of a State or any other person in respect of any act done by him in connection with the maintenance or restoration of order in any area within the territory of India where martial law was in force or validate any sentence passed, punishment inflicted, forfeiture ordered or other act done under martial law in such area.  
+
+35. Legislation to give effect to the provisions of this Part.—Notwithstanding anything in this Constitution,—  
+(a) Parliament shall have, and the Legislature of a State shall not have, power to make laws—  
+ (i) with respect to any of the matters which under clause (3) of article 16, clause (3) of article
+32, article 33 and article 34 may be provided for by law made by Parliament; and  
+ (ii) for prescribing punishment for those acts which are declared to be offences under this Part,
+and Parliament shall, as soon as may be after the commencement of this Constitution, make laws for prescribing punishment for the acts referred to in sub-clause (ii);  
+(b) any law in force immediately before the commencement of this Constitution in the territory of India with respect to any of the matters referred to in sub-clause (i) of clause (a) or providing for punishment for any act referred to in sub-clause (ii) of that clause shall, subject to the terms thereof and to any adaptations and modifications that may be made therein under article 372, continue in force until altered or repealed or amended by Parliament.  
+Explanation.—In this article, the expression “law in force” has the same meaning as in article 372. 
+
+><b id="page33footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 6 (w.e.f. 1-2-1977).[↩](#page33sup1)  
+><b id="page33footer2">[2]</b>Subs. by the Constitution (Fiftieth Amendment) Act, 1984, s. 2 (w.e.f 11-9-1984). [↩](#page3sup2)  
+
+<p align="center">PART IV</p>
+<p align="center">DIRECTIVE PRINCIPLES OF STATE POLICY</p>
+36. Definition.—In this Part, unless the context otherwise requires, “the State” has the same meaning as in Part III.  
+
+37. Application of the principles contained in this Part.—The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.  
+
+38. State to secure a social order for the promotion of welfare of the people.—<sup id="page34sup1">[1](#page34footer1)</sup>[(1)] The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.  
+
+<sup id="page34sup2">[2](#page34footer2)</sup>[(2) The State shall, in particular, strive to minimise the inequalities in income, and endeavour to eliminate inequalities in status, facilities and opportunities, not only amongst individuals but also amongst groups of people residing in different areas or engaged in different vocations.]  
+
+39. Certain principles of policy to be followed by the State.—The State shall, in particular, direct its policy towards securing—  
+(a) that the citizens, men and women equally, have the right to an adequate means of livelihood;  
+(b) that the ownership and control of the material resources of the community are so distributed as
+best to subserve the common good;  
+(c) that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment;  
+(d) that there is equal pay for equal work for both men and women;  
+(e) that the health and strength of workers, men and women, and the tender age of children are not abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;     
+<sup id="page34sup3">[3](#page34footer3)</sup>[(f) that children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment.]  
+
+<sup id="page34sup4">[4](#page34footer4)</sup>[39A. Equal justice and free legal aid.—The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.]  
+
+40. Organisation of village panchayats.—The State shall take steps to organise village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.
+
+><b id="page34footer1">[1]</b> Art. 38 renumbered as cl. (1) thereof by the Constitution (Forty-fourth Amendment) Act, 1978, s. 9 (w.e.f. 20-6-1979). [↩](#page34sup1)  
+><b id="page34footer2">[2]</b>Ins. by ibid. [↩](#page34sup2)  
+><b id="page34footer3">[3]</b> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 7, for cl. (f) (w.e.f. 3-1-1977). [↩](#page34sup3)  
+><b id="page34footer4">[4]</b> Ins. by s. 8 ibid. [↩](#page34sup4)  
+
+
+41. Right to work, to education and to public assistance in certain cases.—The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want.  
+
+42. Provision for just and humane conditions of work and maternity relief.—The State shall make provision for securing just and humane conditions of work and for maternity relief.  
+
+43. Living wage, etc., for workers.—The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, in particular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas.  
+
+ <sup id="page35sup1">[1](#page35footer1)</sup>[43A. Participation of workers in management of industries.—The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings, establishments or other organisations engaged in any industry.]  
+ <sup id="page35sup2">[2](#page35footer2)</sup> [43B. Promotion of co-operative societies.—The State shall endeavour to promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies.]  
+
+44.Uniform civil code for the citizens.—The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India. 
+
+<sup id="page35sup3">[3](#page35footer3)</sup>[45. Provision for early childhood care and education to children below the age of six years.— The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years.]  
+
+46. Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.—The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.  
+
+47. Duty of the State to raise the level of nutrition and the standard of living and to improve public health.—The State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties and, in particular, the State shall endeavour to bring about prohibition of the consumption except for medicinal purposes of intoxicating drinks and of drugs which are injurious to health.  
+
+48. Organisation of agriculture and animal husbandry.—The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.  
+
+><b id="page35footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 9 (w.e.f. 3-1-1977). [↩](#page35sup1)  
+><b id="page35footer2">[2]</b>Ins. by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 3 (w.e.f. 15-2-2012). [↩](#page35sup2)  
+><b id="page35footer3">[3]</b> Subs. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 3 for art. 45 (w.e.f 1-4-2010).[↩](#page35sup3)  
+
+<sup id="page36sup1">[1](#page36footer1)</sup>[48A. Protection and improvement of environment and safeguarding of forests and wild life.— The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country.]  
+
+49. Protection of monuments and places and objects of national importance.—It shall be the obligation of the State to protect every monument or place or object of artistic or historic interest, <sup id="page36sup2">[2](#page36footer2)</sup>[declared by or under law made by Parliament] to be of national importance, from spoliation, disfigurement, destruction, removal, disposal or export, as the case may be.  
+
+50. Separation of judiciary from executive.—The State shall take steps to separate the judiciary from the executive in the public services of the State.  
+
+51. Promotion of international peace and security.—The State shall endeavour to—   
+(a) promote international peace and security;  
+(b) maintain just and honourable relations between nations;  
+(c) foster respect for international law and treaty obligations in the dealings of organised peoples
+with one another; and  
+(d) encourage settlement of international disputes by arbitration.  
+
+<sup id="page36sup3">[3](#page36footer3)</sup>[PART IVA 
+<p align="center">FUNDAMENTAL DUTIES</p>
+51A. Fundamental duties.—It shall be the duty of every citizen of India—  
+
+(a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the
+National Anthem;  
+(b) to cherish and follow the noble ideals which inspired our national struggle for freedom;  
+(c) to uphold and protect the sovereignty, unity and integrity of India;  
+(d) to defend the country and render national service when called upon to do so;  
+(e) to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities; to renounce practices derogatory to the dignity of women;  
+(f) to value and preserve the rich heritage of our composite culture;  
+(g) to protect and improve the natural environment including forests, lakes, rivers and wild life, and
+to have compassion for living creatures;  
+(h) to develop the scientific temper, humanism and the spirit of inquiry and reform;  
+
+><b id="page36footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 10 (w.e.f. 3-1-1977). [↩](#page36sup1)   
+><b id="page36footer2">[2]</b>  Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 27, for “declared by parliament by law” (w.e.f. 1-11-1956). [↩](#page36sup2)   
+><b id="page36footer3">[3]</b>  Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 11 (w.e.f. 3-1-1977). [↩](#page36sup3)  
+
+(i) to safeguard public property and to abjure violence;  
+(j) to strive towards excellence in all spheres of individual and collective activity so that the nation
+constantly rises to higher levels of endeavour and achievement;  
+<sup id="page37sup1">[1](#page37footer1)</sup>[(k) who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.]  
+<p align="center">PART V</p>
+<p align="center">THE UNION </p>
+<p align="center">CHAPTER I.—THE EXECUTIVE </p>
+<p align="center">The President and Vice-President</p>
+
+52. The President of India.—There shall be a President of India.  
+
+53. Executive power of the Union.—(1) The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him in accordance with this Constitution.  
+(2) Without prejudice to the generality of the foregoing provision, the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.  
+(3) Nothing in this article shall—  
+   (a) be deemed to transfer to the President any functions conferred by any existing law on the
+Government of any State or other authority; or  
+   (b) prevent Parliament from conferring by law functions on authorities other than the President.  
+
+54. Election of President.—The President shall be elected by the members of an electoral college consisting of—  
+(a) the elected members of both Houses of Parliament; and  
+(b) the elected members of the Legislative Assemblies of the States.  
+<sup id="page37sup2">[2](#page37footer2)</sup>[Explanation.—In this article and in article 55, “State” includes the National Capital Territory of Delhi and the Union territory of <sup id="page37sup3">[*](#page37footer3)</sup>Pondicherry.]  
+
+55. Manner of election of President.—(1) As far as practicable, there shall be uniformity in the scale of representation of the different States at the election of the President.  
+(2) For the purpose of securing such uniformity among the States inter se as well as parity between the States as a whole and the Union, the number of votes which each elected member of Parliament and of the Legislative Assembly of each State is entitled to cast at such election shall be determined in the following manner:—  
+ (a) every elected member of the Legislative Assembly of a State shall have as many votes as there are multiples of one thousand in the quotient obtained by dividing the population of the State by the total number of the elected members of the Assembly;  
+ (b) if, after taking the said multiples of one thousand, the remainder is not less than five hundred, then the vote of each member referred to in sub-clause (a) shall be further increased by one;  
+(c) each elected member of either House of Parliament shall have such number of votes as may be obtained by dividing the total number of votes assigned to the members of the Legislative Assemblies of the States under sub-clauses (a) and (b)by the total number of the elected members of both Houses of Parliament, fractions exceeding one-half being counted as one and other fractions being disregarded.  
+
+><b id="page37footer1">[1]</b> Ins. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 4 (w.e.f. 1-4-2010). [↩](#page37sup1)  
+><b id="page37footer2">[2]</b> Ins. by the Constitution (Seventieth Amendment) Act, 1992, s. 2 (w.e.f. 1-6-1995). [↩](#page37sup2)  
+><b id="page37footer3">*</b>Now Puducherry vide the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 3 (w.e.f. 1-10-2006). [↩](#page37sup3)  
+
+
+(3) The election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.  
+
+<sup id="page38sup1">[1](#page38footer1)</sup>[Explanation.—In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:  
+
+Provided that the reference in this Explanation to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year <sup id="page38sup2">[2](#page38footer2)</sup>[2026 have been published, be construed as a reference to the 1971 census.]  
+
+56. Term of office of President.—(1) The President shall hold office for a term of five years from the date on which he enters upon his office:  
+Provided that—  
+(a) the President may, by writing under his hand addressed to the Vice-President, resign his office;  
+(b) the President may, for violation of the Constitution, be removed from office by impeachment in the manner provided in article 61;  
+(c) the President shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.  
+(2) Any resignation addressed to the Vice-President under clause (a) of the proviso to clause (1) shall forthwith be communicated by him to the Speaker of the House of the People.  
+
+57. Eligibility for re-election.—A person who holds, or who has held, office as President shall, subject to the other provisions of this Constitution, be eligible for re-election to that office.  
+58. Qualifications for election as President.—(1) No person shall be eligible for election as President unless he—  
+(a) is a citizen of India,  
+(b) has completed the age of thirty-five years, and  
+(c) is qualified for election as a member of the House of the People.  
+(2) A person shall not be eligible for election as President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.  
+Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor <sup id="page38sup3">[3](#page38footer3)</sup>*** of any State or is a Minister either for the Union or for any State.  
+
+><b id="page38footer1">[1]</b> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 12, for the Explanation (w.e.f. 3-1-1977).  [↩](#page38sup1)  
+><b id="page38footer2">[2]</b> Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 2, for 2000 (w.e.f. 21-2-2002).  [↩](#page38sup2)  
+><b id="page38footer3">[3]</b> The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.
+ (w.e.f. 1-11-1956).  [↩](#page38sup3)  
+
+59. Conditions of President's office.—(1) The President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected President, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as President.  
+(2) The President shall not hold any other office of profit.  
+(3) The President shall be entitled without payment of rent to the use of his official residences and shall be also entitled to such emoluments, allowances and privileges as may be determined by Parliament by law and, until provision in that behalf is so made, such emoluments, allowances and privileges as are specified in the Second Schedule.  
+(4) The emoluments and allowances of the President shall not be diminished during his term of office.  
+
+60. Oath or affirmation by the President.—Every President and every person acting as President or discharging the functions of the President shall, before entering upon his office, make and subscribe in the presence of the Chief Justice of India or, in his absence, the senior-most Judge of the Supreme Court available, an oath or affirmation in the following form, that is to say—  
+
+   “I, A.B., do swear in the name of God that I will faithfully execute the office solemnly affirm
+of President (or discharge the functions of the President) of India and will to the best of my ability preserve, protect and defend the Constitution and the law and that I will devote myself to the service and well- being of the people of India.".  
+
+61. Procedure for impeachment of the President.—(1) When a President is to be impeached for violation of the Constitution, the charge shall be preferred by either House of Parliament.  
+(2) No such charge shall be preferred unless—  
+(a) the proposal to prefer such charge is contained in a resolution which has been moved after at least fourteen days' notice in writing signed by not less than one-fourth of the total number of members of the House has been given of their intention to move the resolution, and  
+(b) such resolution has been passed by a majority of not less than two-thirds of the total membership of the House.  
+(3) When a charge has been so preferred by either House of Parliament, the other House shall investigate the charge or cause the charge to be investigated and the President shall have the right to appear and to be represented at such investigation.  
+(4) If as a result of the investigation a resolution is passed by a majority of not less than two-thirds of the total membership of the House by which the charge was investigated or caused to be investigated, declaring that the charge preferred against the President has been sustained, such resolution shall have the effect of removing the President from his office as from the date on which the resolution is so passed.  
+
+62. Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy.—(1) An election to fill a vacancy caused by the expiration of the term of office of President shall be completed before the expiration of the term.  
+(2) An election to fill a vacancy in the office of President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after, and in no case later than six months from, the date of occurrence of the vacancy; and the person elected to fill the vacancy shall, subject to the provisions of article 56, be entitled to hold office for the full term of five years from the date on which he enters upon his office.  
+
+
+63. The Vice-President of India.—There shall be a Vice-President of India.  
+
+64. The Vice-President to be ex officio Chairman of the Council of States.—The Vice-President shall be ex officio Chairman of the Council of the States and shall not hold any other office of profit:  
+Provided that during any period when the Vice-President acts as President or discharges the functions of the President under article 65, he shall not perform the duties of the office of Chairman of the Council of States and shall not be entitled to any salary or allowance payable to the Chairman of the Council of States under article 97.  
+
+65. The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President.—(1) In the event of the occurrence of any vacancy in the office of the President by reason of his death, resignation or removal, or otherwise, the Vice-President shall act as President until the date on which a new President elected in accordance with the provisions of this Chapter to fill such vacancy enters upon his office.  
+(2) When the President is unable to discharge his functions owing to absence, illness or any other cause, the Vice-President shall discharge his functions until the date on which the President resumes his duties.  
+(3) The Vice-President shall, during, and in respect of, the period while he is so acting as, or discharging the functions of, President, have all the powers and immunities of the President and be entitled to such emoluments, allowances and privileges as may be determined by Parliament by law and, until provision in that behalf is so made, such emoluments, allowances and privileges as are specified in the Second Schedule.  
+
+66. Election of Vice-President.—(1) The Vice-President shall be elected by the <sup id="page40sup1">[1](#page40footer1)</sup>[members of an electoral college consisting of the members of both Houses of Parliament] in accordance with the system of proportional representation by means of the single transferable vote and the voting at such election shall be by secret ballot.  
+(2) The Vice-President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected Vice-President, he shall be deemed to have vacated his seat in that House on the date on which he enters upon his office as Vice-President.  
+(3) No person shall be eligible for election as Vice-President unless he— (a) is a citizen of India;  
+(b) has completed the age of thirty-five years; and  
+(c) is qualified for election as a member of the Council of States.  
+(4) A person shall not be eligible for election as Vice-President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.  
+Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor<sup id="page40sup2">[2](#page40footer2)</sup>*** of any State or is a Minister either for the Union or for any State.  
+
+67. Term of office of Vice-President.—The Vice-President shall hold office for a term of five years  
+
+><b id="page40footer1">[1]</b> Subs. by the Constitution (Eleventh Amendment) Act,1961, s. 2, for “members of both Houses of Parliament assembled at a joint meeting”(w.e.f. 19-12-1961). [↩](#page40sup1)  
+><b id="page40footer2">[2]</b> The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956). [↩](#page40sup2)  
 
 
 
