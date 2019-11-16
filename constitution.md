@@ -1083,10 +1083,130 @@ Provided that during any period when the Vice-President acts as President or dis
 (4) A person shall not be eligible for election as Vice-President if he holds any office of profit under the Government of India or the Government of any State or under any local or other authority subject to the control of any of the said Governments.  
 Explanation.—For the purposes of this article, a person shall not be deemed to hold any office of profit by reason only that he is the President or Vice-President of the Union or the Governor<sup id="page40sup2">[2](#page40footer2)</sup>*** of any State or is a Minister either for the Union or for any State.  
 
-67. Term of office of Vice-President.—The Vice-President shall hold office for a term of five years  
+67. Term of office of Vice-President.—The Vice-President shall hold office for a term of five years from the date on which he enters upon his office:  Provided that—  
+(a) a Vice-President may, by writing under his hand addressed to the President, resign his office;  
+(b) a Vice-President may be removed from his office by a resolution of the Council of States passed by a majority of all the then members of the Council and agreed to by the House of the People; but no resolution for the purpose of this clause shall be moved unless at least fourteen days' notice has been given of the intention to move the resolution;  
+(c) a Vice-President shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.  
 
 ><b id="page40footer1">[1]</b> Subs. by the Constitution (Eleventh Amendment) Act,1961, s. 2, for “members of both Houses of Parliament assembled at a joint meeting”(w.e.f. 19-12-1961). [↩](#page40sup1)  
 ><b id="page40footer2">[2]</b> The words “or Rajpramukh or Uparajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956). [↩](#page40sup2)  
 
+68. Time of holding election to fill vacancy in the office of Vice-President and the term of office of person elected to fill casual vacancy.—(1) An election to fill a vacancy caused by the expiration of the term of office of Vice-President shall be completed before the expiration of the term.  
+(2) An election to fill a vacancy in the office of Vice-President occurring by reason of his death, resignation or removal, or otherwise shall be held as soon as possible after the occurrence of the vacancy, and the person elected to fill the vacancy shall, subject to the provisions of article 67, be entitled to hold office for the full term of five years from the date on which he enters upon his office.  
+
+69. Oath or affirmation by the Vice-President.—Every Vice-President shall, before entering upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation in the following form, that is to say—  
+“I, A.B., do swear in the name of God that I will bear true faith and solemnly affirm
+allegiance to the Constitution of India as by law established and that I will faithfully discharge the duty upon which I am about to enter.”.  
+
+70. Discharge of President's functions in other contingencies.—Parliament may make such provisions as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter.  
+
+<sup id="page41sup1">[1](#page41footer1)</sup>[71. Matters relating to, or connected with, the election of a President or Vice-President.—(1) All doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court whose decision shall be final.  
+(2) If the election of a person as President or Vice-President is declared void by the Supreme Court, acts done by him in the exercise and performance of the powers and duties of the office of President or Vice-President, as the case may be, on or before the date of the decision of the Supreme Court shall not be invalidated by reason of that declaration.  
+(3) Subject to the provisions of this Constitution, Parliament may by law regulate any matter relating to or connected with the election of a President or Vice-President.  
+(4) The election of a person as President or Vice-President shall not be called in question on the ground of the existence of any vacancy for whatever reason among the members of the electoral college electing him.]
+
+><b id="page41footer1">[1]</b> Art. 71 has been successively subs. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 2 (w.e.f. 10-8-1975) and the
+Constitution (Forty-fourth Amendment) Act, 1978, s. 10 to read as above (w.e.f. 20-6-1979).  [↩](#page41sup1)  
+
+72. Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.—(1) The President shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence—  
+(a) in all cases where the punishment or sentence is by a Court Martial;  
+(b) in all cases where the punishment or sentence is for an offence against any law relating to a
+matter to which the executive power of the Union extends;  
+(c) in all cases where the sentence is a sentence of death.  
+(2) Nothing in sub-clause (a) of clause (1) shall affect the power conferred by law on any officer of the Armed Forces of the Union to suspend, remit or commute a sentence passed by a Court Martial.  
+(3) Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor <sup id="page42sup1">[1](#page42footer1)</sup>*** of a State under any law for the time being in force.  
+
+73. Extent of executive power of the Union.—(1) Subject to the provisions of this Constitution, the executive power of the Union shall extend—  
+(a) to the matters with respect to which Parliament has power to make laws; and  
+(b) to the exercise of such rights, authority and jurisdiction as are exercisable by the Government of
+India by virtue of any treaty or agreement:  
+Provided that the executive power referred to in sub-clause (a) shall not, save as expressly provided in this Constitution or in any law made by Parliament, extend in any State <sup id="page42sup2">[2](#page42footer2)</sup>*** to matters with respect to which the Legislature of the State has also power to make laws.  
+(2) Until otherwise provided by Parliament, a State and any officer or authority of a State may, notwithstanding anything in this article, continue to exercise in matters with respect to which Parliament has power to make laws for that State such executive power or functions as the State or officer or authority thereof could exercise immediately before the commencement of this Constitution.  
+
+<p align="center">Council of Ministers  </p>
+
+74. Council of Ministers to aid and advise President.—<sup id="page42sup3">[3](#page42footer3)</sup>[(1) There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President who shall, in the exercise of his functions, act in accordance with such advice:]  
+<sup id="page42sup4">[4](#page42footer4)</sup>[Provided that the President may require the Council of Ministers to reconsider such advice, either generally or otherwise, and the President shall act in accordance with the advice tendered after such reconsideration.]  
+(2) The question whether any, and if so what, advice was tendered by Ministers to the President shall not be inquired into in any court.  
+
+><b id="page42footer1">[1]</b>The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956). [↩](#page42sup1)  
+><b id="page42footer2">[2]</b>The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
+Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).  [↩](#page42sup2)  
+><b id="page42footer3">[3]</b>Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 13 (w.e.f. 3-1-1977).  [↩](#page42sup3)  
+><b id="page42footer4">[4]</b>Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 11 (w.e.f. 20-6-1979). [↩](#page42sup4)  
 
 
+75. Other provisions as to Ministers.—(1) The Prime Minister shall be appointed by the President and the other Ministers shall be appointed by the President on the advice of the Prime Minister.  
+<sup id="page43sup1">[1](#page43footer1)</sup>[(1A) The total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed fifteen per cent. of the total number of members of the House of the People.  
+(1B) A member of either House of Parliament belonging to any political party who is disqualified for being a member of that House under paragraph 2 of the Tenth Schedule shall also be disqualified to be appointed as a Minister under clause (1) for duration of the period commencing from the date of his disqualification till the date on which the term of his office as such member would expire or where he contests any election to either House of Parliament before the expiry of such period, till the date on which he is declared elected, whichever is earlier.]  
+(2) The Ministers shall hold office during the pleasure of the President.  
+(3) The Council of Ministers shall be collectively responsible to the House of the People.  
+(4) Before a Minister enters upon his office, the President shall administer to him the oaths of office and of secrecy according to the forms set out for the purpose in the Third Schedule.  
+(5) A Minister who for any period of six consecutive months is not a member of either House of Parliament shall at the expiration of that period cease to be a Minister.  
+(6) The salaries and allowances of Ministers shall be such as Parliament may from time to time by law determine and, until Parliament so determines, shall be as specified in the Second Schedule.  
+
+<p align="center">The Attorney-General for India  </p>
+
+76. Attorney-General for India.—(1) The President shall appoint a person who is qualified to be
+appointed a Judge of the Supreme Court to be Attorney-General for India.  
+(2) It shall be the duty of the Attorney-General to give advice to the Government of India upon such legal matters, and to perform such other duties of a legal character, as may from time to time be referred or assigned to him by the President, and to discharge the functions conferred on him by or under this Constitution or any other law for the time being in force.  
+(3) In the performance of his duties the Attorney-General shall have right of audience in all courts in the territory of India.  
+(4) The Attorney-General shall hold office during the pleasure of the President, and shall receive such remuneration as the President may determine.  
+
+<p align="center">Conduct of Government Business</p>
+
+77. Conduct of business of the Government of India.—(1) All executive action of the Government
+of India shall be expressed to be taken in the name of the President.
+(2) Orders and other instruments made and executed in the name of the President shall be authenticated in such manner as may be specified in rules<sup id="page43sup2">[2](#page43footer2)</sup> to be made by the President, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the President.  
+(3) The President shall make rules for the more convenient transaction of the business of the Government of India, and for the allocation among Ministers of the said business.  
+
+><b id="page43footer1">[1]</b>Ins. by the Constitution (Ninety-first Amendment) Act, 2003, s. 2 (w.e.f. 1-1-2004). [↩](#page43sup1)  
+><b id="page43footer2">[2]</b>See notification No. S.O. 2297, dated the 3rd November, 1958, Gazette of India, Extraordinary, 1958, Pt. II, Sec. 3 (ii), p. 1315, as amended from time to time. [↩](#page43sup2)  
+
+<sup id="page44sup1">[1](#page44footer1)</sup>*****  
+
+78. Duties of Prime Minister as respects the furnishing of information to the President, etc.—It shall be the duty of the Prime Minister—  
+(a) to communicate to the President all decisions of the Council of Ministers relating to the administration of the affairs of the Union and proposals for legislation;  
+(b) to furnish such information relating to the administration of the affairs of the Union and proposals for legislation as the President may call for; and  
+(c) if the President so requires, to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but which has not been considered by the Council.  
+
+<p align="center">CHAPTER II.—PARLIAMENT</p>
+<p align="center">General</p>
+
+79. Constitution of Parliament.—There shall be a Parliament for the Union which shall consist of the President and two Houses to be known respectively as the Council of States and the House of the People.  
+
+80. Composition of the Council of States.—(1) <sup id="page44sup2">[2](#page44footer2)</sup>[<sup id="page44sup3">[3](#page44footer3)</sup>*** The Council of States] shall consist of—  
+(a) twelve members to be nominated by the President in accordance with the provisions of
+clause (3); and  
+(b) not more than two hundred and thirty-eight representatives of the States <sup id="page44sup4">[4](#page44footer4)</sup>[and of the Union
+territories.]  
+(2) The allocation of seats in the Council of States to be filled by representatives of the States 4[and of the Union territories] shall be in accordance with the provisions in that behalf contained in the Fourth Schedule.  
+(3) The members to be nominated by the President under sub-clause (a) of clause (1) shall consist of persons having special knowledge or practical experience in respect of such matters as the following, namely:—  
+Literature, science, art and social service.
+
+><b id="page44footer1">[1]</b>Cl. (4) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 14 (w.e.f. 3-1-1977) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 12 (w.e.f. 20-6-1979). [↩](#page44sup1)  
+><b id="page44footer2">[2]</b>Subs. by the Constitution (Thirty-fifth Amendment) Act, 1974, s. 3, for “The Council of States” (w.e.f. 1-3-1975). [↩](#page44sup2)  
+><b id="page44footer3">[3]</b>The words “Subject to the provisions of paragraph 4 of the Tenth Schedule,” omitted by the Constitution (Thirty-sixth
+Amendment) Act, 1974, s. 5 (w.e.f. 26-4-1975). [↩](#page44sup3)  
+><b id="page44footer4">[4]</b>Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 3 (w.e.f. 1-11-1956).  [↩](#page44sup4)  
+(4) The representatives of each State <sup id="page45sup1">[1](#page45footer1)</sup>*** in the Council of States shall be elected by the elected members of the Legislative Assembly of the State in accordance with the system of proportional representation by means of the single transferable vote.  
+(5) The representatives of the <sup id="page45sup2">[2](#page45footer2)</sup>[Union territories] in the Council of States shall be chosen in such manner as Parliament may by law prescribe.  
+
+<sup id="page45sup3">[3](#page45footer3)</sup>[81. Composition of the House of the People.—(1) <sup id="page45sup4">[4](#page45footer4)</sup>[Subject to the provisions of article 331 <sup id="page45sup5">[5](#page45footer5)</sup>***], the House of the People shall consist of—  
+(a) not more than <sup id="page45sup6">[6](#page45footer6)</sup>[five hundred and thirty members] chosen by direct election from territorial constituencies in the States, and  
+(b) not more than <sup id="page45sup7">[7](#page45footer7)</sup>[twenty members] to represent the Union territories, chosen in such manner as Parliament may by law provide.
+(2) For the purposes of sub-clause (a) of clause (1),—  
+(a) there shall be allotted to each State a number of seats in the House of the People in such manner that the ratio between that number and the population of the State is, so far as practicable, the same for all States; and  
+(b) each State shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it is, so far as practicable, the same throughout the State:  
+<sup id="page45sup8">[8](#page45footer8)</sup>[Provided that the provisions of sub-clause (a) of this clause shall not be applicable for the purpose of allotment of seats in the House of the People to any State so long as the population of that State does not exceed six millions.]  
+
+><b id="page45footer1">[1]</b>The words and letters “specified in Part A and Part B of the First Schedule” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 3 (w.e.f. 1-11-1956). [↩](#page45sup1)  
+><b id="page45footer2">[2]</b>Subs. by ibid., for “States specified in Part C of the First Schedule”. [↩](#page45sup2)  
+><b id="page45footer3">[3]</b>Subs. by ibid., s. 4, for arts. 81 and 82. [↩](#page45sup3)  
+><b id="page45footer4">[4]</b>Subs. by the Constitution (Thirty-fifth Amendment) Act, 1974, s. 4, for “Subject to the provisions of article 331” (w.e.f. 1-3-1975). [↩](#page45sup4)  
+><b id="page45footer5">[5]</b>The words and figure “and paragraph 4 of the Tenth Schedule,” omitted by the Constitution (Thirty-sixth Amendment) Act, 1975, s. 5 (w.e.f. 26-4-1975). [↩](#page45sup5)  
+><b id="page45footer6">[6]</b>Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987), s. 63, for “five hundred and twenty-five members”, (w.e.f. 30-5-1987). [↩](#page45sup6)  
+><b id="page45footer7">[7]</b> Subs. by the Constitution (Thirty-first Amendment) Act, 1973, s. 2, for “twenty-five members” (w.e.f. 17-10-1973). [↩](#page45sup7)  
+><b id="page45footer8">[8]</b>Ins. by ibid. [↩](#page45sup8)  
+
+(3) In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:  
