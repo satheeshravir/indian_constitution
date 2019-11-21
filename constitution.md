@@ -1194,7 +1194,7 @@ Amendment) Act, 1974, s. 5 (w.e.f. 26-4-1975). [↩](#page44sup3)
 
 <sup id="page45sup3">[3](#page45footer3)</sup>[81. Composition of the House of the People.—(1) <sup id="page45sup4">[4](#page45footer4)</sup>[Subject to the provisions of article 331 <sup id="page45sup5">[5](#page45footer5)</sup>***], the House of the People shall consist of—  
 (a) not more than <sup id="page45sup6">[6](#page45footer6)</sup>[five hundred and thirty members] chosen by direct election from territorial constituencies in the States, and  
-(b) not more than <sup id="page45sup7">[7](#page45footer7)</sup>[twenty members] to represent the Union territories, chosen in such manner as Parliament may by law provide.
+(b) not more than <sup id="page45sup7">[7](#page45footer7)</sup>[twenty members] to represent the Union territories, chosen in such manner as Parliament may by law provide.  
 (2) For the purposes of sub-clause (a) of clause (1),—  
 (a) there shall be allotted to each State a number of seats in the House of the People in such manner that the ratio between that number and the population of the State is, so far as practicable, the same for all States; and  
 (b) each State shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it is, so far as practicable, the same throughout the State:  
@@ -1210,3 +1210,120 @@ Amendment) Act, 1974, s. 5 (w.e.f. 26-4-1975). [↩](#page44sup3)
 ><b id="page45footer8">[8]</b>Ins. by ibid. [↩](#page45sup8)  
 
 (3) In this article, the expression “population” means the population as ascertained at the last preceding census of which the relevant figures have been published:  
+<sup id="page46sup1">[1](#page46footer1)</sup>[Provided that the reference in this clause to the last preceding census of which the relevant figures have been published shall, until the relevant figures for the first census taken after the year <sup id="page46sup2">[2](#page46footer2)</sup>[2026] have been published, <sup id="page46sup3">[3](#page46footer3)</sup>[be construed,—  
+(i) for the purposes of sub-clause (a) of clause (2) and the proviso to that clause, as a reference to the 1971 census; and  
+(ii) for the purposes of sub-clause (b)of clause (2) as a reference to the <sup id="page46sup4">[4](#page46footer4)</sup>[2001] census.]  
+
+82. Readjustment after each census.—Upon the completion of each census, the allocation of seats in the House of the People to the States and the division of each State into territorial constituencies shall be readjusted by such authority and in such manner as Parliament may by law determine:  
+Provided that such readjustment shall not affect representation in the House of the People until the dissolution of the then existing House:  
+Provided further that such readjustment shall take effect from such date as the President may, by order, specify and until such readjustment takes effect, any election to the House may be held on the basis of the territorial constituencies existing before such readjustment:  
+Provided also that until the relevant figures for the first census taken after the year <sup id="page46sup5">[5](#page46footer5)</sup>[2026] have been published, it shall not be necessary to <sup id="page46sup6">[6](#page46footer6)</sup>[readjust—  
+(i) the allocation of seats in the House of the People to the States as readjusted on the basis of the 1971 census; and  
+(ii) the division of each State into territorial constituencies as may be readjusted on the basis of the <sup id="page46sup7">[7](#page46footer7)</sup>[2001] census,
+under this article.]  
+
+83. Duration of Houses of Parliament.—(1) The Council of States shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.  
+(2) The House of the People, unless sooner dissolved, shall continue for <sup id="page46sup8">[8](#page46footer8)</sup>[five years] from the date appointed for its first meeting and no longer and the expiration of the said period of <sup id="page46sup8">[8](#page46footer8)</sup>[five years] shall operate as a dissolution of the House:  
+Provided that the said period may, while a Proclamation of Emergency is in operation, be extended by Parliament by law for a period not exceeding one year at a time and not extending in any case beyond a period of six months after the Proclamation has ceased to operate.  
+
+><b id="page46footer1">[1]</b> Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 15 (w.e.f. 3-1-1977). [↩](#page46sup1)  
+><b id="page46footer2">[2]</b> Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 3, for “2000” (w.e.f 21-2-2002). [↩](#page46sup2)  
+><b id="page46footer3">[3]</b>Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 3, for certain words (w.e.f. 21-2-2002). [↩](#page46sup3)  
+><b id="page46footer4">[4]</b>Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 2, for “1991” (w.e.f 22-6-2003). [↩](#page46sup4)  
+><b id="page46footer5">[5]</b>Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 4, for “2000” (w.e.f. 21-2-2002). [↩](#page46sup5)  
+><b id="page46footer6">[6]</b> Subs. by ibid., for certain words.[↩](#page46sup6)  
+><b id="page46footer7">[7]</b> Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 3, for “1991” (w.e.f. 22-6-2003). [↩](#page46sup7)  
+><b id="page46footer8">[8]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 13, for “six years” (w.e.f. 20-6-1979). The words “six years”.were subs. for the original words “five years” by the Constitution (Forty-second Amendment) Act, 1976, s. 17 (w.e.f. 3-1-1977). [↩](#page46sup8)  
+
+84. Qualification for membership of Parliament.—A person shall not be qualified to be chosen to fill a seat in Parliament unless he—  
+<sup id="page47sup1">[1](#page47footer1)</sup>[(a) is a citizen of India, and makes and subscribes before some person authorised in that behalf by the Election Commission an oath or affirmation according to the form set out for the purpose in the Third Schedule;]  
+(b) is, in the case of a seat in the Council of States, not less than thirty years of age and, in the case of a seat in the House of the People, not less than twenty-five years of age; and  
+(c) possesses such other qualifications as may be prescribed in that behalf by or under any law made by Parliament.  
+
+<sup id="page47sup2">[2](#page47footer2)</sup>[85. Sessions of Parliament, prorogation and dissolution.—(1) The President shall from time to time summon each House of Parliament to meet at such time and place as he thinks fit, but six months shall not intervene between its last sitting in one session and the date appointed for its first sitting in the next session.  
+(2) The President may from time to time— (a) prorogue the Houses or either House; (b) dissolve the House of the People.]  
+
+86. Right of President to address and send messages to Houses.—(1) The President may address either House of Parliament or both Houses assembled together, and for that purpose require the attendance of members.  
+(2) The President may send messages to either House of Parliament, whether with respect to a Bill then pending in Parliament or otherwise, and a House to which any message is so sent shall with all convenient despatch consider any matter required by the message to be taken into consideration.  
+
+87. Special address by the President.—(1) At the commencement of <sup id="page47sup3">[3](#page47footer3)</sup>[the first session after each general election to the House of the People and at the commencement of the first session of each year] the President shall address both Houses of Parliament assembled together and inform Parliament of the causes of its summons.  
+(2) Provision shall be made by the rules regulating the procedure of either House for the allotment of time for discussion of the matters referred to in such address <sup id="page47sup4">[4](#page47footer4)</sup>***.  
+
+88. Rights of Ministers and Attorney-General as respects Houses.—Every Minister and the Attorney-General of India shall have the right to speak in, and otherwise to take part in the proceedings of, either House, any joint sitting of the Houses, and any committee of Parliament of which he may be named a member, but shall not by virtue of this article be entitled to vote.  
+
+<p align="center">Officers of Parliament </p>
+
+89. The Chairman and Deputy Chairman of the Council of States.—(1) The Vice- President of India
+shall be ex officio Chairman of the Council of States.  
+(2) The Council of States shall, as soon as may be, choose a member of the Council to be Deputy Chairman thereof and, so often as the office of Deputy Chairman becomes vacant, the Council shall choose another member to be Deputy Chairman thereof.  
+
+><b id="page47footer1">[1]</b> Subs. by the Constitution (Sixteenth Amendment) Act, 1963, s. 3 (w.e.f. 5-10-1963).[↩](#page47sup1)  
+><b id="page47footer2">[2]</b> Subs. by the Constitution (First Amendment) Act, 1951, s. 6 (w.e.f 18-6-1951).[↩](#page47sup2)  
+><b id="page47footer3">[3]</b> Subs. by ibid., s. 7, for “every session”. [↩](#page47sup3)  
+><b id="page47footer4">[4]</b>The words “and for the precedence of such discussion over other business of the House” omitted by ibid. [↩](#page47sup4)  
+
+90. Vacation and resignation of, and removal from, the office of Deputy Chairman.—A member holding office as Deputy Chairman of the Council of States—  
+(a) shall vacate his office if he ceases to be a member of the Council;  
+(b) may at any time, by writing under his hand addressed to the Chairman, resign his office; and  
+(c) may be removed from his office by a resolution of the Council passed by a majority of all the then members of the Council:
+Provided that no resolution for the purpose of clause (c)shall be moved unless at least fourteen days’ notice has been given of the intention to move the resolution.  
+
+91. Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.—(1) While the office of Chairman is vacant, or during any period when the Vice-President is acting as, or discharging the functions of, President, the duties of the office shall be performed by the Deputy Chairman, or, if the office of Deputy Chairman is also vacant, by such member of the Council of States as the President may appoint for the purpose.  
+(2) During the absence of the Chairman from any sitting of the Council of States the Deputy Chairman, or, if he is also absent, such person as may be determined by the rules of procedure of the Council, or, if no such person is present, such other person as may be determined by the Council, shall act as Chairman.  
+
+92. The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.—(1) At any sitting of the Council of States, while any resolution for the removal of the Vice-President from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, the Deputy Chairman, shall not, though he is present, preside, and the provisions of clause (2) of article 91 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Chairman, or, as the case may be, the Deputy Chairman, is absent.  
+(2) The Chairman shall have the right to speak in, and otherwise to take part in the proceedings of, the Council of States while any resolution for the removal of the Vice-President from his office is under consideration in the Council, but, notwithstanding anything in article 100, shall not be entitled to vote at all on such resolution or on any other matter during such proceedings.  
+
+93. The Speaker and Deputy Speaker of the House of the People.—The House of the People shall, as soon as may be, choose two members of the House to be respectively Speaker and Deputy Speaker thereof and, so often as the office of Speaker or Deputy Speaker becomes vacant, the House shall choose another member to be Speaker or Deputy Speaker, as the case may be.  
+
+94. Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.— A member holding office as Speaker or Deputy Speaker of the House of the People—  
+(a) shall vacate his office if he ceases to be a member of the House of the People;  
+(b) may at any time, by writing under his hand addressed, if such member is the Speaker, to the
+Deputy Speaker, and if such member is the Deputy Speaker, to the Speaker, resign his office; and  
+(c) may be removed from his office by a resolution of the House of the People passed by a majority of all the then members of the House:  
+Provided that no resolution for the purpose of clause (c)shall be moved unless at least fourteen days’ notice has been given of the intention to move the resolution:  
+Provided further that, whenever the House of the People is dissolved, the Speaker shall not vacate his office until immediately before the first meeting of the House of the People after the dissolution.  
+
+95. Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.—(1) While the office of Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker or, if the office of Deputy Speaker is also vacant, by such member of the House of the People as the President may appoint for the purpose.  
+(2) During the absence of the Speaker from any sitting of the House of the People the Deputy Speaker or, if he is also absent, such person as may be determined by the rules of procedure of the House, or, if no such person is present, such other person as may be determined by the House, shall act as Speaker.  
+
+96. The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.—(1) At any sitting of the House of the People, while any resolution for the removal of the Speaker from his office is under consideration, the Speaker, or while any resolution for the removal of the Deputy Speaker from his office is under consideration, the Deputy Speaker, shall not, though he is present, preside, and the provisions of clause (2) of article 95 shall apply in relation to every such sitting as they apply in relation to a sitting from which the Speaker, or, as the case may be, the Deputy Speaker, is absent.  
+(2) The Speaker shall have the right to speak in, and otherwise to take part in the proceedings of, the House of the People while any resolution for his removal from office is under consideration in the House and shall, notwithstanding anything in article 100, be entitled to vote only in the first instance on such resolution or on any other matter during such proceedings but not in the case of an equality of votes.  
+
+97. Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker.—There shall be paid to the Chairman and the Deputy Chairman of the Council of States, and to the Speaker and the Deputy Speaker of the House of the People, such salaries and allowances as may be respectively fixed by Parliament by law and, until provision in that behalf is so made, such salaries and allowances as are specified in the Second Schedule.  
+
+98. Secretariat of Parliament.—(1) Each House of Parliament shall have a separate secretarial staff:  
+Provided that nothing in this clause shall be construed as preventing the creation of posts common to both Houses of Parliament.  
+(2) Parliament may by law regulate the recruitment, and the conditions of service of persons appointed, to the secretarial staff of either House of Parliament.  
+(3) Until provision is made by Parliament under clause (2), the President may, after consultation with the Speaker of the House of the People or the Chairman of the Council of States, as the case may be, make rules regulating the recruitment, and the conditions of service of persons appointed, to the secretarial staff of the House of the People or the Council of States, and any rules so made shall have effect subject to the provisions of any law made under the said clause.  
+
+<p align="center">Conduct of Business</p>
+
+99. Oath or affirmation by members.—Every member of either House of Parliament shall, before taking his seat, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.  
+
+100. Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.—(1) Save as otherwise provided in this Constitution, all questions at any sitting of either House or joint sitting of the Houses shall be determined by a majority of votes of the members present and voting, other than the Speaker or person acting as Chairman or Speaker.  
+The Chairman or Speaker, or person acting as such, shall not vote in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.  
+(2) Either House of Parliament shall have power to act notwithstanding any vacancy in the membership thereof, and any proceedings in Parliament shall be valid notwithstanding that it is discovered subsequently that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.  
+<sup id="page50sup1">[1](#page50footer1)</sup>[(3) Until Parliament by law otherwise provides, the quorum to constitute a meeting of either House of Parliament shall be one-tenth of the total number of members of the House.  
+(4) If at any time during a meeting of a House there is no quorum, it shall be the duty of the Chairman or Speaker, or person acting as such, either to adjourn the House or to suspend the meeting until there is a quorum.]  
+
+<p align="center">Disqualifications of Members</p>
+
+101. Vacation of seats.—(1) No person shall be a member of both Houses of Parliament and provision shall be made by Parliament by law for the vacation by a person who is chosen a member of both Houses of his seat in one House or the other.  
+(2) No person shall be a member both of Parliament and of a House of the Legislature of a State <sup id="page50sup2">[2](#page50footer2)</sup>***, and if a person is chosen a member both of Parliament and of a House of the Legislature of <sup id="page50sup3">[3](#page50footer3)</sup>[a State], then, at the expiration of such period as may be specified in rules<sup id="page50sup4">[4](#page50footer4)</sup> made by the President, that person’s seat in Parliament shall become vacant, unless he has previously resigned his seat in the Legislature of the State.  
+(3) If a member of either House of Parliament—  
+(a) becomes subject to any of the disqualifications mentioned in <sup id="page50sup5">[5](#page50footer5)</sup>[clause (1) or clause (2) of article 102], or  
+<sup id="page50sup6">[6](#page50footer6)</sup>[(b) resigns his seat by writing under his hand addressed to the Chairman or the Speaker, as the case may be, and his resignation is accepted by the Chairman or the Speaker, as the case may be,] his seat shall thereupon become vacant:  
+<sup id="page50sup7">[7](#page50footer7)</sup>[Provided that in the case of any resignation referred to in sub-clause (b), if from information received or otherwise and after making such inquiry as he thinks fit, the Chairman or the Speaker, as the case may be, is satisfied that such resignation is not voluntary or genuine, he shall not accept such resignation.]  
+(4) If for a period of sixty days a member of either House of Parliament is without permission of the House absent from all meetings thereof, the House may declare his seat vacant:  
+Provided that in computing the said period of sixty days no account shall be taken of any period during which the House is prorogued or is adjourned for more than four consecutive days.  
+
+><b id="page50footer1">[1]</b> Cls. (3) and (4) were omitted by the Constitution (Forty-second Amendment) Act, 1976, s. 18 (date yet to be notified). [↩](#page50sup1)  
+><b id="page50footer2">[2]</b> The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).[↩](#page50sup2)  
+><b id="page50footer3">[3]</b>Subs. by ibid., for “such a State”. [↩](#page50sup3)  
+><b id="page50footer4">[4]</b>See the Prohibition of Simultaneous Membership Rules, 1950, published with the Ministry of Law notification No. F.46/50-C, dated the 26th January, 1950, Gazette of India, Extraordinary, P. 678.[↩](#page50sup4)  
+><b id="page50footer5">[5]</b>Subs. by the Constitution (Fifty-second Amendment) Act, 1985, s. 2, for “clause (1) of article 102” (w.e.f. 1-3-1985). [↩](#page50sup5)  
+><b id="page50footer6">[6]</b> Subs. by the Constitution (Thirty-third Amendment) Act, 1974, s. 2 (w.e.f. 19-5-1974).[↩](#page50sup6)  
+><b id="page50footer7">[7]</b> Ins. by ibid. [↩](#page50sup7)  
+
+ 
