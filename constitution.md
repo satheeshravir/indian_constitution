@@ -1326,4 +1326,109 @@ Provided that in computing the said period of sixty days no account shall be tak
 ><b id="page50footer6">[6]</b> Subs. by the Constitution (Thirty-third Amendment) Act, 1974, s. 2 (w.e.f. 19-5-1974).[↩](#page50sup6)  
 ><b id="page50footer7">[7]</b> Ins. by ibid. [↩](#page50sup7)  
 
- 
+102. Disqualifications for membership.—(1) A person shall be disqualified for being chosen as, and for being, a member of either House of Parliament—  
+<sup id="page51sup1">[1](#page51footer1)</sup>[(a) ifheholdsanyofficeofprofitundertheGovernmentofIndiaortheGovernmentofanyState, other than an office declared by Parliament by law not to disqualify its holder;]  
+(b) if he is of unsound mind and stands so declared by a competent court;  
+(c) if he is an undischarged insolvent;  
+(d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgment of allegiance or adherence to a foreign State;  
+(e) if he is so disqualified by or under any law made by Parliament.  
+<sup id="page51sup2">[2](#page51footer2)</sup>[Explanation.—For the purposes of this clause a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State by reason only that he is a Minister either for the Union or for such State.]  
+<sup id="page51sup3">[3](#page51footer3)</sup>[(2) A person shall be disqualified for being a member of either House of Parliament if he is so disqualified under the Tenth Schedule.]  
+
+<sup id="page51sup4">[4](#page51footer4)</sup>[103. Decision on questions as to disqualifications of members.—(1) If any question arises as to whether a member of either House of Parliament has become subject to any of the disqualifications mentioned in clause (1) of article 102, the question shall be referred for the decision of the President and his decision shall be final.  
+(2) Before giving any decision on any such question, the President shall obtain the opinion of the Election Commission and shall act according to such opinion.]  
+
+104. Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.—If a person sits or votes as a member of either House of Parliament before he has complied with the requirements of article 99, or when he knows that he is not qualified or that he is disqualified for membership thereof, or that he is prohibited from so doing by the provisions of any law made by Parliament, he shall be liable in respect of each day on which he so sits or votes to a penalty of five hundred rupees to be recovered as a debt due to the Union. 
+
+><b id="page51footer1">[1]</b>  Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 19 to read as “(a) if he holds any such office of profit under the Government of India or the Government of any State as is declared by Parliament by law to disqualify its holder” (date yet to be notified). [↩](#page51sup1)  
+><b id="page51footer2">[2]</b> Subs. by the Constitution (Fifty-Second Amendment) Act, 1985, s. 3, for “(2) For the purposes of this article” (w.e.f. 1-3-1985).[↩](#page51sup2)  
+><b id="page51footer3">[3]</b>Ins. by ibid. [↩](#page51sup3)  
+><b id="page51footer4">[4]</b>Art. 103 has been successively subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 20 (w.e.f. 3-1-1977) and the Constitution (Forty-fourth Amendment) Act, 1978, s. 14 to read as above (w.e.f. 20-6-1979). [↩](#page51sup4)  
+
+ <p align="center">Powers, Privileges and Immunities of Parliament and its Members  </p>
+
+105. Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.—(1) Subject to the provisions of this Constitution and to the rules and standing orders regulating the procedure of Parliament, there shall be freedom of speech in Parliament.  
+(2) No member of Parliament shall be liable to any proceedings in any court in respect of anything said or any vote given by him in Parliament or any committee thereof, and no person shall be so liable in respect of the publication by or under the authority of either House of Parliament of any report, paper, votes or proceedings.  
+<sup id="page52sup1">[1](#page52footer1)</sup>[(3) In other respects, the powers, privileges and immunities of each House of Parliament, and of the members and the committees of each House, shall be such as may from time to time be defined by Parliament by law, and, until so defined, <sup id="page52sup2">[2](#page52footer2)</sup>[shall be those of that House and of its members and committees immediately before the coming into force of section 15 of the Constitution (Forty-fourth Amendment) Act, 1978.]]  
+(4) The provisions of clauses (1), (2) and (3) shall apply in relation to persons who by virtue of this Constitution have the right to speak in, and otherwise to take part in the proceedings of, a House of Parliament or any committee thereof as they apply in relation to members of Parliament.  
+
+106. Salaries and allowances of members.—Members of either House of Parliament shall be entitled to receive such salaries and allowances as may from time to time be determined by Parliament by law and, until provision in that respect is so made, allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Constituent Assembly of the Dominion of India.  
+
+<p align="center">Legislative Procedure</p>
+
+107. Provisions as to introduction and passing of Bills.—(1) Subject to the provisions of articles 109 and 117 with respect to Money Bills and other financial Bills, a Bill may originate in either House of Parliament.  
+(2) Subject to the provisions of articles 108 and 109, a Bill shall not be deemed to have been passed by the Houses of Parliament unless it has been agreed to by both Houses, either without amendment or with such amendments only as are agreed to by both Houses.  
+(3) A Bill pending in Parliament shall not lapse by reason of the prorogation of the Houses.  
+(4) A Bill pending in the Council of States which has not been passed by the House of the People shall not lapse on a dissolution of the House of the People.  
+(5) A Bill which is pending in the House of the People, or which having been passed by the House of the People is pending in the Council of States, shall, subject to the provisions of article 108, lapse on a dissolution of the House of the People.  
+
+><b id="page52footer1">[1]</b> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 21 to read as below:–
+“(3) In other respects, the powers, privileges and immunities of each House of Parliament, and of the members and the committees of each House, shall be those of that House, and of its members and committees, at the commencement of sec. 21 of the Constitution (Forty-second) Amendment Act, 1976, and as may be evolved by such House of Parliament from time to time.” (date yet to be notified). [↩](#page52sup1)  
+><b id="page52footer2">[2]</b> Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 15 for certain words (w.e.f. 20-6-1979). [↩](#page52sup2)  
+
+108. Joint sitting of both Houses in certain cases.—(1) If after a Bill has been passed by one House and transmitted to the other House—  
+(a) the Bill is rejected by the other House; or  
+(b) the Houses have finally disagreed as to the amendments to be made in the Bill; or  
+(c) more than six months elapse from the date of the reception of the Bill by the other House without the Bill being passed by it, the President may, unless the Bill has elapsed by reason of a dissolution of the House of the People, notify to the Houses by message if they are sitting or by public notification if they are not sitting, his intention to summon them to meet in a joint sitting for the purpose of deliberating and voting on the Bill:  
+Provided that nothing in this clause shall apply to a Money Bill.  
+(2) In reckoning any such period of six months as is referred to in clause (1), no account shall be taken of any period during which the House referred to in sub-clause (c) of that clause is prorogued or adjourned for more than four consecutive days.  
+(3) Where the President has under clause (1) notified his intention of summoning the Houses to meet in a joint sitting, neither House shall proceed further with the Bill, but the President may at any time after the date of his notification summon the Houses to meet in a joint sitting for the purpose specified in the notification and, if he does so, the Houses shall meet accordingly.  
+(4) If at the joint sitting of the two Houses the Bill, with such amendments, if any, as are agreed to in joint sitting, is passed by a majority of the total number of members of both Houses present and voting, it shall be deemed for the purposes of this Constitution to have been passed by both Houses:  
+Provided that at a joint sitting—  
+(a) if the Bill, having been passed by one House, has not been passed by the other House with amendments and returned to the House in which it originated, no amendment shall be proposed to the Bill other than such amendments (if any) as are made necessary by the delay in the passage of the Bill;  
+(b) if the Bill has been so passed and returned, only such amendments as aforesaid shall be proposed to the Bill and such other amendments as are relevant to the matters with respect to which the Houses have not agreed; and the decision of the person presiding as to the amendments which are admissible under this clause shall be final.  
+(5) A joint sitting may be held under this article and a Bill passed thereat, notwithstanding that a dissolution of the House of the People has intervened since the President notified his intention to summon the Houses to meet therein.  
+
+109. Special procedure in respect of Money Bills.—(1) A Money Bill shall not be introduced in the Council of States.  
+(2) After a Money Bill has been passed by the House of the People it shall be transmitted to the Council of States for its recommendations and the Council of States shall within a period of fourteen days from the date of its receipt of the Bill return the Bill to the House of the People with its recommendations and the House of the People may thereupon either accept or reject all or any of the recommendations of the Council of States.  
+(3) If the House of the People accepts any of the recommendations of the Council of States, the Money Bill shall be deemed to have been passed by both Houses with the amendments recommended by the Council of States and accepted by the House of the People.  
+(4) If the House of the People does not accept any of the recommendations of the Council of States, the Money Bill shall be deemed to have been passed by both Houses in the form in which it was passed by the House of the People without any of the amendments recommended by the Council of States.  
+(5) If a Money Bill passed by the House of the People and transmitted to the Council of States for its recommendations is not returned to the House of the People within the said period of fourteen days, it shall be deemed to have been passed by both Houses at the expiration of the said period in the form in which it was passed by the House of the People.  
+
+110. Definition of “Money Bills”.—(1) For the purposes of this Chapter, a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters, namely:—  
+(a) the imposition, abolition, remission, alteration or regulation of any tax;  
+(b) the regulation of the borrowing of money or the giving of any guarantee by the Government of India, or the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of India;  
+(c) the custody of the Consolidated Fund or the Contingency Fund of India, the payment of moneys into or the withdrawal of moneys from any such Fund;  
+(d) the appropriation of moneys out of the Consolidated Fund of India;  
+(e) the declaring of any expenditure to be expenditure charged on the Consolidated Fund of India or the increasing of the amount of any such expenditure;  
+(f) the receipt of money on account of the Consolidated Fund of India or the public account of India or the custody or issue of such money or the audit of the accounts of the Union or of a State; or  
+(g) any matter incidental to any of the matters specified in sub-clauses (a) to (f).  
+(2) A Bill shall not be deemed to be a Money Bill by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.  
+(3) If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the House of the People thereon shall be final.  
+(4) There shall be endorsed on every Money Bill when it is transmitted to the Council of States under article 109, and when it is presented to the President for assent under article 111, the certificate of the Speaker of the House of the People signed by him that it is a Money Bill.  
+
+111. Assent to Bills.—When a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:  
+Provided that the President may, as soon as possible after the presentation to him of a Bill for assent, return the Bill if it is not a Money Bill to the Houses with a message requesting that they will reconsider the Bill or any specified provisions thereof and, in particular, will consider the desirability of introducing any such amendments as he may recommend in his message, and when a Bill is so returned, the Houses shall reconsider the Bill accordingly, and if the Bill is passed again by the Houses with or without amendment and presented to the President for assent, the President shall not withhold assent therefrom.  
+
+<p align="center">Procedure in Financial Matters</p>
+
+112. Annual financial statement.—(1) The President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year, in this Part referred to as the “annual financial statement”.  
+(2) The estimates of expenditure embodied in the annual financial statement shall show separately— (a) the sums required to meet expenditure described by this Constitution as expenditure charged upon the Consolidated Fund of India; and  
+(b) the sums required to meet other expenditure proposed to be made from the Consolidated Fund of India, and shall distinguish expenditure on revenue account from other expenditure.  
+(3) The following expenditure shall be expenditure charged on the Consolidated Fund of India—  
+(a) the emoluments and allowances of the President and other expenditure relating to his office;  
+(b) the salaries and allowances of the Chairman and the Deputy Chairman of the Council of States and the Speaker and the Deputy Speaker of the House of the People;  
+(c) debt charges for which the Government of India is liable including interest, sinking fund charges and redemption charges, and other expenditure relating to the raising of loans and the service and redemption of debt;  
+(d) (i) the salaries, allowances and pensions payable to or in respect of Judges of the Supreme Court;  
+(ii) the pensions payable to or in respect of Judges of the Federal Court;  
+(iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in <sup id="page55sup1">[1](#page55footer1)</sup>[a Governor's Province of the Dominion of India];  
+(e) the salary, allowances and pension payable to or in respect of the Comptroller and Auditor- General of India;  
+(f) any sums required to satisfy any judgment, decree or award of any court or arbitral tribunal;  
+(g) any other expenditure declared by this Constitution or by Parliament by law to be so charged.  
+
+113. Procedure in Parliament with respect to estimates.—(1) So much of the estimates as relates to expenditure charged upon the Consolidated Fund of India shall not be submitted to the vote of Parliament, but nothing in this clause shall be construed as preventing the discussion in either House of Parliament of any of those estimates.  
+(2) So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the House of the People, and the House of the People shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.  
+(3) No demand for a grant shall be made except on the recommendation of the President.  
+
+114. Appropriation Bills.—(1) As soon as may be after the grants under article 113 have been made by the House of the People, there shall be introduced a Bill to provide for the appropriation out of the Consolidated Fund of India of all moneys required to meet—  
+(a) the grants so made by the House of the People; and  
+(b) the expenditure charged on the Consolidated Fund of India but not exceeding in any case the amount shown in the statement previously laid before Parliament.  
+(2) No amendment shall be proposed to any such Bill in either House of Parliament which will have the effect of varying the amount or altering the destination of any grant so made or of varying the amount of any expenditure charged on the Consolidated Fund of India, and the decision of the person presiding as to whether an amendment is inadmissible under this clause shall be final.  
+(3) Subject to the provisions of articles 115 and 116, no money shall be withdrawn from the Consolidated Fund of India except under appropriation made by law passed in accordance with the provisions of this article.  
+
+115. Supplementary, additional or excess grants.—(1) The President shall—  
+(a) if the amount authorised by any law made in accordance with the provisions of article 114 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year, or  
+(b) if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year, cause to be laid before both the Houses of Parliament another statement showing the estimated amount of that expenditure or cause to be presented to the House of the People a demand for such excess, as the case may be.  
+(2) The provisions of articles 112, 113 and 114 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or grant.  
+
+><b id="page55footer1">[1]</b> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “a Province corresponding to a State specified in Part A of the First Schedule” (w.e.f. 1-11-1956). [↩](#page55sup1) 
