@@ -1432,3 +1432,107 @@ Provided that the President may, as soon as possible after the presentation to h
 (2) The provisions of articles 112, 113 and 114 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or grant.  
 
 ><b id="page55footer1">[1]</b> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “a Province corresponding to a State specified in Part A of the First Schedule” (w.e.f. 1-11-1956). [↩](#page55sup1) 
+
+116. Votes on account, votes of credit and exceptional grants.—(1) Notwithstanding anything in the foregoing provisions of this Chapter, the House of the People shall have power—  
+(a) to make any grant in advance in respect of the estimated expenditure for a part of any financial year pending the completion of the procedure prescribed in article 113 for the voting of such grant and the passing of the law in accordance with the provisions of article 114 in relation to that expenditure;  
+(b) to make a grant for meeting an unexpected demand upon the resources of India when on account of the magnitude or the indefinite character of the service the demand cannot be stated with the details ordinarily given in an annual financial statement;  
+(c) to make an exceptional grant which forms no part of the current service of any financial year; and Parliament shall have power to authorise by law the withdrawal of moneys from the Consolidated Fund of India for the purposes for which the said grants are made.  
+(2) The provisions of articles 113 and 114 shall have effect in relation to the making of any grant under clause (1) and to any law to be made under that clause as they have effect in relation to the making of a grant with regard to any expenditure mentioned in the annual financial statement and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure.  
+
+117. Special provisions as to financial Bills.—(1) A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 110 shall not be introduced or moved except on the recommendation of the President and a Bill making such provision shall not be introduced in the Council of States:  
+Provided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax.  
+(2) A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.  
+(3) A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of India shall not be passed by either House of Parliament unless the President has recommended to that House the consideration of the Bill.
+
+<p align="center">Procedure Generally  </p>
+
+118. Rules of procedure.—(1) Each House of Parliament may make rules for regulating, subject to the provisions of this Constitution, its procedure <sup id="page57sup1">[1](#page57footer1)</sup>*** and the conduct of its business.  
+(2) Until rules are made under clause (1), the rules of procedure and standing orders in force immediately before the commencement of this Constitution with respect to the Legislature of the Dominion of India shall have effect in relation to Parliament subject to such modifications and adaptations as may be made therein by the Chairman of the Council of States or the Speaker of the House of the People, as the case may be.  
+(3) The President, after consultation with the Chairman of the Council of States and the Speaker of the House of the People, may make rules as to the procedure with respect to joint sittings of, and communications between, the two Houses.  
+(4) At a joint sitting of the two Houses the Speaker of the House of the People, or in his absence such person as may be determined by rules of procedure made under clause (3), shall preside.  
+
+119. Regulation by law of procedure in Parliament in relation to financial business.—Parliament may, for the purpose of the timely completion of financial business, regulate by law the procedure of, and the conduct of business in, each House of Parliament in relation to any financial matter or to any Bill for the appropriation of moneys out of the Consolidated Fund of India, and, if and so far as any provision of any law so made is inconsistent with any rule made by a House of Parliament under clause (1) of article 118 or with any rule or standing order having effect in relation to Parliament under clause (2) of that article, such provision shall prevail.  
+
+120. Language to be used in Parliament.—(1) Notwithstanding anything in Part XVII, but subject to the provisions of article 348, business in Parliament shall be transacted in Hindi or in English:  
+Provided that the Chairman of the Council of States or Speaker of the House of the People, or person acting as such, as the case may be, may permit any member who cannot adequately express himself in Hindi or in English to address the House in his mother-tongue.  
+(2) Unless Parliament by law otherwise provides, this article shall, after the expiration of a period of fifteen years from the commencement of this Constitution, have effect as if the words “or in English” were omitted therefrom.  
+
+121. Restriction on discussion in Parliament.—No discussion shall take place in Parliament with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties except upon a motion for presenting an address to the President praying for the removal of the Judge as hereinafter provided.  
+
+122. Courts not to inquire into proceedings of Parliament.—(1) The validity of any proceedings in Parliament shall not be called in question on the ground of any alleged irregularity of procedure.  
+(2) No officer or member of Parliament in whom powers are vested by or under this Constitution for regulating procedure or the conduct of business, or for maintaining order, in Parliament shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.  
+
+<p align="center">CHAPTER III.—LEGISLATIVE POWERS OF THE PRESIDENT</p>
+
+123. Power of President to promulgate Ordinances during recess of Parliament.—(1) If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.  
+(2) An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance—  
+(a) shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and  
+(b) may be withdrawn at any time by the President.  
+Explanation.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.  
+
+><b id="page57footer1">[1]</b> The brackets and words “(including the quorum to constitute a meeting of the House)” ins. by the Constitution (Forty-second Amendment) Act, 1976 (date yet to be notified). [↩](#page57sup1)   
+ 
+(3) If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.  
+<sup id="page58sup1">[1](#page58footer1)</sup>(4)* * * * * 
+<p align="center">CHAPTER IV.—THE UNION JUDICIARY</p>  
+
+124. Establishment and constitution of Supreme Court.—(1) There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than seven <sup id="page58sup2">[2](#page58footer2)</sup> other Judges.  
+
+(2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal <sup id="page58sup3">[3](#page58footer3)</sup> [on the recommendation of the National Judicial Appointments Commission referred to in article 124A] and shall hold office until he attains the age of sixty-five years:  
+
+<sup id="page58sup4">[4](#page58footer4)</sup> [* * * * *]  
+
+<sup id="page58sup5">[5](#page58footer5)</sup> [Provided that]—  
+(a) a Judge may, by writing under his hand addressed to the President, resign his office;  
+(b) a Judge may be removed from his office in the manner provided in clause (4).  
+(2A) The age of a Judge of the Supreme Court shall be determined by such authority and in such manner as Parliament may by law provide.  
+(3) A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and—  
+(a) has been for at least five years a Judge of a High Court or of two or more such Courts in succession; or  
+(b) has been for at least ten years an advocate of a High Court or of two or more such Courts in succession; or  
+(c) is, in the opinion of the President, a distinguished jurist.  
+Explanation I.—In this clause “High Court” means a High Court which exercises, or which at any time before the commencement of this Constitution exercised, jurisdiction in any part of the territory of India.  
+Explanation II.—In computing for the purpose of this clause the period during which a person has been an advocate, any period during which a person has held judicial office not inferior to that of a district judge after he became an advocate shall be included.  
+(4) A Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity.  
+(5) Parliament may by law regulate the procedure for the presentation of an address and for the investigation and proof of the misbehaviour or incapacity of a Judge under clause (4).  
+(6) Every person appointed to be a Judge of the Supreme Court shall, before he enters upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.  
+(7) No person who has held office as a Judge of the Supreme Court shall plead or act in any court or before any authority within the territory of India.  
+
+><b id="page58footer1">[1]</b> Cl. (4) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 2 (with retrospective effect) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 16 (w.e.f. 20-6-1979). [↩](#page58sup1)  
+><b id="page58footer2">[2]</b>  Now “thirty”, vide the Supreme Court (Number of Judges) Amendment Act, 2008 (11 of 2009), s. 2.[↩](#page58sup2)  
+><b id="page58footer3">[3]</b>Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 2, for “after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for that purpose” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page58sup3)  
+><b id="page58footer4">[4]</b>Proviso omitted by ibid. This amendment has been struck down by the Supreme Court order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association Vs. Union of India reported in AIR 2016 SC 117.[↩](#page58sup4)  
+><b id="page58footer5">[5]</b>Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 2, for the words “Provided further that” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page58sup5)  
+ 
+<sup id="page59sup1">[1](#page59footer1)</sup>[124A. National Judicial Appointments Commission.—(1) There shall be a Commission to be known as the National Judicial Appointments Commission consisting of the following, namely:—  
+(a) the Chief Justice of India, Chairperson, ex officio;  
+(b) two other senior Judges of the Supreme Court next to the Chief Justice of India––Members, ex officio;  
+(c) the Union Minister in charge of Law and Justice––Member, ex officio;  
+(d) two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People––Members:  
+Provided that one of the eminent person shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women:  
+Provided further that an eminent person shall be nominated for a period of three years and shall not be eligible for renomination.  
+(2) No act or proceedings of the National Judicial Appointments Commission shall be questioned or be invalidated merely on the ground of the existence of any vacancy or defect in the constitution of the Commission.  
+
+124B. Functions of Commission.––It shall be the duty of the National Judicial Appointments Commission to—  
+(a) recommend persons for appointment as Chief Justice of India, Judges of the Supreme Court, Chief Justices of High Courts and other Judges of High Courts;  
+(b) recommend transfer of Chief Justices and other Judges of High Courts from one High Court to any other High Court; and  
+(c) ensure that the person recommended is of ability and integrity.  
+
+><b id="page59footer1">[1]</b> Ins. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 3 (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page59sup1)  
+
+124C. Power of Parliament to make law.––Parliament may, by law, regulate the procedure for the appointment of Chief Justice of India and other Judges of the Supreme Court and Chief Justices and other Judges of High Courts and empower the Commission to lay down by regulations the procedure for the discharge of its functions, the manner of selection of persons for appointment and such other matters as may be considered necessary by it.]  
+
+125. Salaries, etc., of Judges.—<sup id="page60sup1">[1](#page60footer1)</sup>[(1) There shall be paid to the Judges of the Supreme Court such salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such salaries as are specified in the Second Schedule.]  
+(2) Every Judge shall be entitled to such privileges and allowances and to such rights in respect of leave of absence and pension as may from time to time be determined by or under law made by Parliament and, until so determined, to such privileges, allowances and rights as are specified in the Second Schedule:  
+Provided that neither the privileges nor the allowances of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage after his appointment.  
+
+126. Appointment of acting Chief Justice.—When the office of Chief Justice of India is vacant or when the Chief Justice is, by reason of absence or otherwise, unable to perform the duties of his office, the duties of the office shall be performed by such one of the other Judges of the Court as the President may appoint for the purpose.  
+
+127. Appointment of ad hoc Judges.—(1) If at any time there should not be a quorum of the Judges of the Supreme Court available to hold or continue any session of the Court, <sup id="page60sup2">[2](#page60footer2)</sup>[the National Judicial Appointments Commission on a reference made to it by the Chief Justice of India, may with the previous consent of the President] and after consultation with the Chief Justice of the High Court concerned, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India.  
+(2) It shall be the duty of the Judge who has been so designated, in priority to other duties of his office, to attend the sittings of the Supreme Court at the time and for the period for which his attendance is required, and while so attending he shall have all the jurisdiction, powers and privileges, and shall discharge the duties, of a Judge of the Supreme Court.  
+
+128. Attendance of retired Judges at sittings of the Supreme Court.—Notwithstanding anything in this Chapter, <sup id="page60sup3">[3](#page60footer3)</sup>[the National Judicial Appointments Commission] may at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court or of the Federal Court <sup id="page60sup4">[4](#page60footer4)</sup>[or who has held the office of a Judge of a High Court and is duly qualified for appointment as a Judge of the Supreme Court] to sit and act as a Judge of the Supreme Court, and every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that Court:  
+
+><b id="page60footer1">[1]</b> Subs. by the Constitution (Fifty-Fourth Amendment) Act, 1986, s. 2, for “clause (1)” (w.e.f. 1-4-1986). [↩](#page60sup1)  
+><b id="page60footer2">[2]</b> Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 4, for “the Chief Justice of India may, with the previous consent of the President” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117.[↩](#page60sup2)  
+><b id="page60footer3">[3]</b>Subs. by ibid., s. 5, for “the Chief Justice of India” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page60sup3)  
+><b id="page60footer4">[4]</b>Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 3 (w.e.f. 5-10-1963).[↩](#page60sup4)  
