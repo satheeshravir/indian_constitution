@@ -1326,4 +1326,213 @@ Provided that in computing the said period of sixty days no account shall be tak
 ><b id="page50footer6">[6]</b> Subs. by the Constitution (Thirty-third Amendment) Act, 1974, s. 2 (w.e.f. 19-5-1974).[↩](#page50sup6)  
 ><b id="page50footer7">[7]</b> Ins. by ibid. [↩](#page50sup7)  
 
+102. Disqualifications for membership.—(1) A person shall be disqualified for being chosen as, and for being, a member of either House of Parliament—  
+<sup id="page51sup1">[1](#page51footer1)</sup>[(a) ifheholdsanyofficeofprofitundertheGovernmentofIndiaortheGovernmentofanyState, other than an office declared by Parliament by law not to disqualify its holder;]  
+(b) if he is of unsound mind and stands so declared by a competent court;  
+(c) if he is an undischarged insolvent;  
+(d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgment of allegiance or adherence to a foreign State;  
+(e) if he is so disqualified by or under any law made by Parliament.  
+<sup id="page51sup2">[2](#page51footer2)</sup>[Explanation.—For the purposes of this clause a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State by reason only that he is a Minister either for the Union or for such State.]  
+<sup id="page51sup3">[3](#page51footer3)</sup>[(2) A person shall be disqualified for being a member of either House of Parliament if he is so disqualified under the Tenth Schedule.]  
+
+<sup id="page51sup4">[4](#page51footer4)</sup>[103. Decision on questions as to disqualifications of members.—(1) If any question arises as to whether a member of either House of Parliament has become subject to any of the disqualifications mentioned in clause (1) of article 102, the question shall be referred for the decision of the President and his decision shall be final.  
+(2) Before giving any decision on any such question, the President shall obtain the opinion of the Election Commission and shall act according to such opinion.]  
+
+104. Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.—If a person sits or votes as a member of either House of Parliament before he has complied with the requirements of article 99, or when he knows that he is not qualified or that he is disqualified for membership thereof, or that he is prohibited from so doing by the provisions of any law made by Parliament, he shall be liable in respect of each day on which he so sits or votes to a penalty of five hundred rupees to be recovered as a debt due to the Union. 
+
+><b id="page51footer1">[1]</b>  Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 19 to read as “(a) if he holds any such office of profit under the Government of India or the Government of any State as is declared by Parliament by law to disqualify its holder” (date yet to be notified). [↩](#page51sup1)  
+><b id="page51footer2">[2]</b> Subs. by the Constitution (Fifty-Second Amendment) Act, 1985, s. 3, for “(2) For the purposes of this article” (w.e.f. 1-3-1985).[↩](#page51sup2)  
+><b id="page51footer3">[3]</b>Ins. by ibid. [↩](#page51sup3)  
+><b id="page51footer4">[4]</b>Art. 103 has been successively subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 20 (w.e.f. 3-1-1977) and the Constitution (Forty-fourth Amendment) Act, 1978, s. 14 to read as above (w.e.f. 20-6-1979). [↩](#page51sup4)  
+
+ <p align="center">Powers, Privileges and Immunities of Parliament and its Members  </p>
+
+105. Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.—(1) Subject to the provisions of this Constitution and to the rules and standing orders regulating the procedure of Parliament, there shall be freedom of speech in Parliament.  
+(2) No member of Parliament shall be liable to any proceedings in any court in respect of anything said or any vote given by him in Parliament or any committee thereof, and no person shall be so liable in respect of the publication by or under the authority of either House of Parliament of any report, paper, votes or proceedings.  
+<sup id="page52sup1">[1](#page52footer1)</sup>[(3) In other respects, the powers, privileges and immunities of each House of Parliament, and of the members and the committees of each House, shall be such as may from time to time be defined by Parliament by law, and, until so defined, <sup id="page52sup2">[2](#page52footer2)</sup>[shall be those of that House and of its members and committees immediately before the coming into force of section 15 of the Constitution (Forty-fourth Amendment) Act, 1978.]]  
+(4) The provisions of clauses (1), (2) and (3) shall apply in relation to persons who by virtue of this Constitution have the right to speak in, and otherwise to take part in the proceedings of, a House of Parliament or any committee thereof as they apply in relation to members of Parliament.  
+
+106. Salaries and allowances of members.—Members of either House of Parliament shall be entitled to receive such salaries and allowances as may from time to time be determined by Parliament by law and, until provision in that respect is so made, allowances at such rates and upon such conditions as were immediately before the commencement of this Constitution applicable in the case of members of the Constituent Assembly of the Dominion of India.  
+
+<p align="center">Legislative Procedure</p>
+
+107. Provisions as to introduction and passing of Bills.—(1) Subject to the provisions of articles 109 and 117 with respect to Money Bills and other financial Bills, a Bill may originate in either House of Parliament.  
+(2) Subject to the provisions of articles 108 and 109, a Bill shall not be deemed to have been passed by the Houses of Parliament unless it has been agreed to by both Houses, either without amendment or with such amendments only as are agreed to by both Houses.  
+(3) A Bill pending in Parliament shall not lapse by reason of the prorogation of the Houses.  
+(4) A Bill pending in the Council of States which has not been passed by the House of the People shall not lapse on a dissolution of the House of the People.  
+(5) A Bill which is pending in the House of the People, or which having been passed by the House of the People is pending in the Council of States, shall, subject to the provisions of article 108, lapse on a dissolution of the House of the People.  
+
+><b id="page52footer1">[1]</b> Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 21 to read as below:–
+“(3) In other respects, the powers, privileges and immunities of each House of Parliament, and of the members and the committees of each House, shall be those of that House, and of its members and committees, at the commencement of sec. 21 of the Constitution (Forty-second) Amendment Act, 1976, and as may be evolved by such House of Parliament from time to time.” (date yet to be notified). [↩](#page52sup1)  
+><b id="page52footer2">[2]</b> Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 15 for certain words (w.e.f. 20-6-1979). [↩](#page52sup2)  
+
+108. Joint sitting of both Houses in certain cases.—(1) If after a Bill has been passed by one House and transmitted to the other House—  
+(a) the Bill is rejected by the other House; or  
+(b) the Houses have finally disagreed as to the amendments to be made in the Bill; or  
+(c) more than six months elapse from the date of the reception of the Bill by the other House without the Bill being passed by it, the President may, unless the Bill has elapsed by reason of a dissolution of the House of the People, notify to the Houses by message if they are sitting or by public notification if they are not sitting, his intention to summon them to meet in a joint sitting for the purpose of deliberating and voting on the Bill:  
+Provided that nothing in this clause shall apply to a Money Bill.  
+(2) In reckoning any such period of six months as is referred to in clause (1), no account shall be taken of any period during which the House referred to in sub-clause (c) of that clause is prorogued or adjourned for more than four consecutive days.  
+(3) Where the President has under clause (1) notified his intention of summoning the Houses to meet in a joint sitting, neither House shall proceed further with the Bill, but the President may at any time after the date of his notification summon the Houses to meet in a joint sitting for the purpose specified in the notification and, if he does so, the Houses shall meet accordingly.  
+(4) If at the joint sitting of the two Houses the Bill, with such amendments, if any, as are agreed to in joint sitting, is passed by a majority of the total number of members of both Houses present and voting, it shall be deemed for the purposes of this Constitution to have been passed by both Houses:  
+Provided that at a joint sitting—  
+(a) if the Bill, having been passed by one House, has not been passed by the other House with amendments and returned to the House in which it originated, no amendment shall be proposed to the Bill other than such amendments (if any) as are made necessary by the delay in the passage of the Bill;  
+(b) if the Bill has been so passed and returned, only such amendments as aforesaid shall be proposed to the Bill and such other amendments as are relevant to the matters with respect to which the Houses have not agreed; and the decision of the person presiding as to the amendments which are admissible under this clause shall be final.  
+(5) A joint sitting may be held under this article and a Bill passed thereat, notwithstanding that a dissolution of the House of the People has intervened since the President notified his intention to summon the Houses to meet therein.  
+
+109. Special procedure in respect of Money Bills.—(1) A Money Bill shall not be introduced in the Council of States.  
+(2) After a Money Bill has been passed by the House of the People it shall be transmitted to the Council of States for its recommendations and the Council of States shall within a period of fourteen days from the date of its receipt of the Bill return the Bill to the House of the People with its recommendations and the House of the People may thereupon either accept or reject all or any of the recommendations of the Council of States.  
+(3) If the House of the People accepts any of the recommendations of the Council of States, the Money Bill shall be deemed to have been passed by both Houses with the amendments recommended by the Council of States and accepted by the House of the People.  
+(4) If the House of the People does not accept any of the recommendations of the Council of States, the Money Bill shall be deemed to have been passed by both Houses in the form in which it was passed by the House of the People without any of the amendments recommended by the Council of States.  
+(5) If a Money Bill passed by the House of the People and transmitted to the Council of States for its recommendations is not returned to the House of the People within the said period of fourteen days, it shall be deemed to have been passed by both Houses at the expiration of the said period in the form in which it was passed by the House of the People.  
+
+110. Definition of “Money Bills”.—(1) For the purposes of this Chapter, a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with all or any of the following matters, namely:—  
+(a) the imposition, abolition, remission, alteration or regulation of any tax;  
+(b) the regulation of the borrowing of money or the giving of any guarantee by the Government of India, or the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of India;  
+(c) the custody of the Consolidated Fund or the Contingency Fund of India, the payment of moneys into or the withdrawal of moneys from any such Fund;  
+(d) the appropriation of moneys out of the Consolidated Fund of India;  
+(e) the declaring of any expenditure to be expenditure charged on the Consolidated Fund of India or the increasing of the amount of any such expenditure;  
+(f) the receipt of money on account of the Consolidated Fund of India or the public account of India or the custody or issue of such money or the audit of the accounts of the Union or of a State; or  
+(g) any matter incidental to any of the matters specified in sub-clauses (a) to (f).  
+(2) A Bill shall not be deemed to be a Money Bill by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.  
+(3) If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the House of the People thereon shall be final.  
+(4) There shall be endorsed on every Money Bill when it is transmitted to the Council of States under article 109, and when it is presented to the President for assent under article 111, the certificate of the Speaker of the House of the People signed by him that it is a Money Bill.  
+
+111. Assent to Bills.—When a Bill has been passed by the Houses of Parliament, it shall be presented to the President, and the President shall declare either that he assents to the Bill, or that he withholds assent therefrom:  
+Provided that the President may, as soon as possible after the presentation to him of a Bill for assent, return the Bill if it is not a Money Bill to the Houses with a message requesting that they will reconsider the Bill or any specified provisions thereof and, in particular, will consider the desirability of introducing any such amendments as he may recommend in his message, and when a Bill is so returned, the Houses shall reconsider the Bill accordingly, and if the Bill is passed again by the Houses with or without amendment and presented to the President for assent, the President shall not withhold assent therefrom.  
+
+<p align="center">Procedure in Financial Matters</p>
+
+112. Annual financial statement.—(1) The President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year, in this Part referred to as the “annual financial statement”.  
+(2) The estimates of expenditure embodied in the annual financial statement shall show separately— (a) the sums required to meet expenditure described by this Constitution as expenditure charged upon the Consolidated Fund of India; and  
+(b) the sums required to meet other expenditure proposed to be made from the Consolidated Fund of India, and shall distinguish expenditure on revenue account from other expenditure.  
+(3) The following expenditure shall be expenditure charged on the Consolidated Fund of India—  
+(a) the emoluments and allowances of the President and other expenditure relating to his office;  
+(b) the salaries and allowances of the Chairman and the Deputy Chairman of the Council of States and the Speaker and the Deputy Speaker of the House of the People;  
+(c) debt charges for which the Government of India is liable including interest, sinking fund charges and redemption charges, and other expenditure relating to the raising of loans and the service and redemption of debt;  
+(d) (i) the salaries, allowances and pensions payable to or in respect of Judges of the Supreme Court;  
+(ii) the pensions payable to or in respect of Judges of the Federal Court;  
+(iii) the pensions payable to or in respect of Judges of any High Court which exercises jurisdiction in relation to any area included in the territory of India or which at any time before the commencement of this Constitution exercised jurisdiction in relation to any area included in <sup id="page55sup1">[1](#page55footer1)</sup>[a Governor's Province of the Dominion of India];  
+(e) the salary, allowances and pension payable to or in respect of the Comptroller and Auditor- General of India;  
+(f) any sums required to satisfy any judgment, decree or award of any court or arbitral tribunal;  
+(g) any other expenditure declared by this Constitution or by Parliament by law to be so charged.  
+
+113. Procedure in Parliament with respect to estimates.—(1) So much of the estimates as relates to expenditure charged upon the Consolidated Fund of India shall not be submitted to the vote of Parliament, but nothing in this clause shall be construed as preventing the discussion in either House of Parliament of any of those estimates.  
+(2) So much of the said estimates as relates to other expenditure shall be submitted in the form of demands for grants to the House of the People, and the House of the People shall have power to assent, or to refuse to assent, to any demand, or to assent to any demand subject to a reduction of the amount specified therein.  
+(3) No demand for a grant shall be made except on the recommendation of the President.  
+
+114. Appropriation Bills.—(1) As soon as may be after the grants under article 113 have been made by the House of the People, there shall be introduced a Bill to provide for the appropriation out of the Consolidated Fund of India of all moneys required to meet—  
+(a) the grants so made by the House of the People; and  
+(b) the expenditure charged on the Consolidated Fund of India but not exceeding in any case the amount shown in the statement previously laid before Parliament.  
+(2) No amendment shall be proposed to any such Bill in either House of Parliament which will have the effect of varying the amount or altering the destination of any grant so made or of varying the amount of any expenditure charged on the Consolidated Fund of India, and the decision of the person presiding as to whether an amendment is inadmissible under this clause shall be final.  
+(3) Subject to the provisions of articles 115 and 116, no money shall be withdrawn from the Consolidated Fund of India except under appropriation made by law passed in accordance with the provisions of this article.  
+
+115. Supplementary, additional or excess grants.—(1) The President shall—  
+(a) if the amount authorised by any law made in accordance with the provisions of article 114 to be expended for a particular service for the current financial year is found to be insufficient for the purposes of that year or when a need has arisen during the current financial year for supplementary or additional expenditure upon some new service not contemplated in the annual financial statement for that year, or  
+(b) if any money has been spent on any service during a financial year in excess of the amount granted for that service and for that year, cause to be laid before both the Houses of Parliament another statement showing the estimated amount of that expenditure or cause to be presented to the House of the People a demand for such excess, as the case may be.  
+(2) The provisions of articles 112, 113 and 114 shall have effect in relation to any such statement and expenditure or demand and also to any law to be made authorising the appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or the grant in respect of such demand as they have effect in relation to the annual financial statement and the expenditure mentioned therein or to a demand for a grant and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure or grant.  
+
+><b id="page55footer1">[1]</b> Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “a Province corresponding to a State specified in Part A of the First Schedule” (w.e.f. 1-11-1956). [↩](#page55sup1) 
+
+116. Votes on account, votes of credit and exceptional grants.—(1) Notwithstanding anything in the foregoing provisions of this Chapter, the House of the People shall have power—  
+(a) to make any grant in advance in respect of the estimated expenditure for a part of any financial year pending the completion of the procedure prescribed in article 113 for the voting of such grant and the passing of the law in accordance with the provisions of article 114 in relation to that expenditure;  
+(b) to make a grant for meeting an unexpected demand upon the resources of India when on account of the magnitude or the indefinite character of the service the demand cannot be stated with the details ordinarily given in an annual financial statement;  
+(c) to make an exceptional grant which forms no part of the current service of any financial year; and Parliament shall have power to authorise by law the withdrawal of moneys from the Consolidated Fund of India for the purposes for which the said grants are made.  
+(2) The provisions of articles 113 and 114 shall have effect in relation to the making of any grant under clause (1) and to any law to be made under that clause as they have effect in relation to the making of a grant with regard to any expenditure mentioned in the annual financial statement and the law to be made for the authorisation of appropriation of moneys out of the Consolidated Fund of India to meet such expenditure.  
+
+117. Special provisions as to financial Bills.—(1) A Bill or amendment making provision for any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 110 shall not be introduced or moved except on the recommendation of the President and a Bill making such provision shall not be introduced in the Council of States:  
+Provided that no recommendation shall be required under this clause for the moving of an amendment making provision for the reduction or abolition of any tax.  
+(2) A Bill or amendment shall not be deemed to make provision for any of the matters aforesaid by reason only that it provides for the imposition of fines or other pecuniary penalties, or for the demand or payment of fees for licences or fees for services rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes.  
+(3) A Bill which, if enacted and brought into operation, would involve expenditure from the Consolidated Fund of India shall not be passed by either House of Parliament unless the President has recommended to that House the consideration of the Bill.
+
+<p align="center">Procedure Generally  </p>
+
+118. Rules of procedure.—(1) Each House of Parliament may make rules for regulating, subject to the provisions of this Constitution, its procedure <sup id="page57sup1">[1](#page57footer1)</sup>*** and the conduct of its business.  
+(2) Until rules are made under clause (1), the rules of procedure and standing orders in force immediately before the commencement of this Constitution with respect to the Legislature of the Dominion of India shall have effect in relation to Parliament subject to such modifications and adaptations as may be made therein by the Chairman of the Council of States or the Speaker of the House of the People, as the case may be.  
+(3) The President, after consultation with the Chairman of the Council of States and the Speaker of the House of the People, may make rules as to the procedure with respect to joint sittings of, and communications between, the two Houses.  
+(4) At a joint sitting of the two Houses the Speaker of the House of the People, or in his absence such person as may be determined by rules of procedure made under clause (3), shall preside.  
+
+119. Regulation by law of procedure in Parliament in relation to financial business.—Parliament may, for the purpose of the timely completion of financial business, regulate by law the procedure of, and the conduct of business in, each House of Parliament in relation to any financial matter or to any Bill for the appropriation of moneys out of the Consolidated Fund of India, and, if and so far as any provision of any law so made is inconsistent with any rule made by a House of Parliament under clause (1) of article 118 or with any rule or standing order having effect in relation to Parliament under clause (2) of that article, such provision shall prevail.  
+
+120. Language to be used in Parliament.—(1) Notwithstanding anything in Part XVII, but subject to the provisions of article 348, business in Parliament shall be transacted in Hindi or in English:  
+Provided that the Chairman of the Council of States or Speaker of the House of the People, or person acting as such, as the case may be, may permit any member who cannot adequately express himself in Hindi or in English to address the House in his mother-tongue.  
+(2) Unless Parliament by law otherwise provides, this article shall, after the expiration of a period of fifteen years from the commencement of this Constitution, have effect as if the words “or in English” were omitted therefrom.  
+
+121. Restriction on discussion in Parliament.—No discussion shall take place in Parliament with respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties except upon a motion for presenting an address to the President praying for the removal of the Judge as hereinafter provided.  
+
+122. Courts not to inquire into proceedings of Parliament.—(1) The validity of any proceedings in Parliament shall not be called in question on the ground of any alleged irregularity of procedure.  
+(2) No officer or member of Parliament in whom powers are vested by or under this Constitution for regulating procedure or the conduct of business, or for maintaining order, in Parliament shall be subject to the jurisdiction of any court in respect of the exercise by him of those powers.  
+
+<p align="center">CHAPTER III.—LEGISLATIVE POWERS OF THE PRESIDENT</p>
+
+123. Power of President to promulgate Ordinances during recess of Parliament.—(1) If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.  
+(2) An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance—  
+(a) shall be laid before both Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or, if before the expiration of that period resolutions disapproving it are passed by both Houses, upon the passing of the second of those resolutions; and  
+(b) may be withdrawn at any time by the President.  
+Explanation.—Where the Houses of Parliament are summoned to reassemble on different dates, the period of six weeks shall be reckoned from the later of those dates for the purposes of this clause.  
+
+><b id="page57footer1">[1]</b> The brackets and words “(including the quorum to constitute a meeting of the House)” ins. by the Constitution (Forty-second Amendment) Act, 1976 (date yet to be notified). [↩](#page57sup1)   
  
+(3) If and so far as an Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to enact, it shall be void.  
+<sup id="page58sup1">[1](#page58footer1)</sup>(4)* * * * * 
+<p align="center">CHAPTER IV.—THE UNION JUDICIARY</p>  
+
+124. Establishment and constitution of Supreme Court.—(1) There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than seven <sup id="page58sup2">[2](#page58footer2)</sup> other Judges.  
+
+(2) Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal <sup id="page58sup3">[3](#page58footer3)</sup> [on the recommendation of the National Judicial Appointments Commission referred to in article 124A] and shall hold office until he attains the age of sixty-five years:  
+
+<sup id="page58sup4">[4](#page58footer4)</sup> [* * * * *]  
+
+<sup id="page58sup5">[5](#page58footer5)</sup> [Provided that]—  
+(a) a Judge may, by writing under his hand addressed to the President, resign his office;  
+(b) a Judge may be removed from his office in the manner provided in clause (4).  
+(2A) The age of a Judge of the Supreme Court shall be determined by such authority and in such manner as Parliament may by law provide.  
+(3) A person shall not be qualified for appointment as a Judge of the Supreme Court unless he is a citizen of India and—  
+(a) has been for at least five years a Judge of a High Court or of two or more such Courts in succession; or  
+(b) has been for at least ten years an advocate of a High Court or of two or more such Courts in succession; or  
+(c) is, in the opinion of the President, a distinguished jurist.  
+Explanation I.—In this clause “High Court” means a High Court which exercises, or which at any time before the commencement of this Constitution exercised, jurisdiction in any part of the territory of India.  
+Explanation II.—In computing for the purpose of this clause the period during which a person has been an advocate, any period during which a person has held judicial office not inferior to that of a district judge after he became an advocate shall be included.  
+(4) A Judge of the Supreme Court shall not be removed from his office except by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session for such removal on the ground of proved misbehaviour or incapacity.  
+(5) Parliament may by law regulate the procedure for the presentation of an address and for the investigation and proof of the misbehaviour or incapacity of a Judge under clause (4).  
+(6) Every person appointed to be a Judge of the Supreme Court shall, before he enters upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.  
+(7) No person who has held office as a Judge of the Supreme Court shall plead or act in any court or before any authority within the territory of India.  
+
+><b id="page58footer1">[1]</b> Cl. (4) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 2 (with retrospective effect) and omitted by the Constitution (Forty-fourth Amendment) Act, 1978, s. 16 (w.e.f. 20-6-1979). [↩](#page58sup1)  
+><b id="page58footer2">[2]</b>  Now “thirty”, vide the Supreme Court (Number of Judges) Amendment Act, 2008 (11 of 2009), s. 2.[↩](#page58sup2)  
+><b id="page58footer3">[3]</b>Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 2, for “after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for that purpose” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page58sup3)  
+><b id="page58footer4">[4]</b>Proviso omitted by ibid. This amendment has been struck down by the Supreme Court order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association Vs. Union of India reported in AIR 2016 SC 117.[↩](#page58sup4)  
+><b id="page58footer5">[5]</b>Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 2, for the words “Provided further that” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page58sup5)  
+ 
+<sup id="page59sup1">[1](#page59footer1)</sup>[124A. National Judicial Appointments Commission.—(1) There shall be a Commission to be known as the National Judicial Appointments Commission consisting of the following, namely:—  
+(a) the Chief Justice of India, Chairperson, ex officio;  
+(b) two other senior Judges of the Supreme Court next to the Chief Justice of India––Members, ex officio;  
+(c) the Union Minister in charge of Law and Justice––Member, ex officio;  
+(d) two eminent persons to be nominated by the committee consisting of the Prime Minister, the Chief Justice of India and the Leader of Opposition in the House of the People or where there is no such Leader of Opposition, then, the Leader of single largest Opposition Party in the House of the People––Members:  
+Provided that one of the eminent person shall be nominated from amongst the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, Minorities or Women:  
+Provided further that an eminent person shall be nominated for a period of three years and shall not be eligible for renomination.  
+(2) No act or proceedings of the National Judicial Appointments Commission shall be questioned or be invalidated merely on the ground of the existence of any vacancy or defect in the constitution of the Commission.  
+
+124B. Functions of Commission.––It shall be the duty of the National Judicial Appointments Commission to—  
+(a) recommend persons for appointment as Chief Justice of India, Judges of the Supreme Court, Chief Justices of High Courts and other Judges of High Courts;  
+(b) recommend transfer of Chief Justices and other Judges of High Courts from one High Court to any other High Court; and  
+(c) ensure that the person recommended is of ability and integrity.  
+
+><b id="page59footer1">[1]</b> Ins. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 3 (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page59sup1)  
+
+124C. Power of Parliament to make law.––Parliament may, by law, regulate the procedure for the appointment of Chief Justice of India and other Judges of the Supreme Court and Chief Justices and other Judges of High Courts and empower the Commission to lay down by regulations the procedure for the discharge of its functions, the manner of selection of persons for appointment and such other matters as may be considered necessary by it.]  
+
+125. Salaries, etc., of Judges.—<sup id="page60sup1">[1](#page60footer1)</sup>[(1) There shall be paid to the Judges of the Supreme Court such salaries as may be determined by Parliament by law and, until provision in that behalf is so made, such salaries as are specified in the Second Schedule.]  
+(2) Every Judge shall be entitled to such privileges and allowances and to such rights in respect of leave of absence and pension as may from time to time be determined by or under law made by Parliament and, until so determined, to such privileges, allowances and rights as are specified in the Second Schedule:  
+Provided that neither the privileges nor the allowances of a Judge nor his rights in respect of leave of absence or pension shall be varied to his disadvantage after his appointment.  
+
+126. Appointment of acting Chief Justice.—When the office of Chief Justice of India is vacant or when the Chief Justice is, by reason of absence or otherwise, unable to perform the duties of his office, the duties of the office shall be performed by such one of the other Judges of the Court as the President may appoint for the purpose.  
+
+127. Appointment of ad hoc Judges.—(1) If at any time there should not be a quorum of the Judges of the Supreme Court available to hold or continue any session of the Court, <sup id="page60sup2">[2](#page60footer2)</sup>[the National Judicial Appointments Commission on a reference made to it by the Chief Justice of India, may with the previous consent of the President] and after consultation with the Chief Justice of the High Court concerned, request in writing the attendance at the sittings of the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to be designated by the Chief Justice of India.  
+(2) It shall be the duty of the Judge who has been so designated, in priority to other duties of his office, to attend the sittings of the Supreme Court at the time and for the period for which his attendance is required, and while so attending he shall have all the jurisdiction, powers and privileges, and shall discharge the duties, of a Judge of the Supreme Court.  
+
+128. Attendance of retired Judges at sittings of the Supreme Court.—Notwithstanding anything in this Chapter, <sup id="page60sup3">[3](#page60footer3)</sup>[the National Judicial Appointments Commission] may at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court or of the Federal Court <sup id="page60sup4">[4](#page60footer4)</sup>[or who has held the office of a Judge of a High Court and is duly qualified for appointment as a Judge of the Supreme Court] to sit and act as a Judge of the Supreme Court, and every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that Court:  
+
+><b id="page60footer1">[1]</b> Subs. by the Constitution (Fifty-Fourth Amendment) Act, 1986, s. 2, for “clause (1)” (w.e.f. 1-4-1986). [↩](#page60sup1)  
+><b id="page60footer2">[2]</b> Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 4, for “the Chief Justice of India may, with the previous consent of the President” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117.[↩](#page60sup2)  
+><b id="page60footer3">[3]</b>Subs. by ibid., s. 5, for “the Chief Justice of India” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page60sup3)  
+><b id="page60footer4">[4]</b>Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 3 (w.e.f. 5-10-1963).[↩](#page60sup4)  
