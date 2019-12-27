@@ -1531,8 +1531,133 @@ Provided that neither the privileges nor the allowances of a Judge nor his right
 (2) It shall be the duty of the Judge who has been so designated, in priority to other duties of his office, to attend the sittings of the Supreme Court at the time and for the period for which his attendance is required, and while so attending he shall have all the jurisdiction, powers and privileges, and shall discharge the duties, of a Judge of the Supreme Court.  
 
 128. Attendance of retired Judges at sittings of the Supreme Court.—Notwithstanding anything in this Chapter, <sup id="page60sup3">[3](#page60footer3)</sup>[the National Judicial Appointments Commission] may at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court or of the Federal Court <sup id="page60sup4">[4](#page60footer4)</sup>[or who has held the office of a Judge of a High Court and is duly qualified for appointment as a Judge of the Supreme Court] to sit and act as a Judge of the Supreme Court, and every such person so requested shall, while so sitting and acting, be entitled to such allowances as the President may by order determine and have all the jurisdiction, powers and privileges of, but shall not otherwise be deemed to be, a Judge of that Court:  
+Provided that nothing in this article shall be deemed to require any such person as aforesaid to sit and act as a Judge of that Court unless he consents so to do.
 
 ><b id="page60footer1">[1]</b> Subs. by the Constitution (Fifty-Fourth Amendment) Act, 1986, s. 2, for “clause (1)” (w.e.f. 1-4-1986). [↩](#page60sup1)  
 ><b id="page60footer2">[2]</b> Subs. by the Constitution (Ninety-ninth Amendment) Act, 2014, s. 4, for “the Chief Justice of India may, with the previous consent of the President” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117.[↩](#page60sup2)  
 ><b id="page60footer3">[3]</b>Subs. by ibid., s. 5, for “the Chief Justice of India” (w.e.f. 13-4-2015). This amendment has been struck down by the Supreme Court vide its order dated the 16th October, 2015 in the Supreme Court Advocates-on-Record Association and Another Vs. Union of India reported in AIR 2016 SC 117. [↩](#page60sup3)  
 ><b id="page60footer4">[4]</b>Ins. by the Constitution (Fifteenth Amendment) Act, 1963, s. 3 (w.e.f. 5-10-1963).[↩](#page60sup4)  
+129. Supreme Court to be a court of record.—The Supreme Court shall be a court of record and shall have all the powers of such a court including the power to punish for contempt of itself.  
+
+130. Seat of Supreme Court.—The Supreme Court shall sit in Delhi or in such other place or places, as the Chief Justice of India may, with the approval of the President, from time to time, appoint.  
+
+131. Original jurisdiction of the Supreme Court.—Subject to the provisions of this Constitution, the Supreme Court shall, to the exclusion of any other court, have original jurisdiction in any dispute—  
+(a) between the Government of India and one or more States; or  
+(b) between the Government of India and any State or States on one side and one or more other
+States on the other; or  
+(c) between two or more States,  
+if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends:  
+<sup id="page61sup1">[1](#page61footer1)</sup>[Provided that the said jurisdiction shall not extend to a dispute arising out of any treaty, agreement, covenant, engagement, sanad or other similar instrument which, having been entered into or executed before the commencement of this Constitution, continues in operation after such commencement, or which provides that the said jurisdiction shall not extend to such a dispute.]  
+<sup id="page61sup2">[2](#page61footer2)</sup>[131A. Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central laws.].–Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 4 (w.e.f. 13-4-1978).  
+
+132. Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases.—(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding, <sup id="page61sup3">[3](#page61footer3)</sup>[if the High Court certifies under article 134A] that the case involves a substantial question of law as to the interpretation of this Constitution.  
+<sup id="page61sup4">[4](#page61footer4)</sup>* * * * *  
+(3) Where such a certificate is given,<sup id="page61sup5">[5](#page61footer5)</sup>*** any party in the case may appeal to the Supreme Court on the ground that any such question as aforesaid has been wrongly decided <sup id="page61sup5">[5](#page61footer5)</sup>***.  
+Explanation.—For the purposes of this article, the expression “final order” includes an order deciding an issue which, if decided in favour of the appellant, would be sufficient for the final disposal of the case.  
+
+133. Appellate jurisdiction of Supreme Court in appeals from High Courts in regard to civil matters.—<sup id="page61sup6">[6](#page61footer6)</sup>[(1) An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India <sup id="page61sup7">[7](#page61footer7)</sup>[if the High Court certifies under article 134A—]  
+(a) that the case involves a substantial question of law of general importance; and  
+(b) that in the opinion of the High Court the said question needs to be decided by the Supreme Court.]  
+(2) Notwithstanding anything in article 132, any party appealing to the Supreme Court under clause (1) may urge as one of the grounds in such appeal that a substantial question of law as to the interpretation of this Constitution has been wrongly decided.  
+(3) Notwithstanding anything in this article, no appeal shall, unless Parliament by law otherwise provides, lie to the Supreme Court from the judgment, decree or final order of one Judge of a High Court.  
+
+><b id="page61footer1">[1]</b>Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 5, for the proviso (w.e.f. 1-11-1956). [↩](#page61sup1)  
+><b id="page61footer2">[2]</b>  Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 23 (w.e.f. 1-2-1977).[↩](#page61sup2)  
+><b id="page61footer3">[3]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 17, for “if the High Court certifies” (w.e.f. 1-8-1979). [↩](#page61sup3)  
+><b id="page61footer4">[4]</b>Cl. (2) omitted by ibid.[↩](#page61sup4)  
+><b id="page61footer5">[5]</b>Certain words omitted by ibid. [↩](#page61sup5)  
+><b id="page61footer6">[6]</b>Subs. by the Constitution (Thirtieth Amendment) Act, 1972, s. 2, for cl. (1) (w.e.f. 27-2-1973).[↩](#page61sup6)  
+><b id="page61footer7">[7]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 18, for “if the High Court certifies” (w.e.f. 1-8-1979). [↩](#page61sup7)  
+
+134. Appellate jurisdiction of Supreme Court in regard to criminal matters.—(1) An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court—  
+(a) has on appeal reversed an order of acquittal of an accused person and sentenced him to death; or  
+(b) has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or  
+(c) <sup id="page62sup1">[1](#page62footer1)</sup>[certifies under article 134A] that the case is a fit one for appeal to the Supreme Court:  
+Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require.  
+(2) Parliament may by law confer on the Supreme Court any further powers to entertain and hear appeals from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India subject to such conditions and limitations as may be specified in such law.  
+<sup id="page62sup2">[2](#page62footer2)</sup>[134A. Certificate for appeal to the Supreme Court.—Every High Court, passing or making a judgment, decree, final order, or sentence, referred to in clause (1) of article 132 or clause (1) of article 133, or clause (1) of article 134,—  
+(a) may, if it deems fit so to do, on its own motion; and  
+(b) shall, if an oral application is made, by or on behalf of the party aggrieved, immediately after
+the passing or making of such judgment, decree, final order or sentence,  
+determine, as soon as may be after such passing or making, the question whether a certificate of the nature referred to in clause (1) of article 132, or clause (1) of article 133 or, as the case may be, sub-clause (c) of clause (1) of article 134, may be given in respect of that case.]  
+
+135. Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court.—Until Parliament by law otherwise provides, the Supreme Court shall also have jurisdiction and powers with respect to any matter to which the provisions of article 133 or article 134 do not apply if jurisdiction and powers in relation to that matter were exercisable by the Federal Court immediately before the commencement of this Constitution under any existing law.  
+
+136. Special leave to appeal by the Supreme Court.—(1) Notwithstanding anything in this Chapter, the Supreme Court may, in its discretion, grant special leave to appeal from any judgment, decree, determination, sentence or order in any cause or matter passed or made by any court or tribunal in the territory of India.  
+(2) Nothing in clause (1) shall apply to any judgment, determination, sentence or order passed or made by any court or tribunal constituted by or under any law relating to the Armed Forces.  
+
+137. Review of judgments or orders by the Supreme Court.—Subject to the provisions of any law made by Parliament or any rules made under article 145, the Supreme Court shall have power to review any judgment pronounced or order made by it.  
+
+><b id="page62footer1">[1]</b>Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 19, for “certifies” (w.e.f. 1-8-1979). [↩](#page62sup1)  
+><b id="page62footer2">[2]</b>  Ins. by ibid., s. 20.[↩](#page62sup2)  
+
+138. Enlargement of the jurisdiction of the Supreme Court.—(1) The Supreme Court shall have such further jurisdiction and powers with respect to any of the matters in the Union List as Parliament may by law confer.  
+(2) The Supreme Court shall have such further jurisdiction and powers with respect to any matter as the Government of India and the Government of any State may by special agreement confer, if Parliament by law provides for the exercise of such jurisdiction and powers by the Supreme Court.  
+
+139. Conferment on the Supreme Court of powers to issue certain writs.—Parliament may by law confer on the Supreme Court power to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them, for any purposes other than those mentioned in clause (2) of article 32.  
+<sup id="page63sup1">[1](#page63footer1)</sup>[139A. Transfer of certain cases.—<sup id="page63sup2">[2](#page63footer2)</sup>[(1) Where cases involving the same or substantially the same questions of law are pending before the Supreme Court and one or more High Courts or before two or more High Courts and the Supreme Court is satisfied on its own motion or on an application made by the Attorney-General of India or by a party to any such case that such questions are substantial questions of general importance, the Supreme Court may withdraw the case or cases pending before the High Court or the High Courts and dispose of all the cases itself:  
+Provided that the Supreme Court may after determining the said questions of law return any case so withdrawn together with a copy of its judgment on such questions to the High Court from which the case has been withdrawn, and the High Court shall on receipt thereof, proceed to dispose of the case in conformity with such judgment.]  
+(2) The Supreme Court may, if it deems it expedient so to do for the ends of justice, transfer any case, appeal or other proceedings pending before any High Court to any other High Court.]  
+
+140. Ancillary powers of Supreme Court.—Parliament may by law make provision for conferring upon the Supreme Court such supplemental powers not inconsistent with any of the provisions of this Constitution as may appear to be necessary or desirable for the purpose of enabling the Court more effectively to exercise the jurisdiction conferred upon it by or under this Constitution.  
+
+141. Law declared by Supreme Court to be binding on all courts.—The law declared by the Supreme Court shall be binding on all courts within the territory of India.  
+
+142. Enforcement of decrees and orders of Supreme Court and orders as to discovery, etc.—(1) The Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it, and any decree so passed or order so made shall be enforceable throughout the territory of India in such manner as may be prescribed by or under any law made by Parliament and, until provision in that behalf is so made, in such manner as the President may by order<sup id="page63sup3">[3](#page63footer3)</sup> prescribe.  
+(2) Subject to the provisions of any law made in this behalf by Parliament, the Supreme Court shall, as respects the whole of the territory of India, have all and every power to make any order for the purpose of securing the attendance of any person, the discovery or production of any documents, or the investigation or punishment of any contempt of itself.  
+
+143. Power of President to consult Supreme Court.—(1) If at any time it appears to the President that a question of law or fact has arisen, or is likely to arise, which is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer the question to that Court for consideration and the Court may, after such hearing as it thinks fit, report to the President its opinion thereon.  
+
+><b id="page63footer1">[1]</b>Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 24 (w.e.f. 1-2-1977).[↩](#page63sup1)  
+><b id="page63footer2">[2]</b> Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 21, for cl. (1) (w.e.f. 1-8-1979). [↩](#page63sup2)  
+><b id="page63footer3">[3]</b>   See the Supreme Court (Decrees and Orders) Enforcement Order, 1954 (C.O. 47).[↩](#page63sup3) 
+
+(2) The President may, notwithstanding anything in 1*** the proviso to article 131, refer a dispute of the kind mentioned in the 2[said proviso] to the Supreme Court for opinion and the Supreme Court shall, after such hearing as it thinks fit, report to the President its opinion thereon.  
+
+144. Civil and judicial authorities to act in aid of the Supreme Court.—All authorities, civil and judicial, in the territory of India shall act in aid of the Supreme Court.  
+3[144A. Special provisions as to disposal of questions relating to constitutional validity of laws.]- Omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 5 (w.e.f. 13-4-1978).  
+
+145. Rules of Court, etc.—(1) Subject to the provisions of any law made by Parliament, the Supreme Court may from time to time, with the approval of the President, make rules for regulating generally the practice and procedure of the Court including—  
+(a) rules as to the persons practising before the Court;  
+(b) rules as to the procedure for hearing appeals and other matters pertaining to appeals including the time within which appeals to the Court are to be entered;  
+(c) rules as to the proceedings in the Court for the enforcement of any of the rights conferred by Part III;  
+4[(cc) rules as to the proceedings in the Court under 5[article 139A];]  
+(d) rules as to the entertainment of appeals under sub-clause (c) of clause (1) of article 134;  
+(e) rules as to the conditions subject to which any judgment pronounced or order made by the Court may be reviewed and the procedure for such review including the time within which applications to the Court for such review are to be entered;  
+(f) rules as to the costs of and incidental to any proceedings in the Court and as to the fees to be charged in respect of proceedings therein;  
+(g) rules as to the granting of bail;  
+(h) rules as to stay of proceedings;  
+(i) rules providing for the summary determination of any appeal which appears to the Court to be frivolous or vexatious or brought for the purpose of delay;  
+(j) rules as to the procedure for inquiries referred to in clause (1) of article 317.  
+(2) Subject to the 6[provisions of 7*** clause (3)], rules made under this article may fix the minimum number of Judges who are to sit for any purpose, and may provide for the powers of single Judges and Division Courts.  
+(3) 8[4***The minimum number] of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under article 143 shall be five:  
+Provided that, where the Court hearing an appeal under any of the provisions of this Chapter other than article 132 consists of less than five Judges and in the course of the hearing of the appeal the Court is satisfied that the appeal involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the appeal, such Court shall refer the question for opinion to a Court constituted as required by this clause for the purpose of deciding any case involving such a question and shall on receipt of the opinion dispose of the appeal in conformity with such opinion.  
+(4) No judgment shall be delivered by the Supreme Court save in open Court, and no report shall be made under article 143 save in accordance with an opinion also delivered in open Court.  
+(5) No judgment and no such opinion shall be delivered by the Supreme Court save with the concurrence of a majority of the Judges present at the hearing of the case, but nothing in this clause shall be deemed to prevent a Judge who does not concur from delivering a dissenting judgment or opinion.  
+
+><b id="page64footer1">[1]</b>The words, brackets and figure “clause (i) of” omitted by the Constitution (Seventh Amendment) Act, 1956 (w.e.f. 1-11-1956). [↩](#page64sup1)  
+><b id="page64footer2">[2]</b> Subs. by ibid., for “said clause”.[↩](#page64sup2)  
+><b id="page64footer3">[3]</b>Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 25 (w.e.f. 3-1-1977). [↩](#page64sup3)  
+><b id="page64footer4">[4]</b>Ins by the Constitution (Forty-second Amendment) Act, 1976, s. 26 (w.e.f. 1-2-1977).[↩](#page64sup4)  
+><b id="page64footer5">[5]</b>Subs.by the Constitution (Forty-third Amendment) Act, 1977, s. 6, for “articles 131A and 139A” (w.e.f. 13-4-1978). [↩](#page64sup5)  
+><b id="page64footer6">[6]</b>Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 26, for the words “provisions of clause (3)” (w.e.f. 1-2-1977). [↩](#page64sup6)  
+><b id="page64footer7">[7]</b>Certain words omitted by the Constitution (Forty-third Amendment) Act, 1977, s. 6 (w.e.f. 13-4-1978). [↩](#page64sup7) 
+><b id="page64footer8">[8]</b>Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 26, for “The minimum number” (w.e.f. 1-2-1977). [↩](#page64sup8) 
+
+146. Officers and servants and the expenses of the Supreme Court.—(1) Appointments of officers and servants of the Supreme Court shall be made by the Chief Justice of India or such other Judge or officer of the Court as he may direct:
+Provided that the President may by rule require that in such cases as may be specified in the rule, no person not already attached to the Court shall be appointed to any office connected with the Court, save after consultation with the Union Public Service Commission.  
+(2) Subject to the provisions of any law made by Parliament, the conditions of service of officers and servants of the Supreme Court shall be such as may be prescribed by rules made by the Chief Justice of India or by some other Judge or officer of the Court authorised by the Chief Justice of India to make rules for the purpose:  
+Provided that the rules made under this clause shall, so far as they relate to salaries, allowances, leave or pensions, require the approval of the President.  
+(3) The administrative expenses of the Supreme Court, including all salaries, allowances and pensions payable to or in respect of the officers and servants of the Court, shall be charged upon the Consolidated Fund of India, and any fees or other moneys taken by the Court shall form part of that Fund.  
+
+147. Interpretation.—In this Chapter and in Chapter V of Part VI, references to any substantial question of law as to the interpretation of this Constitution shall be construed as including references to any substantial question of law as to the interpretation of the Government of India Act, 1935 (including any enactment amending or supplementing that Act), or of any Order in Council or order made thereunder, or of the Indian Independence Act, 1947, or of any order made thereunder.  
+
+<p align="center">CHAPTER V.—COMPTROLLER AND AUDITOR-GENERAL OF INDIA</p>
+
+148. Comptroller and Auditor-General of India.—(1) There shall be a Comptroller and Auditor- General of India who shall be appointed by the President by warrant under his hand and seal and shall only be removed from office in like manner and on the like grounds as a Judge of the Supreme Court.  
+(2) Every person appointed to be the Comptroller and Auditor-General of India shall, before he enters upon his office, make and subscribe before the President, or some person appointed in that behalf by him, an oath or affirmation according to the form set out for the purpose in the Third Schedule.  
+(3) The salary and other conditions of service of the Comptroller and Auditor-General shall be such as may be determined by Parliament by law and, until they are so determined, shall be as specified in the Second Schedule:  
+Provided that neither the salary of a Comptroller and Auditor-General nor his rights in respect of leave of absence, pension or age of retirement shall be varied to his disadvantage after his appointment.  
+(4) The Comptroller and Auditor-General shall not be eligible for further office either under the Government of India or under the Government of any State after he has ceased to hold his office.  
+(5) Subject to the provisions of this Constitution and of any law made by Parliament, the conditions of service of persons serving in the Indian Audit and Accounts Department and the administrative powers of the Comptroller and Auditor-General shall be such as may be prescribed by rules made by the President after consultation with the Comptroller and Auditor-General.  
+(6) The administrative expenses of the office of the Comptroller and Auditor-General, including all salaries, allowances and pensions payable to or in respect of persons serving in that office, shall be charged upon the Consolidated Fund of India.  
